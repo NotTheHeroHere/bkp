@@ -1,0 +1,535 @@
+[19:46:07] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[19:46:13] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:46:13] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:46:13] [ServerMain/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19:46:13] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19:46:13] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:46:14] [Worker-Main-10/INFO]: Loaded 7 recipes
+[19:46:14] [Worker-Main-10/INFO]: Loaded 1141 advancements
+[19:46:17] [Server thread/INFO]: Starting minecraft server version 1.18.2
+[19:46:17] [Server thread/INFO]: Loading properties
+[19:46:17] [Server thread/INFO]: Default game type: SURVIVAL
+[19:46:17] [Server thread/INFO]: Generating keypair
+[19:46:17] [Server thread/INFO]: Starting Minecraft server on 88.99.11.184:25565
+[19:46:17] [Server thread/INFO]: Using epoll channel type
+[19:46:17] [Server thread/INFO]: Preparing level "world"
+[19:46:18] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:46:19] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[19:46:19] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[19:46:19] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[19:46:19] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[19:46:20] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[19:46:21] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[19:46:21] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[19:46:21] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[19:46:22] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[19:46:22] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[19:46:23] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[19:46:23] [Worker-Main-9/INFO]: Preparing spawn area: 2%
+[19:46:24] [Worker-Main-6/INFO]: Preparing spawn area: 9%
+[19:46:24] [Worker-Main-7/INFO]: Preparing spawn area: 10%
+[19:46:25] [Worker-Main-8/INFO]: Preparing spawn area: 10%
+[19:46:25] [Worker-Main-8/INFO]: Preparing spawn area: 10%
+[19:46:26] [Worker-Main-9/INFO]: Preparing spawn area: 10%
+[19:46:26] [Worker-Main-7/INFO]: Preparing spawn area: 11%
+[19:46:27] [Worker-Main-7/INFO]: Preparing spawn area: 31%
+[19:46:27] [Worker-Main-8/INFO]: Preparing spawn area: 31%
+[19:46:28] [Worker-Main-8/INFO]: Preparing spawn area: 48%
+[19:46:29] [Server thread/INFO]: Time elapsed: 11128 ms
+[19:46:29] [Server thread/INFO]: Done (11.354s)! For help, type "help"
+[19:46:42] [User Authenticator #1/INFO]: UUID of player NotTheHeroHere is 6435c2b0-db69-4d6b-9182-eb4b0a9ba0fc
+[19:46:43] [Server thread/INFO]: NotTheHeroHere[/83.233.247.126:23897] logged in with entity id 128 at (7.967264284775544, -1.4039871362953216, 9.321213990178013)
+[19:46:43] [Server thread/INFO]: NotTheHeroHere joined the game
+[19:46:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2435ms or 48 ticks behind
+[19:47:11] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:47:11] [Server thread/INFO]: tp<--[HERE]
+[19:47:11] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:47:11] [Server thread/INFO]: <--[HERE]
+[19:47:11] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:47:11] [Server thread/INFO]: <--[HERE]
+[19:47:11] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:47:11] [Server thread/INFO]: <--[HERE]
+[19:47:11] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:47:11] [Server thread/INFO]: <--[HERE]
+[19:47:11] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:47:11] [Server thread/INFO]: <--[HERE]
+[19:47:11] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:47:11] [Server thread/INFO]: <--[HERE]
+[19:47:11] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:47:11] [Server thread/INFO]: <--[HERE]
+[19:47:11] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:47:11] [Server thread/INFO]: <--[HERE]
+[19:47:11] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:47:11] [Server thread/INFO]: <--[HERE]
+[19:47:11] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:47:11] [Server thread/INFO]: <--[HERE]
+[19:47:11] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:47:11] [Server thread/INFO]: <--[HERE]
+[19:47:11] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:47:11] [Server thread/INFO]: <--[HERE]
+[19:47:11] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:47:11] [Server thread/INFO]: <--[HERE]
+[19:47:11] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:47:11] [Server thread/INFO]: <--[HERE]
+[19:47:11] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:47:11] [Server thread/INFO]: <--[HERE]
+[19:47:11] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:47:11] [Server thread/INFO]: <--[HERE]
+[19:47:11] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:47:11] [Server thread/INFO]: <--[HERE]
+[19:47:11] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:47:11] [Server thread/INFO]: <--[HERE]
+[19:47:11] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:47:11] [Server thread/INFO]: <--[HERE]
+[19:47:11] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:47:11] [Server thread/INFO]: <--[HERE]
+[19:47:11] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:47:11] [Server thread/INFO]: <--[HERE]
+[19:47:11] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:47:11] [Server thread/INFO]: <--[HERE]
+[19:47:11] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:47:11] [Server thread/INFO]: <--[HERE]
+[19:47:11] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:47:11] [Server thread/INFO]: <--[HERE]
+[19:47:11] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:47:11] [Server thread/INFO]: <--[HERE]
+[19:47:11] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:47:11] [Server thread/INFO]: <--[HERE]
+[19:47:11] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:47:11] [Server thread/INFO]: <--[HERE]
+[19:47:11] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:47:11] [Server thread/INFO]: <--[HERE]
+[19:47:11] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:47:11] [Server thread/INFO]: <--[HERE]
+[19:47:11] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:47:11] [Server thread/INFO]: <--[HERE]
+[19:47:11] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:47:11] [Server thread/INFO]: <--[HERE]
+[19:47:11] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:47:11] [Server thread/INFO]: <--[HERE]
+[19:47:11] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:47:11] [Server thread/INFO]: <--[HERE]
+[19:47:11] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:47:11] [Server thread/INFO]: <--[HERE]
+[19:47:11] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:47:11] [Server thread/INFO]: <--[HERE]
+[19:47:11] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:47:11] [Server thread/INFO]: <--[HERE]
+[19:47:11] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:47:11] [Server thread/INFO]: <--[HERE]
+[19:47:11] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:47:11] [Server thread/INFO]: <--[HERE]
+[19:47:11] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:47:11] [Server thread/INFO]: <--[HERE]
+[19:47:11] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:47:11] [Server thread/INFO]: <--[HERE]
+[19:47:11] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:47:11] [Server thread/INFO]: <--[HERE]
+[19:47:11] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:47:11] [Server thread/INFO]: <--[HERE]
+[19:47:11] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:47:11] [Server thread/INFO]: <--[HERE]
+[19:47:11] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:47:11] [Server thread/INFO]: <--[HERE]
+[19:47:11] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:47:11] [Server thread/INFO]: <--[HERE]
+[19:47:11] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:47:11] [Server thread/INFO]: <--[HERE]
+[19:47:11] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:47:11] [Server thread/INFO]: <--[HERE]
+[19:47:24] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:47:24] [Server thread/INFO]: <--[HERE]
+[19:47:35] [Server thread/INFO]: NotTheHeroHere lost connection: Disconnected
+[19:47:35] [Server thread/INFO]: NotTheHeroHere left the game
+[19:47:35] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:47:35] [Server thread/INFO]: s<--[HERE]
+[19:47:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 36530ms or 730 ticks behind
+[19:47:37] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:47:37] [Server thread/INFO]: a<--[HERE]
+[19:47:37] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:47:37] [Server thread/INFO]: s<--[HERE]
+[19:47:38] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:47:38] [Server thread/INFO]: d<--[HERE]
+[19:47:38] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:47:38] [Server thread/INFO]: wa<--[HERE]
+[19:47:39] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:47:39] [Server thread/INFO]: as<--[HERE]
+[19:47:39] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:47:39] [Server thread/INFO]: d<--[HERE]
+[19:47:39] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:47:39] [Server thread/INFO]: a<--[HERE]
+[19:47:42] [User Authenticator #2/INFO]: UUID of player NotTheHeroHere is 6435c2b0-db69-4d6b-9182-eb4b0a9ba0fc
+[19:47:42] [Server thread/INFO]: NotTheHeroHere[/83.233.247.126:23983] logged in with entity id 24379 at (7.967264284775544, -1.4039871362953216, 9.321213990178013)
+[19:47:42] [Server thread/INFO]: NotTheHeroHere joined the game
+[19:48:17] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:17] [Server thread/INFO]: s<--[HERE]
+[19:48:21] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:21] [Server thread/INFO]: asda<--[HERE]
+[19:48:28] [Server thread/INFO]: NotTheHeroHere lost connection: Disconnected
+[19:48:28] [Server thread/INFO]: NotTheHeroHere left the game
+[19:48:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 37298ms or 745 ticks behind
+[19:48:29] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:29] [Server thread/INFO]: asd<--[HERE]
+[19:48:30] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:30] [Server thread/INFO]: a<--[HERE]
+[19:48:30] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:30] [Server thread/INFO]: sd<--[HERE]
+[19:48:30] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:30] [Server thread/INFO]: as<--[HERE]
+[19:48:30] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:30] [Server thread/INFO]: da<--[HERE]
+[19:48:30] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:30] [Server thread/INFO]: s<--[HERE]
+[19:48:30] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:30] [Server thread/INFO]: ads<--[HERE]
+[19:48:31] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:31] [Server thread/INFO]: ad<--[HERE]
+[19:48:31] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:31] [Server thread/INFO]: a<--[HERE]
+[19:48:31] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:31] [Server thread/INFO]: <--[HERE]
+[19:48:32] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:32] [Server thread/INFO]: <--[HERE]
+[19:48:33] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:33] [Server thread/INFO]: <--[HERE]
+[19:48:33] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:33] [Server thread/INFO]: <--[HERE]
+[19:48:33] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:33] [Server thread/INFO]: <--[HERE]
+[19:48:33] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:33] [Server thread/INFO]: <--[HERE]
+[19:48:33] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:33] [Server thread/INFO]: <--[HERE]
+[19:48:33] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:33] [Server thread/INFO]: <--[HERE]
+[19:48:33] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:33] [Server thread/INFO]: <--[HERE]
+[19:48:33] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:33] [Server thread/INFO]: <--[HERE]
+[19:48:33] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:33] [Server thread/INFO]: <--[HERE]
+[19:48:33] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:33] [Server thread/INFO]: <--[HERE]
+[19:48:33] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:33] [Server thread/INFO]: <--[HERE]
+[19:48:33] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:33] [Server thread/INFO]: <--[HERE]
+[19:48:33] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:33] [Server thread/INFO]: <--[HERE]
+[19:48:33] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:33] [Server thread/INFO]: <--[HERE]
+[19:48:33] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:33] [Server thread/INFO]: <--[HERE]
+[19:48:33] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:33] [Server thread/INFO]: <--[HERE]
+[19:48:33] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:33] [Server thread/INFO]: <--[HERE]
+[19:48:33] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:33] [Server thread/INFO]: <--[HERE]
+[19:48:33] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:33] [Server thread/INFO]: <--[HERE]
+[19:48:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:34] [Server thread/INFO]: <--[HERE]
+[19:48:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:34] [Server thread/INFO]: <--[HERE]
+[19:48:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:34] [Server thread/INFO]: <--[HERE]
+[19:48:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:34] [Server thread/INFO]: <--[HERE]
+[19:48:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:34] [Server thread/INFO]: <--[HERE]
+[19:48:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:34] [Server thread/INFO]: <--[HERE]
+[19:48:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:34] [Server thread/INFO]: <--[HERE]
+[19:48:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:34] [Server thread/INFO]: <--[HERE]
+[19:48:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:34] [Server thread/INFO]: <--[HERE]
+[19:48:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:34] [Server thread/INFO]: <--[HERE]
+[19:48:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:34] [Server thread/INFO]: <--[HERE]
+[19:48:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:34] [Server thread/INFO]: <--[HERE]
+[19:48:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:34] [Server thread/INFO]: <--[HERE]
+[19:48:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:34] [Server thread/INFO]: <--[HERE]
+[19:48:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:34] [Server thread/INFO]: <--[HERE]
+[19:48:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:34] [Server thread/INFO]: asd<--[HERE]
+[19:48:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:34] [Server thread/INFO]: [3~a<--[HERE]
+[19:48:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:34] [Server thread/INFO]: s<--[HERE]
+[19:48:35] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:35] [Server thread/INFO]: asd<--[HERE]
+[19:48:35] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:35] [Server thread/INFO]: dsa<--[HERE]
+[19:48:35] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:35] [Server thread/INFO]: dsa<--[HERE]
+[19:48:35] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:35] [Server thread/INFO]: sfad<--[HERE]
+[19:48:35] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:35] [Server thread/INFO]: sad<--[HERE]
+[19:48:35] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:35] [Server thread/INFO]: dsa<--[HERE]
+[19:48:35] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:35] [Server thread/INFO]: dsf<--[HERE]
+[19:48:36] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:36] [Server thread/INFO]: f<--[HERE]
+[19:48:36] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:36] [Server thread/INFO]: sa<--[HERE]
+[19:48:39] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:39] [Server thread/INFO]: a<--[HERE]
+[19:48:39] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:39] [Server thread/INFO]: <--[HERE]
+[19:48:39] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:39] [Server thread/INFO]: a<--[HERE]
+[19:48:40] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:40] [Server thread/INFO]: a<--[HERE]
+[19:48:40] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:40] [Server thread/INFO]: a<--[HERE]
+[19:48:40] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:40] [Server thread/INFO]: a<--[HERE]
+[19:48:41] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:41] [Server thread/INFO]: a<--[HERE]
+[19:48:41] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:41] [Server thread/INFO]: a<--[HERE]
+[19:48:41] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:41] [Server thread/INFO]: a<--[HERE]
+[19:48:42] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:42] [Server thread/INFO]: a<--[HERE]
+[19:48:42] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:42] [Server thread/INFO]: a<--[HERE]
+[19:48:43] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:43] [Server thread/INFO]: a<--[HERE]
+[19:48:45] [Server thread/INFO]: com.mojang.authlib.GameProfile@5c4f691[id=<null>,name=NotTheHeroHere,properties={},legacy=false] (/83.233.247.126:24016) lost connection: Disconnected
+[19:48:47] [User Authenticator #3/INFO]: UUID of player NotTheHeroHere is 6435c2b0-db69-4d6b-9182-eb4b0a9ba0fc
+[19:48:47] [Server thread/INFO]: NotTheHeroHere[/83.233.247.126:24019] logged in with entity id 49301 at (-4.2845253550644395, -7.7334504323082855, 10.65243024016628)
+[19:48:47] [Server thread/INFO]: NotTheHeroHere joined the game
+[19:48:47] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:47] [Server thread/INFO]: aa<--[HERE]
+[19:48:47] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:47] [Server thread/INFO]: a<--[HERE]
+[19:48:49] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:49] [Server thread/INFO]: a<--[HERE]
+[19:48:49] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:49] [Server thread/INFO]: a<--[HERE]
+[19:48:49] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:49] [Server thread/INFO]: a<--[HERE]
+[19:48:49] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:49] [Server thread/INFO]: a<--[HERE]
+[19:48:49] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:49] [Server thread/INFO]: a<--[HERE]
+[19:48:50] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:50] [Server thread/INFO]: a<--[HERE]
+[19:48:50] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:50] [Server thread/INFO]: a<--[HERE]
+[19:48:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2445ms or 48 ticks behind
+[19:48:51] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:51] [Server thread/INFO]: a<--[HERE]
+[19:48:51] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:51] [Server thread/INFO]: a<--[HERE]
+[19:48:51] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:51] [Server thread/INFO]: <--[HERE]
+[19:48:51] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:51] [Server thread/INFO]: aa<--[HERE]
+[19:48:51] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:51] [Server thread/INFO]: <--[HERE]
+[19:48:51] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:51] [Server thread/INFO]: a<--[HERE]
+[19:48:51] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:51] [Server thread/INFO]: <--[HERE]
+[19:48:51] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:51] [Server thread/INFO]: a<--[HERE]
+[19:48:52] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:52] [Server thread/INFO]: a<--[HERE]
+[19:48:52] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:52] [Server thread/INFO]: <--[HERE]
+[19:48:52] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:52] [Server thread/INFO]: a<--[HERE]
+[19:48:52] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:52] [Server thread/INFO]: a<--[HERE]
+[19:48:53] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:53] [Server thread/INFO]: aa<--[HERE]
+[19:48:53] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:53] [Server thread/INFO]: a<--[HERE]
+[19:48:53] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:53] [Server thread/INFO]: a<--[HERE]
+[19:48:53] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:53] [Server thread/INFO]: <--[HERE]
+[19:48:53] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:53] [Server thread/INFO]: a<--[HERE]
+[19:48:54] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:54] [Server thread/INFO]: a<--[HERE]
+[19:48:54] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:54] [Server thread/INFO]: a<--[HERE]
+[19:48:54] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:54] [Server thread/INFO]: a<--[HERE]
+[19:48:54] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:54] [Server thread/INFO]: a<--[HERE]
+[19:48:54] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:54] [Server thread/INFO]: <--[HERE]
+[19:48:54] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:54] [Server thread/INFO]: a<--[HERE]
+[19:48:55] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:55] [Server thread/INFO]: a<--[HERE]
+[19:48:55] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:55] [Server thread/INFO]: a<--[HERE]
+[19:48:55] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:55] [Server thread/INFO]: <--[HERE]
+[19:48:55] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:55] [Server thread/INFO]: <--[HERE]
+[19:48:56] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:56] [Server thread/INFO]: a<--[HERE]
+[19:48:58] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:58] [Server thread/INFO]: aaaaaaaaaaaaa<--[HERE]
+[19:48:58] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:58] [Server thread/INFO]: a<--[HERE]
+[19:48:58] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:58] [Server thread/INFO]: a<--[HERE]
+[19:48:59] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:59] [Server thread/INFO]: <--[HERE]
+[19:48:59] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:48:59] [Server thread/INFO]: a<--[HERE]
+[19:49:01] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:49:01] [Server thread/INFO]: aaaaaaaaaaaaa<--[HERE]
+[19:49:01] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:49:01] [Server thread/INFO]: <--[HERE]
+[19:49:01] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:49:01] [Server thread/INFO]: <--[HERE]
+[19:49:01] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:49:01] [Server thread/INFO]: <--[HERE]
+[19:49:01] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:49:01] [Server thread/INFO]: <--[HERE]
+[19:49:01] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:49:01] [Server thread/INFO]: a<--[HERE]
+[19:49:01] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:49:01] [Server thread/INFO]: <--[HERE]
+[19:49:01] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:49:01] [Server thread/INFO]: a<--[HERE]
+[19:49:01] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:49:01] [Server thread/INFO]: a<--[HERE]
+[19:49:03] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:49:03] [Server thread/INFO]: <--[HERE]
+[19:49:03] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:49:03] [Server thread/INFO]: <--[HERE]
+[19:49:03] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:49:03] [Server thread/INFO]: a<--[HERE]
+[19:49:03] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:49:03] [Server thread/INFO]: a<--[HERE]
+[19:49:03] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:49:03] [Server thread/INFO]: <--[HERE]
+[19:49:03] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:49:03] [Server thread/INFO]: a<--[HERE]
+[19:49:03] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:49:03] [Server thread/INFO]: a<--[HERE]
+[19:49:03] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:49:03] [Server thread/INFO]: a<--[HERE]
+[19:49:03] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:49:03] [Server thread/INFO]: a<--[HERE]
+[19:49:03] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:49:03] [Server thread/INFO]: a<--[HERE]
+[19:49:03] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:49:03] [Server thread/INFO]: <--[HERE]
+[19:49:03] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:49:03] [Server thread/INFO]: a<--[HERE]
+[19:49:03] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:49:03] [Server thread/INFO]: a<--[HERE]
+[19:49:04] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:49:04] [Server thread/INFO]: <--[HERE]
+[19:49:04] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:49:04] [Server thread/INFO]: aa<--[HERE]
+[19:49:04] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:49:04] [Server thread/INFO]: <--[HERE]
+[19:49:04] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:49:04] [Server thread/INFO]: a<--[HERE]
+[19:49:04] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:49:04] [Server thread/INFO]: a<--[HERE]
+[19:49:04] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:49:04] [Server thread/INFO]: <--[HERE]
+[19:49:04] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:49:04] [Server thread/INFO]: a<--[HERE]
+[19:49:04] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:49:04] [Server thread/INFO]: <--[HERE]
+[19:49:04] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:49:04] [Server thread/INFO]: a<--[HERE]
+[19:49:05] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:49:05] [Server thread/INFO]: a<--[HERE]
+[19:49:05] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:49:05] [Server thread/INFO]: <--[HERE]
+[19:49:05] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:49:05] [Server thread/INFO]: a<--[HERE]
+[19:49:05] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:49:05] [Server thread/INFO]: <--[HERE]
+[19:49:05] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:49:05] [Server thread/INFO]: a<--[HERE]
+[19:49:05] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:49:05] [Server thread/INFO]: a<--[HERE]
+[19:49:05] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:49:05] [Server thread/INFO]: <--[HERE]
+[19:49:05] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:49:05] [Server thread/INFO]: a<--[HERE]
+[19:49:05] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:49:05] [Server thread/INFO]: <--[HERE]
+[19:49:05] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:49:05] [Server thread/INFO]: a<--[HERE]
+[19:49:06] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:49:06] [Server thread/INFO]: a<--[HERE]
+[19:49:06] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:49:06] [Server thread/INFO]: a<--[HERE]
+[19:49:06] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:49:06] [Server thread/INFO]: <--[HERE]
+[19:49:06] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:49:06] [Server thread/INFO]: a<--[HERE]
+[19:49:06] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:49:06] [Server thread/INFO]: a<--[HERE]
+[19:49:06] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:49:06] [Server thread/INFO]: <--[HERE]
+[19:49:06] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:49:06] [Server thread/INFO]: a<--[HERE]
+[19:49:07] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:49:07] [Server thread/INFO]: a<--[HERE]
+[19:49:07] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:49:07] [Server thread/INFO]: <--[HERE]
+[19:49:07] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:49:07] [Server thread/INFO]: a<--[HERE]
+[19:49:07] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:49:07] [Server thread/INFO]: a<--[HERE]
+[19:49:07] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:49:07] [Server thread/INFO]: <--[HERE]
+[19:49:07] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:49:07] [Server thread/INFO]: a<--[HERE]
+[19:50:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 56483ms or 1129 ticks behind
+[19:50:18] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:50:18] [Server thread/INFO]: a<--[HERE]
+[19:50:20] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:50:20] [Server thread/INFO]: a<--[HERE]
+[19:50:20] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:50:20] [Server thread/INFO]: a<--[HERE]
+[19:50:21] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:50:21] [Server thread/INFO]: a<--[HERE]
+[19:50:21] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:50:21] [Server thread/INFO]: a<--[HERE]
+[19:50:21] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:50:21] [Server thread/INFO]: a<--[HERE]
+[19:50:21] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:50:21] [Server thread/INFO]: a<--[HERE]
+[19:50:22] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:50:22] [Server thread/INFO]: a<--[HERE]
+[19:50:57] [Server thread/INFO]: NotTheHeroHere lost connection: Disconnected
+[19:50:57] [Server thread/INFO]: NotTheHeroHere left the game
+[19:53:21] [Server thread/INFO]: Stopping the server
+[19:53:21] [Server thread/INFO]: Stopping server
+[19:53:21] [Server thread/INFO]: Saving players
+[19:53:21] [Server thread/INFO]: Saving worlds
+[19:53:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19:53:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[19:53:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[19:53:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:53:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:53:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:53:22] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

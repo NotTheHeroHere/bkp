@@ -1,0 +1,54 @@
+[23:05:30] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[23:05:35] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[23:05:35] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[23:05:35] [ServerMain/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[23:05:35] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[23:05:35] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[23:05:36] [Worker-Main-7/INFO]: Loaded 7 recipes
+[23:05:37] [Worker-Main-7/INFO]: Loaded 1141 advancements
+[23:05:40] [Server thread/INFO]: Starting minecraft server version 1.18.2
+[23:05:40] [Server thread/INFO]: Loading properties
+[23:05:40] [Server thread/INFO]: Default game type: SURVIVAL
+[23:05:40] [Server thread/INFO]: Generating keypair
+[23:05:40] [Server thread/INFO]: Starting Minecraft server on 88.99.11.184:25565
+[23:05:40] [Server thread/INFO]: Using epoll channel type
+[23:05:40] [Server thread/INFO]: Preparing level "world"
+[23:05:40] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:05:43] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[23:05:43] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[23:05:43] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[23:05:43] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[23:05:43] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[23:05:43] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[23:05:44] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[23:05:44] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[23:05:45] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[23:05:45] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[23:05:45] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[23:05:46] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[23:05:46] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[23:05:47] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[23:05:47] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[23:05:48] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[23:05:48] [Worker-Main-8/INFO]: Preparing spawn area: 3%
+[23:05:49] [Worker-Main-8/INFO]: Preparing spawn area: 4%
+[23:05:49] [Worker-Main-6/INFO]: Preparing spawn area: 8%
+[23:05:50] [Worker-Main-6/INFO]: Preparing spawn area: 11%
+[23:05:50] [Worker-Main-9/INFO]: Preparing spawn area: 16%
+[23:05:51] [Worker-Main-9/INFO]: Preparing spawn area: 37%
+[23:05:51] [Worker-Main-6/INFO]: Preparing spawn area: 67%
+[23:05:53] [Server thread/INFO]: Time elapsed: 12135 ms
+[23:05:53] [Server thread/INFO]: Done (12.385s)! For help, type "help"
+[23:06:10] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[23:06:10] [Server thread/INFO]: exit<--[HERE]
+[23:06:12] [Server thread/INFO]: Stopping the server
+[23:06:12] [Server thread/INFO]: Stopping server
+[23:06:12] [Server thread/INFO]: Saving players
+[23:06:12] [Server thread/INFO]: Saving worlds
+[23:06:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23:06:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23:06:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23:06:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:06:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:06:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:06:14] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
