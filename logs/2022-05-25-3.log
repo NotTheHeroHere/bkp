@@ -1,0 +1,51 @@
+[19:42:07] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[19:42:12] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:42:12] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:42:12] [ServerMain/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19:42:12] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19:42:12] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:42:13] [Worker-Main-10/INFO]: Loaded 7 recipes
+[19:42:14] [Worker-Main-10/INFO]: Loaded 1141 advancements
+[19:42:16] [Server thread/INFO]: Starting minecraft server version 1.18.2
+[19:42:16] [Server thread/INFO]: Loading properties
+[19:42:16] [Server thread/INFO]: Default game type: SURVIVAL
+[19:42:16] [Server thread/INFO]: Generating keypair
+[19:42:16] [Server thread/INFO]: Starting Minecraft server on 88.99.11.184:25565
+[19:42:16] [Server thread/INFO]: Using epoll channel type
+[19:42:17] [Server thread/INFO]: Preparing level "world"
+[19:42:17] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:42:19] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[19:42:19] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[19:42:19] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[19:42:19] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[19:42:19] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[19:42:19] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[19:42:20] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[19:42:21] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[19:42:21] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[19:42:21] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[19:42:22] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[19:42:22] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[19:42:23] [Worker-Main-8/INFO]: Preparing spawn area: 1%
+[19:42:23] [Worker-Main-7/INFO]: Preparing spawn area: 3%
+[19:42:24] [Worker-Main-6/INFO]: Preparing spawn area: 4%
+[19:42:24] [Worker-Main-8/INFO]: Preparing spawn area: 5%
+[19:42:25] [Worker-Main-9/INFO]: Preparing spawn area: 10%
+[19:42:25] [Worker-Main-6/INFO]: Preparing spawn area: 12%
+[19:42:26] [Worker-Main-8/INFO]: Preparing spawn area: 13%
+[19:42:26] [Worker-Main-7/INFO]: Preparing spawn area: 21%
+[19:42:27] [Worker-Main-6/INFO]: Preparing spawn area: 31%
+[19:42:27] [Worker-Main-9/INFO]: Preparing spawn area: 56%
+[19:42:28] [Worker-Main-8/INFO]: Preparing spawn area: 88%
+[19:42:29] [Server thread/INFO]: Time elapsed: 11841 ms
+[19:42:29] [Server thread/INFO]: Done (12.082s)! For help, type "help"
+[19:42:44] [User Authenticator #1/INFO]: UUID of player NotTheHeroHere is 6435c2b0-db69-4d6b-9182-eb4b0a9ba0fc
+[19:42:45] [Server thread/INFO]: NotTheHeroHere[/83.233.247.126:23807] logged in with entity id 136 at (12.660305614738032, 54.35712666513872, 7.3697342672293855)
+[19:42:45] [Server thread/INFO]: NotTheHeroHere joined the game
+[19:42:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2303ms or 46 ticks behind
+[19:43:24] [Server thread/WARN]: NotTheHeroHere moved too quickly! 0.0,-10.31250061703873,0.0
+[19:43:38] [Server thread/WARN]: NotTheHeroHere moved too quickly! -2.56592212137339,-10.123827606363157,0.06315471560466968
+[19:43:47] [Server thread/WARN]: NotTheHeroHere moved too quickly! 0.0,-10.556602614620111,0.0
+[19:43:49] [Server Watchdog/ERROR]: A single server tick took 60.00 seconds (should be max 0.05)
+[19:43:49] [Server Watchdog/ERROR]: Considering it to be crashed, server will forcibly shutdown.
+[19:43:51] [Server Watchdog/ERROR]: This crash report has been saved to: /root/minecraft/./crash-reports/crash-2022-05-25_19.43.51-server.txt

@@ -1,0 +1,1012 @@
+[12:26:57] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[12:27:03] [Worker-Main-10/INFO]: Loaded 7 recipes
+[12:27:10] [Server thread/INFO]: Starting minecraft server version 1.18.2
+[12:27:10] [Server thread/INFO]: Loading properties
+[12:27:11] [Server thread/INFO]: This server is running CraftBukkit version 3491-Spigot-b081915-95d233d (MC: 1.18.2) (Implementing API version 1.18.2-R0.1-SNAPSHOT)
+[12:27:11] [Server thread/INFO]: Debug logging is disabled
+[12:27:11] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[12:27:11] [Server thread/INFO]: Using 4 threads for Netty based IO
+[12:27:11] [Server thread/INFO]: Default game type: SURVIVAL
+[12:27:11] [Server thread/INFO]: Generating keypair
+[12:27:11] [Server thread/INFO]: Starting Minecraft server on 88.99.11.184:25565
+[12:27:12] [Server thread/INFO]: Using epoll channel type
+[12:27:14] [Server thread/INFO]: [OpenInv] Loading OpenInv v4.1.10
+[12:27:14] [Server thread/INFO]: [Vault] Loading Vault v1.7.3-b131
+[12:27:14] [Server thread/INFO]: [PVPControl] Loading PVPControl v1.4.2
+[12:27:14] [Server thread/INFO]: [Essentials] Loading Essentials v2.19.4
+[12:27:14] [Server thread/INFO]: [TabList] Loading TabList v5.6.2
+[12:27:14] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[12:27:14] [Server thread/WARN]: [Vault] Loaded class com.earth2me.essentials.api.Economy from Essentials v2.19.4 which is not a depend or softdepend of this plugin.
+[12:27:14] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[12:27:14] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[12:27:14] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[12:27:14] [Server thread/INFO]: Preparing level "world"
+[12:27:17] [Server thread/INFO]: -------- World Settings For [world] --------
+[12:27:17] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:27:17] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:27:17] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:27:17] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:27:17] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:27:17] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:27:17] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[12:27:17] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[12:27:17] [Server thread/INFO]: Potato Growth Modifier: 100%
+[12:27:17] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:27:17] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:27:17] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:27:17] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:27:17] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[12:27:17] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[12:27:17] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[12:27:17] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:27:17] [Server thread/INFO]: Mob Spawn Range: 6
+[12:27:17] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[12:27:17] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:27:17] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[12:27:17] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[12:27:17] [Server thread/INFO]: Max TNT Explosions: 100
+[12:27:17] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:27:17] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:27:17] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:27:17] [Server thread/INFO]: View Distance: 10
+[12:27:17] [Server thread/INFO]: Simulation Distance: 10
+[12:27:17] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:27:17] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[12:27:17] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:27:17] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:27:18] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[12:27:18] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:27:18] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:27:18] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:27:18] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:27:18] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:27:18] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:27:18] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[12:27:18] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[12:27:18] [Server thread/INFO]: Potato Growth Modifier: 100%
+[12:27:18] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:27:18] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:27:18] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:27:18] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:27:18] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[12:27:18] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[12:27:18] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[12:27:18] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:27:18] [Server thread/INFO]: Mob Spawn Range: 6
+[12:27:18] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[12:27:18] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:27:18] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[12:27:18] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[12:27:18] [Server thread/INFO]: Max TNT Explosions: 100
+[12:27:18] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:27:18] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:27:18] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:27:18] [Server thread/INFO]: View Distance: 10
+[12:27:18] [Server thread/INFO]: Simulation Distance: 10
+[12:27:18] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:27:18] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[12:27:18] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:27:18] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:27:18] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[12:27:18] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:27:18] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:27:18] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:27:18] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:27:18] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:27:18] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:27:18] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[12:27:18] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[12:27:18] [Server thread/INFO]: Potato Growth Modifier: 100%
+[12:27:18] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:27:18] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:27:18] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:27:18] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:27:18] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[12:27:18] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[12:27:18] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[12:27:18] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:27:18] [Server thread/INFO]: Mob Spawn Range: 6
+[12:27:18] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[12:27:18] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:27:18] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[12:27:18] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[12:27:18] [Server thread/INFO]: Max TNT Explosions: 100
+[12:27:18] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:27:18] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:27:18] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:27:18] [Server thread/INFO]: View Distance: 10
+[12:27:18] [Server thread/INFO]: Simulation Distance: 10
+[12:27:18] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:27:18] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[12:27:18] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:27:18] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:27:18] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[12:27:21] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[12:27:21] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[12:27:21] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[12:27:21] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[12:27:21] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[12:27:22] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[12:27:22] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[12:27:22] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[12:27:23] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[12:27:23] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[12:27:24] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[12:27:24] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[12:27:25] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[12:27:25] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[12:27:26] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[12:27:26] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[12:27:27] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[12:27:27] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[12:27:28] [Worker-Main-8/INFO]: Preparing spawn area: 1%
+[12:27:28] [Worker-Main-7/INFO]: Preparing spawn area: 1%
+[12:27:29] [Worker-Main-9/INFO]: Preparing spawn area: 3%
+[12:27:29] [Worker-Main-9/INFO]: Preparing spawn area: 6%
+[12:27:30] [Worker-Main-8/INFO]: Preparing spawn area: 9%
+[12:27:30] [Worker-Main-7/INFO]: Preparing spawn area: 23%
+[12:27:31] [Worker-Main-7/INFO]: Preparing spawn area: 46%
+[12:27:31] [Worker-Main-7/INFO]: Preparing spawn area: 50%
+[12:27:32] [Worker-Main-7/INFO]: Preparing spawn area: 73%
+[12:27:33] [Server thread/INFO]: Time elapsed: 14462 ms
+[12:27:33] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[12:27:34] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[12:27:34] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[12:27:34] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[12:27:35] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[12:27:35] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[12:27:36] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[12:27:36] [Worker-Main-10/INFO]: Preparing spawn area: 4%
+[12:27:37] [Worker-Main-8/INFO]: Preparing spawn area: 6%
+[12:27:37] [Worker-Main-6/INFO]: Preparing spawn area: 15%
+[12:27:38] [Worker-Main-6/INFO]: Preparing spawn area: 45%
+[12:27:38] [Worker-Main-7/INFO]: Preparing spawn area: 71%
+[12:27:38] [Server thread/INFO]: Time elapsed: 5411 ms
+[12:27:39] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[12:27:40] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[12:27:40] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[12:27:40] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[12:27:40] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[12:27:41] [Worker-Main-10/INFO]: Preparing spawn area: 1%
+[12:27:41] [Worker-Main-7/INFO]: Preparing spawn area: 10%
+[12:27:42] [Worker-Main-9/INFO]: Preparing spawn area: 12%
+[12:27:42] [Worker-Main-6/INFO]: Preparing spawn area: 18%
+[12:27:43] [Worker-Main-9/INFO]: Preparing spawn area: 42%
+[12:27:43] [Worker-Main-7/INFO]: Preparing spawn area: 72%
+[12:27:43] [Server thread/INFO]: Time elapsed: 4794 ms
+[12:27:43] [Server thread/INFO]: [OpenInv] Enabling OpenInv v4.1.10
+[12:27:44] [Server thread/INFO]: [PVPControl] Enabling PVPControl v1.4.2
+[12:27:44] [Server thread/INFO]: [0;37;22m[[0;32;22mPVP[0;32;1mControl[0;37;22m] [0;31;22m[0;32;1m47 [0;32;22mlanguage statements loaded.[m
+[12:27:44] [Server thread/INFO]: [0;37;22m[[0;32;22mPVP[0;32;1mControl[0;37;22m] [0;37;22mChecking dependencies..[m
+[12:27:44] [Server thread/WARN]: [PVPControl] Loaded class com.earth2me.essentials.Essentials from Essentials v2.19.4 which is not a depend or softdepend of this plugin.
+[12:27:44] [Server thread/INFO]: [0;37;22m[[0;32;22mPVP[0;32;1mControl[0;37;22m] [0;37;22m[0;32;1mHooked plugins: [0;32;1mEssentialsX[m
+[12:27:44] [Server thread/INFO]: [0;37;22m[[0;32;22mPVP[0;32;1mControl[0;37;22m] [0;32;1m[0;32;1mPVP[0;32;22mControll [0;36;22mby IdkMan enabled![m
+[12:27:44] [Server thread/INFO]: [Essentials] Enabling Essentials v2.19.4
+[12:27:44] [Server thread/INFO]: [Essentials] You are running a server with limited API functionality. EssentialsX will still work, but certain features may be disabled.
+[12:27:46] [Server thread/INFO]: Attempting to convert old kits in config.yml to new kits.yml
+[12:27:46] [Server thread/INFO]: No kits found to migrate.
+[12:27:46] [Server thread/INFO]: [Essentials] Starting Essentials ban format conversion
+[12:27:46] [Server thread/INFO]: [Essentials] Starting usermap repair
+[12:27:46] [Server thread/WARN]: [Essentials] Missing userdata folder, aborting
+[12:27:46] [Server thread/INFO]: Attempting to migrate ignore list to UUIDs
+[12:27:46] [Server thread/INFO]: Attempting to migrate legacy userdata keys to Configurate
+[12:27:46] [Server thread/INFO]: Loaded 36926 items from items.json.
+[12:27:46] [Server thread/INFO]: Using locale en_US
+[12:27:46] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[12:27:46] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[12:27:46] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[12:27:46] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[12:27:46] [Server thread/INFO]: [TabList] Enabling TabList v5.6.2
+[12:27:47] [Server thread/INFO]: [0;33;22m[[0;35;22mTab[0;31;1mList[0;33;22m][0;37;22m >[0;32;1m Enabled[0;33;22m v5.6.2[0;32;1m (368ms)[m
+[12:27:47] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[12:27:47] [Server thread/INFO]: Done (32.622s)! For help, type "help"
+[12:27:47] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
+[12:27:47] [Craft Scheduler Thread - 0/INFO]: [Vault] Checking for Updates ... 
+[12:27:47] [Craft Scheduler Thread - 1/INFO]: [Essentials] §6Fetching version information...
+[12:27:47] [Craft Scheduler Thread - 0/INFO]: [Vault] No new version available
+[12:30:57] [User Authenticator #1/INFO]: UUID of player Joriaap is 5dbd11f9-5c57-4ebd-9a94-e1c17a5da0a2
+[12:30:58] [Server thread/INFO]: Joriaap[/80.61.29.79:57613] logged in with entity id 149 at ([world]-391.5, 115.0, -57.5)
+[12:30:58] [Server thread/WARN]: File motd.txt does not exist. Creating one for you.
+[12:31:26] [Server thread/INFO]: Made Joriaap a server operator
+[12:31:39] [Server thread/INFO]: Joriaap issued server command: /gamemode
+[12:31:46] [Server thread/INFO]: Joriaap issued server command: /gamemode creative
+[12:34:08] [Server thread/INFO]: Joriaap issued server command: /setblock ~ ~ ~ minecraft:grass_block
+[12:34:08] [Server thread/INFO]: [Joriaap: Changed the block at -370, 65, -240]
+[12:34:21] [Async Chat Thread - #0/INFO]: <[0;31;22mJoriaap[m> ~ ~ minecraft:grass_block[m
+[12:35:34] [Server thread/INFO]: Joriaap issued server command: /setblock ~-370 minecraft:grass_block
+[12:36:18] [Server thread/INFO]: Joriaap issued server command: /setblock ~-370 ~63 ~-239 minecraft:grass_block
+[12:36:23] [Server thread/INFO]: Joriaap issued server command: /setblock ~-370 ~63 ~-239 minecraft:grass_block 100
+[12:36:52] [Server thread/INFO]: Joriaap issued server command: /setblock ~-370 ~65 ~-239 minecraft:grass_block replace
+[12:37:34] [Server thread/INFO]: Joriaap issued server command: /blocks
+[12:39:12] [Server thread/INFO]: Joriaap issued server command: /setblock ~ ~ ~ minecraft:water destroy
+[12:39:12] [Server thread/INFO]: [Joriaap: Changed the block at -400, 93, -21]
+[12:39:16] [Server thread/INFO]: Joriaap issued server command: /setblock ~ ~ ~ minecraft:water destroy
+[12:39:16] [Server thread/INFO]: [Joriaap: Changed the block at -399, 93, -19]
+[12:39:20] [Server thread/INFO]: Joriaap issued server command: /setblock ~ ~ ~ minecraft:water destroy 100
+[12:40:06] [Server thread/INFO]: Joriaap issued server command: /setblock ~ ~ ~ minecraft:water replace minecraft:grass:block
+[12:41:30] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~ ~ ~ grass
+[12:41:30] [Server thread/INFO]: [Joriaap: Successfully filled 1 blocks]
+[12:41:40] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~ ~ ~ minecraft:grass_block
+[12:41:40] [Server thread/INFO]: [Joriaap: Successfully filled 1 blocks]
+[12:42:28] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~ 94 ~20 minecraft:grass_block
+[12:42:28] [Server thread/INFO]: [Joriaap: Successfully filled 21 blocks]
+[12:42:53] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~ ~ ~ 94 ~20 minecraft:grass_block
+[12:43:03] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~ 94 ~20 minecraft:grass_block
+[12:43:03] [Server thread/INFO]: [Joriaap: Successfully filled 672 blocks]
+[12:43:15] [Server thread/INFO]: Joriaap issued server command: /unl
+[12:43:28] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~ 94 ~20 minecraft:air
+[12:43:28] [Server thread/INFO]: [Joriaap: Successfully filled 18 blocks]
+[12:43:34] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~ 94 ~20 minecraft:air
+[12:43:34] [Server thread/INFO]: [Joriaap: Successfully filled 618 blocks]
+[12:43:37] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~ 94 ~20 minecraft:air
+[12:43:40] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~ 94 ~20 minecraft:air
+[12:43:40] [Server thread/INFO]: [Joriaap: Successfully filled 21 blocks]
+[12:43:43] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~ 94 ~20 minecraft:air
+[12:43:43] [Server thread/INFO]: [Joriaap: Successfully filled 31 blocks]
+[12:43:55] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~ 1 ~200 minecraft:air
+[12:43:55] [Server thread/INFO]: [Joriaap: Successfully filled 12462 blocks]
+[12:44:13] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~ 1 ~200 minecraft:grass_block
+[12:44:14] [Server thread/INFO]: [Joriaap: Successfully filled 13466 blocks]
+[12:44:19] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~ 1 ~200 minecraft:air
+[12:44:19] [Server thread/INFO]: [Joriaap: Successfully filled 13465 blocks]
+[12:44:38] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~ 1 ~1 minecraft:grass_block
+[12:44:38] [Server thread/INFO]: [Joriaap: Successfully filled 134 blocks]
+[12:45:12] [Server thread/INFO]: Joriaap issued server command: /gamemode survival
+[12:45:17] [Server thread/INFO]: Joriaap issued server command: /gamemode creative
+[12:46:41] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~ ~ ~ minecraft:grass_block
+[12:46:41] [Server thread/INFO]: [Joriaap: Successfully filled 1 blocks]
+[12:46:53] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~20 ~20 minecraft:grass_block
+[12:46:53] [Server thread/INFO]: [Joriaap: Successfully filled 9261 blocks]
+[12:47:12] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~20 ~20 minecraft:air
+[12:47:13] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~20 ~20 minecraft:air
+[12:47:18] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~20 ~20 minecraft:air
+[12:47:20] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~20 ~20 minecraft:air
+[12:47:26] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~20 ~20 minecraft:air
+[12:47:26] [Server thread/INFO]: [Joriaap: Successfully filled 420 blocks]
+[12:47:28] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~20 ~20 minecraft:air
+[12:47:28] [Server thread/INFO]: [Joriaap: Successfully filled 2100 blocks]
+[12:47:30] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~20 ~20 minecraft:air
+[12:47:30] [Server thread/INFO]: [Joriaap: Successfully filled 2940 blocks]
+[12:47:31] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~20 ~20 minecraft:air
+[12:47:31] [Server thread/INFO]: [Joriaap: Successfully filled 2100 blocks]
+[12:47:33] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~20 ~20 minecraft:air
+[12:47:33] [Server thread/INFO]: [Joriaap: Successfully filled 1260 blocks]
+[12:47:38] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~20 ~20 minecraft:air
+[12:47:40] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~20 ~20 minecraft:air
+[12:47:42] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~20 ~20 minecraft:air
+[12:47:42] [Server thread/INFO]: [Joriaap: Successfully filled 441 blocks]
+[12:47:56] [Server thread/INFO]: Joriaap issued server command: /time set sunset
+[12:48:15] [Server thread/INFO]: Joriaap has made the advancement [Monster Hunter]
+[12:48:28] [Server thread/INFO]: Joriaap issued server command: /deletekit
+[12:48:39] [Server thread/INFO]: Joriaap issued server command: /kit
+[12:48:41] [Server thread/INFO]: Joriaap issued server command: /kits
+[12:49:02] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~20 ~ minecraft:air
+[12:49:08] [Server thread/INFO]: CONSOLE: [0;31;1mPlease note that this command is not supported and may cause issues when using some plugins.[m
+[12:49:08] [Server thread/INFO]: CONSOLE: [0;31;1mIf you encounter any issues please use the /stop command to restart your server.[m
+[12:49:08] [Server thread/INFO]: Debug logging is disabled
+[12:49:08] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[12:49:08] [Server thread/INFO]: Using 4 threads for Netty based IO
+[12:49:08] [Server thread/INFO]: -------- World Settings For [world] --------
+[12:49:08] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:49:08] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:49:08] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:49:08] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:49:08] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:49:08] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:49:08] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[12:49:08] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[12:49:08] [Server thread/INFO]: Potato Growth Modifier: 100%
+[12:49:08] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:49:08] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:49:08] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:49:08] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:49:08] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[12:49:08] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[12:49:08] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[12:49:08] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:49:08] [Server thread/INFO]: Mob Spawn Range: 6
+[12:49:08] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[12:49:08] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:49:08] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[12:49:08] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[12:49:08] [Server thread/INFO]: Max TNT Explosions: 100
+[12:49:08] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:49:08] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:49:08] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:49:08] [Server thread/INFO]: View Distance: 10
+[12:49:08] [Server thread/INFO]: Simulation Distance: 10
+[12:49:08] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:49:08] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[12:49:08] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:49:08] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:49:08] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[12:49:08] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:49:08] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:49:08] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:49:08] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:49:08] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:49:08] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:49:08] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[12:49:08] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[12:49:08] [Server thread/INFO]: Potato Growth Modifier: 100%
+[12:49:08] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:49:08] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:49:08] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:49:08] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:49:08] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[12:49:08] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[12:49:08] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[12:49:08] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:49:08] [Server thread/INFO]: Mob Spawn Range: 6
+[12:49:08] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[12:49:08] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:49:08] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[12:49:08] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[12:49:08] [Server thread/INFO]: Max TNT Explosions: 100
+[12:49:08] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:49:08] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:49:08] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:49:08] [Server thread/INFO]: View Distance: 10
+[12:49:08] [Server thread/INFO]: Simulation Distance: 10
+[12:49:08] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:49:08] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[12:49:08] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:49:08] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:49:08] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[12:49:08] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:49:08] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:49:08] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:49:08] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:49:08] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:49:08] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:49:08] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[12:49:08] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[12:49:08] [Server thread/INFO]: Potato Growth Modifier: 100%
+[12:49:08] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:49:08] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:49:08] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:49:08] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:49:08] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[12:49:08] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[12:49:08] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[12:49:08] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:49:08] [Server thread/INFO]: Mob Spawn Range: 6
+[12:49:08] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[12:49:08] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:49:08] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[12:49:08] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[12:49:08] [Server thread/INFO]: Max TNT Explosions: 100
+[12:49:08] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:49:08] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:49:08] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:49:08] [Server thread/INFO]: View Distance: 10
+[12:49:08] [Server thread/INFO]: Simulation Distance: 10
+[12:49:08] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:49:08] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[12:49:08] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:49:08] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:49:08] [Server thread/INFO]: [TabList] Disabling TabList v5.6.2
+[12:49:08] [Server thread/INFO]: [Essentials] Disabling Essentials v2.19.4
+[12:49:08] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
+[12:49:08] [Server thread/ERROR]: There's a good chance you're reloading your server right now. If that's the case, why do you hate yourself? Expect no support from the EssentialsX team when using /reload.
+[12:49:08] [Server thread/INFO]: [PVPControl] Disabling PVPControl v1.4.2
+[12:49:08] [Server thread/INFO]: [0;37;22m[[0;32;22mPVP[0;32;1mControl[0;37;22m] [0;37;22m[0;37;22mPVPControl disabled.[m
+[12:49:08] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[12:49:08] [Server thread/INFO]: [OpenInv] Disabling OpenInv v4.1.10
+[12:49:08] [Server thread/INFO]: Loaded 7 recipes
+[12:49:09] [Server thread/INFO]: [OpenInv] Loading OpenInv v4.1.10
+[12:49:09] [Server thread/INFO]: [Vault] Loading Vault v1.7.3-b131
+[12:49:09] [Server thread/INFO]: [PVPControl] Loading PVPControl v1.4.2
+[12:49:09] [Server thread/INFO]: [Essentials] Loading Essentials v2.19.4
+[12:49:09] [Server thread/INFO]: [TabList] Loading TabList v5.6.2
+[12:49:09] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[12:49:09] [Server thread/WARN]: [Vault] Loaded class com.earth2me.essentials.api.Economy from Essentials v2.19.4 which is not a depend or softdepend of this plugin.
+[12:49:09] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[12:49:09] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[12:49:09] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[12:49:09] [Server thread/INFO]: [OpenInv] Enabling OpenInv v4.1.10
+[12:49:09] [Server thread/INFO]: [PVPControl] Enabling PVPControl v1.4.2
+[12:49:09] [Server thread/INFO]: [0;37;22m[[0;32;22mPVP[0;32;1mControl[0;37;22m] [0;31;22m[0;32;1m47 [0;32;22mlanguage statements loaded.[m
+[12:49:09] [Server thread/INFO]: [0;37;22m[[0;32;22mPVP[0;32;1mControl[0;37;22m] [0;37;22mChecking dependencies..[m
+[12:49:09] [Server thread/WARN]: [PVPControl] Loaded class com.earth2me.essentials.Essentials from Essentials v2.19.4 which is not a depend or softdepend of this plugin.
+[12:49:09] [Server thread/INFO]: [0;37;22m[[0;32;22mPVP[0;32;1mControl[0;37;22m] [0;37;22m[0;32;1mHooked plugins: [0;32;1mEssentialsX[m
+[12:49:09] [Server thread/INFO]: [0;37;22m[[0;32;22mPVP[0;32;1mControl[0;37;22m] [0;32;1m[0;32;1mPVP[0;32;22mControll [0;36;22mby IdkMan enabled![m
+[12:49:09] [Server thread/INFO]: [Essentials] Enabling Essentials v2.19.4
+[12:49:09] [Server thread/INFO]: [Essentials] You are running a server with limited API functionality. EssentialsX will still work, but certain features may be disabled.
+[12:49:09] [Server thread/INFO]: Attempting to convert old kits in config.yml to new kits.yml
+[12:49:09] [Server thread/INFO]: No kits found to migrate.
+[12:49:09] [Server thread/INFO]: [Essentials] Starting Essentials ban format conversion
+[12:49:09] [Server thread/INFO]: [Essentials] Found 1 files to convert...
+[12:49:09] [Server thread/INFO]: [Essentials] Converted 0/1
+[12:49:09] [Server thread/INFO]: [Essentials] Ban format update complete.
+[12:49:09] [Server thread/INFO]: [Essentials] Starting usermap repair
+[12:49:09] [Server thread/INFO]: [Essentials] Reading: 0.00%
+[12:49:09] [Server thread/INFO]: [Essentials] Completed usermap repair.
+[12:49:09] [Server thread/INFO]: Attempting to migrate ignore list to UUIDs
+[12:49:09] [Server thread/INFO]: Done converting ignore list.
+[12:49:09] [Server thread/INFO]: Attempting to migrate legacy userdata keys to Configurate
+[12:49:09] [Server thread/INFO]: Done converting legacy userdata keys to Configurate.
+[12:49:09] [Server thread/INFO]: Done converting mail list.
+[12:49:09] [Server thread/INFO]: #===========================================================================#
+[12:49:09] [Server thread/INFO]:  EssentialsX will now purge any NPC accounts which were incorrectly created.
+[12:49:09] [Server thread/INFO]:  Only NPC accounts with the default starting balance will be deleted. If
+[12:49:09] [Server thread/INFO]:  they turn out to be valid NPC accounts, they will be re-created as needed.
+[12:49:09] [Server thread/INFO]:  Any files deleted here will be backed up to the 
+[12:49:09] [Server thread/INFO]:  "plugins/Essentials/userdata-npc-backup" folder. If you notice any files
+[12:49:09] [Server thread/INFO]:  have been purged incorrectly, you should restore it from the backup and
+[12:49:09] [Server thread/INFO]:  report it to us on GitHub:
+[12:49:09] [Server thread/INFO]:  https://github.com/EssentialsX/Essentials/issues/new/choose
+[12:49:09] [Server thread/INFO]: 
+[12:49:09] [Server thread/INFO]:  NOTE: This is a one-time process and will take several minutes if you have
+[12:49:09] [Server thread/INFO]:  a lot of userdata files! If you interrupt this process, EssentialsX will
+[12:49:09] [Server thread/INFO]:  skip the process until you rename or remove the backup folder.
+[12:49:09] [Server thread/INFO]: #===========================================================================#
+[12:49:09] [Server thread/INFO]: Found ~1 files under "plugins/Essentials/userdata"...
+[12:49:09] [Server thread/INFO]: #===========================================================================#
+[12:49:09] [Server thread/INFO]:  EssentialsX has finished purging NPC accounts.
+[12:49:09] [Server thread/INFO]: 
+[12:49:09] [Server thread/INFO]:  Deleted accounts: 0
+[12:49:09] [Server thread/INFO]:  Total accounts processed: 1
+[12:49:09] [Server thread/INFO]: 
+[12:49:09] [Server thread/INFO]:  Purged accounts have been backed up to
+[12:49:09] [Server thread/INFO]:  "plugins/Essentials/userdata-npc-backup", and can be restored from there
+[12:49:09] [Server thread/INFO]:  if needed. Please report any files which have been incorrectly deleted
+[12:49:09] [Server thread/INFO]:  to us on GitHub:
+[12:49:09] [Server thread/INFO]:  https://github.com/EssentialsX/Essentials/issues/new/choose
+[12:49:09] [Server thread/INFO]: #===========================================================================#
+[12:49:10] [Server thread/INFO]: Loaded 36926 items from items.json.
+[12:49:10] [Server thread/INFO]: Using locale en_US
+[12:49:10] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[12:49:10] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[12:49:10] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[12:49:10] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[12:49:10] [Server thread/INFO]: [TabList] Enabling TabList v5.6.2
+[12:49:10] [Server thread/INFO]: [0;33;22m[[0;35;22mTab[0;31;1mList[0;33;22m][0;37;22m >[0;32;1m Enabled[0;33;22m v5.6.2[0;32;1m (96ms)[m
+[12:49:10] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[12:49:10] [Server thread/INFO]: CONSOLE: [0;32;1mReload complete.[m
+[12:49:10] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
+[12:49:10] [Craft Scheduler Thread - 1/INFO]: [Essentials] §6Fetching version information...
+[12:49:10] [Craft Scheduler Thread - 4/INFO]: [Vault] Checking for Updates ... 
+[12:49:10] [Craft Scheduler Thread - 4/INFO]: [Vault] No new version available
+[12:49:16] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~20 ~ minecraft:grass_block
+[12:49:16] [Server thread/INFO]: [Joriaap: Successfully filled 441 blocks]
+[12:49:21] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~20 ~ minecraft:air
+[12:49:21] [Server thread/INFO]: [Joriaap: Successfully filled 420 blocks]
+[12:49:25] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~20 ~ minecraft:air
+[12:49:25] [Server thread/INFO]: [Joriaap: Successfully filled 41 blocks]
+[12:49:35] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~20 minecraft:air
+[12:49:35] [Server thread/INFO]: [Joriaap: Successfully filled 441 blocks]
+[12:49:48] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~20 minecraft:grass_block
+[12:49:48] [Server thread/INFO]: [Joriaap: Successfully filled 441 blocks]
+[12:49:52] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~20 minecraft:grass_block
+[12:49:52] [Server thread/INFO]: [Joriaap: Successfully filled 441 blocks]
+[12:50:13] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~20 minecraft:air
+[12:50:13] [Server thread/INFO]: [Joriaap: Successfully filled 32 blocks]
+[12:50:15] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~20 minecraft:air
+[12:50:17] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~20 minecraft:air
+[12:50:17] [Server thread/INFO]: [Joriaap: Successfully filled 117 blocks]
+[12:50:19] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~20 minecraft:air
+[12:50:19] [Server thread/INFO]: [Joriaap: Successfully filled 60 blocks]
+[12:50:20] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~20 minecraft:air
+[12:50:20] [Server thread/INFO]: [Joriaap: Successfully filled 79 blocks]
+[12:50:22] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~20 minecraft:air
+[12:50:22] [Server thread/INFO]: [Joriaap: Successfully filled 94 blocks]
+[12:50:23] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~20 minecraft:air
+[12:50:23] [Server thread/INFO]: [Joriaap: Successfully filled 19 blocks]
+[12:50:31] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~20 minecraft:air
+[12:50:35] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~20 minecraft:air
+[12:50:35] [Server thread/INFO]: [Joriaap: Successfully filled 441 blocks]
+[12:50:36] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~20 minecraft:air
+[12:50:36] [Server thread/INFO]: [Joriaap: Successfully filled 324 blocks]
+[12:50:39] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~20 minecraft:air
+[12:50:39] [Server thread/INFO]: [Joriaap: Successfully filled 313 blocks]
+[12:50:42] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~20 minecraft:air
+[12:50:47] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~20 minecraft:air
+[12:50:47] [Server thread/INFO]: [Joriaap: Successfully filled 441 blocks]
+[12:50:49] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~20 minecraft:air
+[12:50:49] [Server thread/INFO]: [Joriaap: Successfully filled 207 blocks]
+[12:50:50] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~20 minecraft:air
+[12:50:50] [Server thread/INFO]: [Joriaap: Successfully filled 188 blocks]
+[12:50:52] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~20 minecraft:air
+[12:50:52] [Server thread/INFO]: [Joriaap: Successfully filled 123 blocks]
+[12:50:53] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~20 minecraft:air
+[12:50:53] [Server thread/INFO]: [Joriaap: Successfully filled 122 blocks]
+[12:50:54] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~20 minecraft:air
+[12:50:54] [Server thread/INFO]: [Joriaap: Successfully filled 119 blocks]
+[12:50:55] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~20 minecraft:air
+[12:50:55] [Server thread/INFO]: [Joriaap: Successfully filled 138 blocks]
+[12:50:59] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~20 minecraft:air
+[12:50:59] [Server thread/INFO]: [Joriaap: Successfully filled 441 blocks]
+[12:51:03] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~20 minecraft:air
+[12:51:03] [Server thread/INFO]: [Joriaap: Successfully filled 435 blocks]
+[12:51:15] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~2000 ~ ~2000 minecraft:grass_block
+[12:51:26] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~200 ~ ~200 minecraft:grass_block
+[12:51:33] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~200 minecraft:grass_block
+[12:51:38] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~200 minecraft:grass_block
+[12:51:40] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~200 minecraft:grass_block
+[12:51:40] [Server thread/INFO]: [Joriaap: Successfully filled 4221 blocks]
+[12:51:44] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~200 minecraft:grass_block
+[12:51:44] [Server thread/INFO]: [Joriaap: Successfully filled 241 blocks]
+[12:51:59] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~200 minecraft:grass_block
+[12:51:59] [Server thread/INFO]: [Joriaap: Successfully filled 4221 blocks]
+[12:52:11] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~200 air
+[12:52:11] [Server thread/INFO]: [Joriaap: Successfully filled 3998 blocks]
+[12:52:18] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~200 minecraft:grass_block
+[12:52:18] [Server thread/INFO]: [Joriaap: Successfully filled 4221 blocks]
+[12:52:25] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~200 air
+[12:52:25] [Server thread/INFO]: [Joriaap: Successfully filled 3797 blocks]
+[12:52:34] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~200 minecraft:grass_block
+[12:52:34] [Server thread/INFO]: [Joriaap: Successfully filled 2423 blocks]
+[12:52:53] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~200 air
+[12:52:54] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~200 air
+[12:52:55] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~200 air
+[12:52:57] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~200 air
+[12:52:58] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~200 aira
+[12:53:09] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~200 aira
+[12:53:10] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~200 air
+[12:53:10] [Server thread/INFO]: [Joriaap: Successfully filled 172 blocks]
+[12:53:12] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~200 air
+[12:53:16] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~200 air
+[12:53:18] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~200 air
+[12:53:18] [Server thread/INFO]: [Joriaap: Successfully filled 2998 blocks]
+[12:53:21] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~200 air
+[12:53:21] [Server thread/INFO]: [Joriaap: Successfully filled 600 blocks]
+[12:53:22] [User Authenticator #2/INFO]: UUID of player NotTheHeroHere is 6435c2b0-db69-4d6b-9182-eb4b0a9ba0fc
+[12:53:22] [Server thread/INFO]: NotTheHeroHere[/83.233.247.126:23766] logged in with entity id 5183 at ([world]-5.031386614252606, 69.10632347424759, 2.7339888297885064)
+[12:53:23] [Server thread/WARN]: File motd.txt does not exist. Creating one for you.
+[12:53:23] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~200 air
+[12:53:23] [Server thread/INFO]: [Joriaap: Successfully filled 600 blocks]
+[12:53:24] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~200 air
+[12:53:24] [Server thread/INFO]: [Joriaap: Successfully filled 200 blocks]
+[12:53:31] [Server thread/INFO]: NotTheHeroHere issued server command: /reload
+[12:53:31] [Server thread/INFO]: NotTheHeroHere: [0;31;1mPlease note that this command is not supported and may cause issues when using some plugins.[m
+[12:53:31] [Server thread/INFO]: NotTheHeroHere: [0;31;1mIf you encounter any issues please use the /stop command to restart your server.[m
+[12:53:31] [Server thread/INFO]: Debug logging is disabled
+[12:53:31] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[12:53:31] [Server thread/INFO]: Using 4 threads for Netty based IO
+[12:53:31] [Server thread/INFO]: -------- World Settings For [world] --------
+[12:53:31] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:53:31] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:53:31] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:53:31] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:53:31] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:53:31] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:53:31] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[12:53:31] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[12:53:31] [Server thread/INFO]: Potato Growth Modifier: 100%
+[12:53:31] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:53:31] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:53:31] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:53:31] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:53:31] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[12:53:31] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[12:53:31] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[12:53:31] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:53:31] [Server thread/INFO]: Mob Spawn Range: 6
+[12:53:31] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[12:53:31] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:53:31] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[12:53:31] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[12:53:31] [Server thread/INFO]: Max TNT Explosions: 100
+[12:53:31] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:53:31] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:53:31] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:53:31] [Server thread/INFO]: View Distance: 10
+[12:53:31] [Server thread/INFO]: Simulation Distance: 10
+[12:53:31] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:53:31] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[12:53:31] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:53:31] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:53:31] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[12:53:31] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:53:31] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:53:31] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:53:31] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:53:31] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:53:31] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:53:31] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[12:53:31] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[12:53:31] [Server thread/INFO]: Potato Growth Modifier: 100%
+[12:53:31] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:53:31] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:53:31] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:53:31] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:53:31] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[12:53:31] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[12:53:31] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[12:53:31] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:53:31] [Server thread/INFO]: Mob Spawn Range: 6
+[12:53:31] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[12:53:31] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:53:31] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[12:53:31] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[12:53:31] [Server thread/INFO]: Max TNT Explosions: 100
+[12:53:31] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:53:31] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:53:31] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:53:31] [Server thread/INFO]: View Distance: 10
+[12:53:31] [Server thread/INFO]: Simulation Distance: 10
+[12:53:31] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:53:31] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[12:53:31] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:53:31] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:53:31] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[12:53:31] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:53:31] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:53:31] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:53:31] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:53:31] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:53:31] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:53:31] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[12:53:31] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[12:53:31] [Server thread/INFO]: Potato Growth Modifier: 100%
+[12:53:31] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:53:31] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:53:31] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:53:31] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:53:31] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[12:53:31] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[12:53:31] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[12:53:31] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:53:31] [Server thread/INFO]: Mob Spawn Range: 6
+[12:53:31] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[12:53:31] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:53:31] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[12:53:31] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[12:53:31] [Server thread/INFO]: Max TNT Explosions: 100
+[12:53:31] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:53:31] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:53:31] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:53:31] [Server thread/INFO]: View Distance: 10
+[12:53:31] [Server thread/INFO]: Simulation Distance: 10
+[12:53:31] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:53:31] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[12:53:31] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:53:31] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:53:31] [Server thread/INFO]: [TabList] Disabling TabList v5.6.2
+[12:53:31] [Server thread/INFO]: [Essentials] Disabling Essentials v2.19.4
+[12:53:31] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
+[12:53:31] [Server thread/ERROR]: There's a good chance you're reloading your server right now. If that's the case, why do you hate yourself? Expect no support from the EssentialsX team when using /reload.
+[12:53:31] [Server thread/INFO]: [PVPControl] Disabling PVPControl v1.4.2
+[12:53:31] [Server thread/INFO]: [0;37;22m[[0;32;22mPVP[0;32;1mControl[0;37;22m] [0;37;22m[0;37;22mPVPControl disabled.[m
+[12:53:31] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[12:53:31] [Server thread/INFO]: [OpenInv] Disabling OpenInv v4.1.10
+[12:53:32] [Server thread/INFO]: Loaded 7 recipes
+[12:53:33] [Server thread/ERROR]: Ambiguous plugin name `Essentials' for files `plugins/EssentialsX-2.19.0.jar' and `plugins/EssentialsX-2.19.4.jar' in `plugins'
+[12:53:33] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.4.25
+[12:53:36] [Server thread/INFO]: [FastAsyncWorldEdit] Loading FastAsyncWorldEdit v2.2.1-SNAPSHOT-184;d1f3ac8
+[12:53:38] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@5e171ab1]
+[12:53:38] [Server thread/INFO]: Default configuration file written: worldedit-config.yml
+[12:53:38] [Server thread/INFO]: [OpenInv] Loading OpenInv v4.1.10
+[12:53:38] [Server thread/INFO]: [Essentials] Loading Essentials v2.19.0
+[12:53:38] [Server thread/INFO]: [LPC] Loading LPC v3.5.0
+[12:53:38] [Server thread/INFO]: [ItemEdit] Loading ItemEdit v3.0.3
+[12:53:38] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v7.0.7+216b061
+[12:53:38] [Server thread/INFO]: [Shopkeepers] Loading Shopkeepers v2.15.1
+[12:53:38] [Server thread/INFO]: [Shopkeepers] Loaded all plugin classes (705 ms).
+[12:53:38] [Server thread/INFO]: [Shopkeepers] Loading config.
+[12:53:38] [Server thread/INFO]: [Shopkeepers] Loading language file: language-en-default.yml
+[12:53:38] [Server thread/INFO]: [Shopkeepers] Registering WorldGuard flag 'allow-shop'.
+[12:53:39] [Server thread/INFO]: [Shopkeepers] Registering defaults.
+[12:53:39] [Server thread/INFO]: [MineResetLite] Loading MineResetLite v4.15.1
+[12:53:39] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.25
+[12:53:40] [Server thread/INFO]: [0;36;1m       [0;36;22m __    [m
+[12:53:40] [Server thread/INFO]: [0;36;1m  |    [0;36;22m|__)   [0;32;22mLuckPerms[m [0;36;1mv5.4.25[m
+[12:53:40] [Server thread/INFO]: [0;36;1m  |___ [0;36;22m|      [0;30;1mRunning on Bukkit - CraftBukkit[m
+[12:53:40] [Server thread/INFO]: [m
+[12:53:40] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[12:53:40] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[12:53:42] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[12:53:42] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[12:53:43] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 4215ms)
+[12:53:43] [Server thread/INFO]: [FastAsyncWorldEdit] Enabling FastAsyncWorldEdit v2.2.1-SNAPSHOT-184;d1f3ac8
+[12:53:43] [Server thread/INFO]: LZ4 Compression Binding loaded successfully
+[12:53:43] [Server thread/INFO]: ZSTD Compression Binding loaded successfully
+[12:53:43] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[12:53:43] [Server thread/INFO]: WEPIF: Updated config file
+[12:53:43] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[12:53:43] [Server thread/WARN]: Server reload detected. This may cause various issues with FastAsyncWorldEdit and dependent plugins. Reloading the server is not advised.
+[12:53:43] [Server thread/WARN]: For more information why reloading is bad, see https://madelinemiller.dev/blog/problem-with-reload/
+[12:53:44] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.fawe.v1_18_R2.PaperweightFaweAdapter as the Bukkit adapter
+[12:53:45] [Server thread/INFO]: [OpenInv] Enabling OpenInv v4.1.10
+[12:53:45] [Server thread/INFO]: [Essentials] Enabling Essentials v2.19.0
+[12:53:45] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
+[12:53:45] [Server thread/INFO]: Creating config from template: plugins/Essentials/config.yml
+[12:53:46] [Server thread/INFO]: Creating config from template: plugins/Essentials/kits.yml
+[12:53:46] [Server thread/INFO]: Attempting to convert old kits in config.yml to new kits.yml
+[12:53:46] [Server thread/INFO]: No kits found to migrate.
+[12:53:46] [Server thread/INFO]: [Essentials] Starting Essentials ban format conversion
+[12:53:46] [Server thread/INFO]: [Essentials] Found 2 files to convert...
+[12:53:46] [Server thread/INFO]: [Essentials] Converted 0/2
+[12:53:46] [Server thread/INFO]: [Essentials] Ban format update complete.
+[12:53:46] [Server thread/INFO]: [Essentials] Starting usermap repair
+[12:53:46] [Server thread/INFO]: [Essentials] Reading: 0.00%
+[12:53:46] [Server thread/INFO]: [Essentials] Completed usermap repair.
+[12:53:46] [Server thread/INFO]: Attempting to migrate ignore list to UUIDs
+[12:53:46] [Server thread/INFO]: Done converting ignore list.
+[12:53:46] [Server thread/INFO]: Attempting to migrate legacy userdata keys to Configurate
+[12:53:46] [Server thread/INFO]: Done converting legacy userdata keys to Configurate.
+[12:53:46] [Server thread/INFO]: Done converting mail list.
+[12:53:46] [Server thread/INFO]: #===========================================================================#
+[12:53:46] [Server thread/INFO]:  EssentialsX will now purge any NPC accounts which were incorrectly created.
+[12:53:46] [Server thread/INFO]:  Only NPC accounts with the default starting balance will be deleted. If
+[12:53:46] [Server thread/INFO]:  they turn out to be valid NPC accounts, they will be re-created as needed.
+[12:53:46] [Server thread/INFO]:  Any files deleted here will be backed up to the 
+[12:53:46] [Server thread/INFO]:  "plugins/Essentials/userdata-npc-backup" folder. If you notice any files
+[12:53:46] [Server thread/INFO]:  have been purged incorrectly, you should restore it from the backup and
+[12:53:46] [Server thread/INFO]:  report it to us on GitHub:
+[12:53:46] [Server thread/INFO]:  https://github.com/EssentialsX/Essentials/issues/new/choose
+[12:53:46] [Server thread/INFO]: 
+[12:53:46] [Server thread/INFO]:  NOTE: This is a one-time process and will take several minutes if you have
+[12:53:46] [Server thread/INFO]:  a lot of userdata files! If you interrupt this process, EssentialsX will
+[12:53:46] [Server thread/INFO]:  skip the process until you rename or remove the backup folder.
+[12:53:46] [Server thread/INFO]: #===========================================================================#
+[12:53:46] [Server thread/INFO]: Found ~2 files under "plugins/Essentials/userdata"...
+[12:53:46] [Server thread/INFO]: #===========================================================================#
+[12:53:46] [Server thread/INFO]:  EssentialsX has finished purging NPC accounts.
+[12:53:46] [Server thread/INFO]: 
+[12:53:46] [Server thread/INFO]:  Deleted accounts: 0
+[12:53:46] [Server thread/INFO]:  Total accounts processed: 2
+[12:53:46] [Server thread/INFO]: 
+[12:53:46] [Server thread/INFO]:  Purged accounts have been backed up to
+[12:53:46] [Server thread/INFO]:  "plugins/Essentials/userdata-npc-backup", and can be restored from there
+[12:53:46] [Server thread/INFO]:  if needed. Please report any files which have been incorrectly deleted
+[12:53:46] [Server thread/INFO]:  to us on GitHub:
+[12:53:46] [Server thread/INFO]:  https://github.com/EssentialsX/Essentials/issues/new/choose
+[12:53:46] [Server thread/INFO]: #===========================================================================#
+[12:53:46] [Server thread/INFO]: Creating config from template: plugins/Essentials/worth.yml
+[12:53:46] [Server thread/INFO]: Creating config from template: plugins/Essentials/tpr.yml
+[12:53:46] [Server thread/WARN]: java.lang.NoSuchMethodException: no such method: net.minecraft.server.MinecraftServer.isRunning()boolean/invokeVirtual
+[12:53:46] [Server thread/WARN]: 	at java.base/java.lang.invoke.MemberName.makeAccessException(MemberName.java:976)
+[12:53:46] [Server thread/WARN]: 	at java.base/java.lang.invoke.MemberName$Factory.resolveOrFail(MemberName.java:1117)
+[12:53:46] [Server thread/WARN]: 	at java.base/java.lang.invoke.MethodHandles$Lookup.resolveOrFail(MethodHandles.java:3649)
+[12:53:46] [Server thread/WARN]: 	at java.base/java.lang.invoke.MethodHandles$Lookup.findVirtual(MethodHandles.java:2680)
+[12:53:46] [Server thread/WARN]: 	at net.ess3.nms.refl.providers.ReflServerStateProvider.<init>(ReflServerStateProvider.java:20)
+[12:53:46] [Server thread/WARN]: 	at com.earth2me.essentials.Essentials.onEnable(Essentials.java:371)
+[12:53:46] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:264)
+[12:53:46] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:342)
+[12:53:46] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:480)
+[12:53:46] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_18_R2.CraftServer.enablePlugin(CraftServer.java:518)
+[12:53:46] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_18_R2.CraftServer.enablePlugins(CraftServer.java:432)
+[12:53:46] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_18_R2.CraftServer.reload(CraftServer.java:917)
+[12:53:46] [Server thread/WARN]: 	at org.bukkit.Bukkit.reload(Bukkit.java:801)
+[12:53:46] [Server thread/WARN]: 	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:27)
+[12:53:46] [Server thread/WARN]: 	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:149)
+[12:53:46] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_18_R2.CraftServer.dispatchCommand(CraftServer.java:826)
+[12:53:46] [Server thread/WARN]: 	at net.minecraft.server.network.PlayerConnection.a(PlayerConnection.java:1957)
+[12:53:46] [Server thread/WARN]: 	at net.minecraft.server.network.PlayerConnection.a(PlayerConnection.java:1796)
+[12:53:46] [Server thread/WARN]: 	at net.minecraft.server.network.PlayerConnection.a(PlayerConnection.java:1777)
+[12:53:46] [Server thread/WARN]: 	at net.minecraft.network.protocol.game.PacketPlayInChat.a(PacketPlayInChat.java:46)
+[12:53:46] [Server thread/WARN]: 	at net.minecraft.network.protocol.game.PacketPlayInChat.a(PacketPlayInChat.java:1)
+[12:53:46] [Server thread/WARN]: 	at net.minecraft.network.protocol.PlayerConnectionUtils.lambda$0(PlayerConnectionUtils.java:31)
+[12:53:46] [Server thread/WARN]: 	at net.minecraft.server.TickTask.run(SourceFile:18)
+[12:53:46] [Server thread/WARN]: 	at net.minecraft.util.thread.IAsyncTaskHandler.d(SourceFile:157)
+[12:53:46] [Server thread/WARN]: 	at net.minecraft.util.thread.IAsyncTaskHandlerReentrant.d(SourceFile:23)
+[12:53:46] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1190)
+[12:53:46] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.d(MinecraftServer.java:1)
+[12:53:46] [Server thread/WARN]: 	at net.minecraft.util.thread.IAsyncTaskHandler.y(SourceFile:131)
+[12:53:46] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.be(MinecraftServer.java:1169)
+[12:53:46] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.y(MinecraftServer.java:1162)
+[12:53:46] [Server thread/WARN]: 	at net.minecraft.util.thread.IAsyncTaskHandler.bo(SourceFile:116)
+[12:53:46] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.x(MinecraftServer.java:1145)
+[12:53:46] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1051)
+[12:53:46] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:304)
+[12:53:46] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:833)
+[12:53:46] [Server thread/WARN]: Caused by: java.lang.NoSuchMethodError: 'boolean net.minecraft.server.MinecraftServer.isRunning()'
+[12:53:46] [Server thread/WARN]: 	at java.base/java.lang.invoke.MethodHandleNatives.resolve(Native Method)
+[12:53:46] [Server thread/WARN]: 	at java.base/java.lang.invoke.MemberName$Factory.resolve(MemberName.java:1085)
+[12:53:46] [Server thread/WARN]: 	at java.base/java.lang.invoke.MemberName$Factory.resolveOrFail(MemberName.java:1114)
+[12:53:46] [Server thread/WARN]: 	... 33 more
+[12:53:46] [Server thread/INFO]: Loaded 36837 items from items.json.
+[12:53:46] [Server thread/INFO]: Creating config from template: plugins/Essentials/custom_items.yml
+[12:53:46] [Server thread/INFO]: Using locale en_US
+[12:53:46] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[12:53:46] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[12:53:46] [Server thread/WARN]: [Essentials] Detected supported permissions plugin LuckPerms without Vault installed.
+[12:53:46] [Server thread/WARN]: [Essentials] Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
+[12:53:46] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[12:53:46] [Server thread/INFO]: [LPC] Enabling LPC v3.5.0
+[12:53:46] [Server thread/INFO]: [ItemEdit] Enabling ItemEdit v3.0.3
+[12:53:47] [Server thread/INFO]: [0;34;22m[[0;37;1mItemEdit[0;34;22m] [0;37;1mUnable to hook into Vault[m
+[12:53:47] [Server thread/INFO]: [0;34;22m[[0;37;1mItemEdit[0;34;22m] [0;37;1m[0;32;1m# [0;37;1mEnabled (took [0;33;1m75[0;37;1m ms)[m
+[12:53:47] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.7+216b061
+[12:53:47] [Server thread/INFO]: [WorldGuard] Default configuration file written: config.yml
+[12:53:47] [Server thread/INFO]: [WorldGuard] Default configuration file written: config_world.yml
+[12:53:47] [Server thread/INFO]: [WorldGuard] Default configuration file written: blacklist.txt
+[12:53:47] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[12:53:47] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[12:53:47] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
+[12:53:47] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[12:53:47] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[12:53:47] [Server thread/INFO]: [WorldGuard] Default configuration file written: config_world.yml
+[12:53:47] [Server thread/INFO]: [WorldGuard] Default configuration file written: blacklist.txt
+[12:53:47] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[12:53:47] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[12:53:47] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is PERMITTED.
+[12:53:47] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[12:53:47] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[12:53:47] [Server thread/INFO]: [WorldGuard] Default configuration file written: config_world.yml
+[12:53:47] [Server thread/INFO]: [WorldGuard] Default configuration file written: blacklist.txt
+[12:53:47] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[12:53:47] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[12:53:47] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
+[12:53:47] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[12:53:47] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[12:53:47] [Server thread/INFO]: [WorldGuard] Loading region data...
+[12:53:47] [Server thread/INFO]: [WorldGuard] Unloading and saving region data that is currently loaded...
+[12:53:47] [Server thread/INFO]: [WorldGuard] Loading region data for loaded worlds...
+[12:53:47] [Server thread/INFO]: [WorldGuard] Loading region data...
+[12:53:47] [Server thread/INFO]: [WorldGuard] Regions saved after UUID migration! This won't happen again unless you change the relevant configuration option in WorldGuard's config.
+[12:53:47] [Server thread/INFO]: [Shopkeepers] Enabling Shopkeepers v2.15.1
+[12:53:48] [Server thread/INFO]: [MineResetLite] Enabling MineResetLite v4.15.1
+[12:53:48] [Server thread/INFO]: [MineResetLite] TokenEnchant was not found... skipping.
+[12:53:48] [Server thread/INFO]: [MineResetLite] MineResetLite version 4.15.1 enabled!
+[12:53:48] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[12:53:48] [Server thread/INFO]: NotTheHeroHere: [0;32;1mReload complete.[m
+[12:53:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16867ms or 337 ticks behind
+[12:53:48] [Server thread/WARN]: [FastAsyncWorldEdit] Loaded class com.sk89q.worldguard.protection.association.RegionAssociable from WorldGuard v7.0.7+216b061 which is not a depend or softdepend of this plugin.
+[12:53:48] [Server thread/INFO]: Plugin 'WorldGuard' found. Using it now.
+[12:53:48] [Server thread/INFO]: Attempting to use plugin 'WorldGuard'
+[12:53:48] [Craft Scheduler Thread - 5/INFO]: [Essentials] §6Fetching version information...
+[12:53:49] [Craft Scheduler Thread - 5/WARN]: [Essentials] §4There is a new EssentialsX version available for download: §c2.19.4§4.
+[12:53:49] [Craft Scheduler Thread - 5/WARN]: [Essentials] §4Download it here:§c https://essentialsx.net/downloads.html?branch=stable
+[12:53:49] [Server thread/WARN]: Joriaap moved too quickly! 0.9871384327074395,-3.3317009308129286,9.68253613190928
+[12:53:49] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~200 air
+[12:53:50] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~200 air
+[12:53:51] [Server thread/INFO]: NotTheHeroHere issued server command: /tp Joriaap
+[12:53:55] [Server thread/INFO]: NotTheHeroHere issued server command: /tp Joriaap
+[12:53:57] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~200 air
+[12:53:59] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~200 air
+[12:53:59] [Server thread/INFO]: [Joriaap: Successfully filled 1863 blocks]
+[12:53:59] [Server thread/INFO]: [FAWE Tick Limiter] Detected and cancelled physics lag source at Location{world=CraftWorld{name=world},x=-227.0,y=64.0,z=263.0,pitch=0.0,yaw=0.0}
+[12:54:14] [Server thread/INFO]: NotTheHeroHere issued server command: //wand
+[12:54:18] [Server thread/INFO]: Joriaap issued server command: /time set day
+[12:54:20] [Server thread/INFO]: Joriaap issued server command: /time set day
+[12:54:22] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~200 air
+[12:54:23] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~200 air
+[12:54:24] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~200 air
+[12:54:26] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~200 air
+[12:54:27] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~200 air
+[12:54:29] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~200 air
+[12:54:33] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~200 air
+[12:54:33] [Server thread/INFO]: [Joriaap: Successfully filled 20 blocks]
+[12:54:37] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~200 air
+[12:54:39] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~200 air
+[12:54:43] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~200 air
+[12:54:43] [Server thread/INFO]: [Joriaap: Successfully filled 175 blocks]
+[12:54:50] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~200 air
+[12:54:55] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~200 air
+[12:54:57] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~200 air
+[12:54:58] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~200 air
+[12:55:00] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~200 air
+[12:55:02] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~200 air
+[12:55:04] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~200 air
+[12:55:07] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~200 air
+[12:55:09] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~200 air
+[12:55:11] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~200 air
+[12:55:15] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~200 air
+[12:55:16] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~200 air
+[12:55:16] [Server thread/INFO]: [Joriaap: Successfully filled 558 blocks]
+[12:55:18] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~200 air
+[12:55:19] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~200 air
+[12:55:21] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~200 air
+[12:55:23] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~200 air
+[12:55:24] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~200 air
+[12:55:39] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~200 air
+[12:55:40] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~200 air
+[12:55:42] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~200 air
+[12:55:42] [Server thread/INFO]: [Joriaap: Successfully filled 111 blocks]
+[12:55:45] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~200 air
+[12:55:51] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~200 air
+[12:55:52] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~200 air
+[12:55:54] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~200 air
+[12:55:56] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~200 air
+[12:55:58] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~200 air
+[12:56:01] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~200 air
+[12:56:03] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~200 air
+[12:56:04] [Server thread/INFO]: [Joriaap: Successfully filled 94 blocks]
+[12:56:06] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~200 air
+[12:56:08] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~200 air
+[12:56:10] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~200 air
+[12:56:28] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~200 air
+[12:56:29] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~200 air
+[12:56:30] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~200 air
+[12:56:33] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~200 air
+[12:56:36] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~200 air
+[12:56:38] [Server thread/INFO]: NotTheHeroHere issued server command: //sel 2
+[12:56:38] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~200 air
+[12:56:41] [Server thread/INFO]: NotTheHeroHere issued server command: //set 2
+[12:56:42] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~200 air
+[12:56:43] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~200 air
+[12:56:46] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~200 air
+[12:56:49] [Server thread/INFO]: NotTheHeroHere issued server command: /position 2
+[12:56:50] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~200 air
+[12:56:51] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~200 air
+[12:56:55] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~200 air
+[12:56:58] [Server thread/INFO]: Joriaap issued server command: /fill ~ ~ ~ ~20 ~ ~200 air
+[12:57:06] [Server thread/INFO]: NotTheHeroHere issued server command: //set grass
+[12:57:07] [ForkJoinPool-9-worker-2/INFO]: Using com.fastasyncworldedit.bukkit.adapter.NMSRelighterFactory as relighter factory.
+[12:57:09] [Server thread/INFO]: [FAWE Tick Limiter] Detected and cancelled physics lag source at Location{world=CraftWorld{name=world},x=-288.0,y=64.0,z=315.0,pitch=0.0,yaw=0.0}
+[12:57:11] [Server thread/INFO]: NotTheHeroHere issued server command: //set grass_block
+[12:57:38] [Server thread/INFO]: Joriaap issued server command: /worldedit
+[12:57:40] [Server thread/INFO]: Joriaap issued server command: /worldedit
+[12:57:44] [Server thread/INFO]: Joriaap issued server command: /worldedit
+[12:57:45] [Server thread/INFO]: NotTheHeroHere issued server command: //set air
+[12:57:46] [Server thread/INFO]: Joriaap issued server command: /worldedit
+[12:57:49] [Server thread/INFO]: Joriaap issued server command: /worldedit
+[12:57:51] [Server thread/INFO]: Joriaap issued server command: /worldedit
+[12:57:53] [Server thread/INFO]: Joriaap issued server command: /worldedit
+[12:58:05] [Server thread/INFO]: Joriaap issued server command: //wand
+[12:58:23] [Server thread/INFO]: NotTheHeroHere issued server command: //set bedrock
+[12:58:50] [Server thread/INFO]: NotTheHeroHere issued server command: //sel bedrock
+[12:58:52] [Server thread/INFO]: Joriaap issued server command: //paste
+[12:58:54] [Server thread/INFO]: NotTheHeroHere issued server command: //set bedrock
+[12:58:57] [Server thread/INFO]: Joriaap issued server command: //copy
+[12:58:59] [Server thread/INFO]: Joriaap issued server command: //paste
+[13:00:18] [Server thread/INFO]: NotTheHeroHere issued server command: //set air
+[13:00:25] [Server thread/INFO]: NotTheHeroHere issued server command: //set bedrock
+[13:01:01] [Server thread/INFO]: NotTheHeroHere issued server command: //set bedrock
+[13:01:42] [Server thread/INFO]: NotTheHeroHere issued server command: //set bedrock
+[13:01:59] [Server thread/INFO]: NotTheHeroHere issued server command: //set bedrock
+[13:02:21] [Server thread/INFO]: Joriaap issued server command: //wand
+[13:02:28] [Server thread/INFO]: NotTheHeroHere issued server command: //setbiome plain
+[13:02:32] [Server thread/INFO]: Joriaap issued server command: //paste
+[13:02:41] [Server thread/INFO]: NotTheHeroHere issued server command: //undo
+[13:02:42] [Server thread/INFO]: Joriaap issued server command: //paste
+[13:02:43] [Server thread/INFO]: Joriaap issued server command: //wand
+[13:02:46] [Server thread/INFO]: NotTheHeroHere issued server command: //redo
+[13:02:53] [Server thread/INFO]: Joriaap issued server command: //undo
+[13:02:54] [Server thread/INFO]: Joriaap issued server command: //undo
+[13:02:56] [Server thread/INFO]: Joriaap issued server command: //undo
+[13:03:14] [Server thread/INFO]: Joriaap issued server command: //copy
+[13:03:25] [Server thread/INFO]: Joriaap issued server command: //paste
+[13:03:29] [Server thread/INFO]: Joriaap issued server command: //undo
+[13:03:39] [Server thread/INFO]: Joriaap issued server command: //paste
+[13:03:43] [Server thread/INFO]: Joriaap issued server command: //paste
+[13:03:47] [Server thread/INFO]: Joriaap issued server command: //undo
+[13:03:48] [Server thread/INFO]: Joriaap issued server command: //undo
+[13:03:53] [Server thread/INFO]: Joriaap issued server command: //paste
+[13:03:55] [Server thread/INFO]: Joriaap issued server command: //undo
+[13:04:25] [Server thread/INFO]: NotTheHeroHere issued server command: //set grass_block
+[13:05:26] [Server thread/INFO]: NotTheHeroHere issued server command: //set grass_block
+[13:05:36] [Server thread/INFO]: Joriaap lost connection: Disconnected
+[13:05:36] [Server thread/INFO]: Joriaap left the game
+[13:05:40] [Server thread/INFO]: NotTheHeroHere issued server command: //set air
+[13:05:49] [Server thread/INFO]: NotTheHeroHere issued server command: //set air
+[13:06:34] [Server thread/INFO]: NotTheHeroHere issued server command: //set wooden_planks
+[13:06:43] [Server thread/INFO]: NotTheHeroHere issued server command: //set oak_planks
+[13:06:59] [Server thread/INFO]: NotTheHeroHere issued server command: //set oak_planks
+[13:07:06] [Server thread/INFO]: NotTheHeroHere issued server command: //set oak_planks
+[13:07:20] [Server thread/INFO]: NotTheHeroHere issued server command: //set oak_planks
+[13:07:27] [Server thread/INFO]: NotTheHeroHere issued server command: //set oak_planks
+[13:08:43] [Server thread/INFO]: NotTheHeroHere issued server command: /give NotTheHeroHere command_block
+[13:09:44] [Server thread/INFO]: NotTheHeroHere issued server command: /gamerule commandBlockOutput
+[13:11:28] [Server thread/INFO]: NotTheHeroHere lost connection: Disconnected
+[13:11:28] [Server thread/INFO]: NotTheHeroHere left the game
+[13:11:32] [Server thread/INFO]: Attempting to restart with ./start.sh
+[13:11:32] [Server thread/INFO]: Stopping server
+[13:11:32] [Server thread/INFO]: [MineResetLite] Disabling MineResetLite v4.15.1
+[13:11:32] [Server thread/INFO]: [MineResetLite] MineResetLite disabled
+[13:11:32] [Server thread/INFO]: [Shopkeepers] Disabling Shopkeepers v2.15.1
+[13:11:32] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.7+216b061
+[13:11:32] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
+[13:11:32] [Server thread/INFO]: [ItemEdit] Disabling ItemEdit v3.0.3
+[13:11:32] [Server thread/INFO]: [LPC] Disabling LPC v3.5.0
+[13:11:32] [Server thread/INFO]: [Essentials] Disabling Essentials v2.19.0
+[13:11:32] [Server thread/ERROR]: There's a good chance you're reloading your server right now. If that's the case, why do you hate yourself? Expect no support from the EssentialsX team when using /reload.
+[13:11:32] [Server thread/INFO]: [OpenInv] Disabling OpenInv v4.1.10
+[13:11:32] [Server thread/INFO]: [FastAsyncWorldEdit] Disabling FastAsyncWorldEdit v2.2.1-SNAPSHOT-184;d1f3ac8
+[13:11:32] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[13:11:32] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.25
+[13:11:32] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[13:11:32] [Server thread/INFO]: [LuckPerms] Closing storage...
+[13:11:32] [Server thread/INFO]: [LuckPerms] Goodbye!
+[13:11:32] [Server thread/INFO]: Saving players
+[13:11:32] [Server thread/INFO]: Saving worlds
+[13:11:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[13:11:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[13:11:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[13:11:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13:11:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:11:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:11:42] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
