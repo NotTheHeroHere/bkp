@@ -1,0 +1,305 @@
+[16:27:32] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[16:27:41] [Worker-Main-10/INFO]: Loaded 7 recipes
+[16:27:47] [Server thread/INFO]: Starting minecraft server version 1.18.2
+[16:27:47] [Server thread/INFO]: Loading properties
+[16:27:47] [Server thread/INFO]: This server is running CraftBukkit version 3491-Spigot-b081915-95d233d (MC: 1.18.2) (Implementing API version 1.18.2-R0.1-SNAPSHOT)
+[16:27:47] [Server thread/INFO]: Debug logging is disabled
+[16:27:47] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[16:27:47] [Server thread/INFO]: Using 4 threads for Netty based IO
+[16:27:47] [Server thread/INFO]: Default game type: SURVIVAL
+[16:27:47] [Server thread/INFO]: Generating keypair
+[16:27:48] [Server thread/INFO]: Starting Minecraft server on 88.99.11.184:25565
+[16:27:49] [Server thread/INFO]: Using epoll channel type
+[16:27:50] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[16:28:01] [Server thread/WARN]: Legacy plugin SimpleTpa v6.0 does not specify an api-version.
+[16:28:02] [Server thread/INFO]: [SimpleTpa] Loading SimpleTpa v6.0
+[16:28:02] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.4.25
+[16:28:08] [Server thread/INFO]: [SuperVanish] Loading SuperVanish v6.2.7
+[16:28:08] [Server thread/INFO]: [OpenInv] Loading OpenInv v4.1.10
+[16:28:08] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.25
+[16:28:08] [Server thread/INFO]: [0;36;1m       [0;36;22m __    [m
+[16:28:08] [Server thread/INFO]: [0;36;1m  |    [0;36;22m|__)   [0;32;22mLuckPerms[m [0;36;1mv5.4.25[m
+[16:28:08] [Server thread/INFO]: [0;36;1m  |___ [0;36;22m|      [0;30;1mRunning on Bukkit - CraftBukkit[m
+[16:28:08] [Server thread/INFO]: [m
+[16:28:08] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[16:28:10] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[16:28:11] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[16:28:12] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[16:28:12] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 4201ms)
+[16:28:12] [Server thread/INFO]: Preparing level "world"
+[16:28:15] [Server thread/INFO]: -------- World Settings For [world] --------
+[16:28:15] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[16:28:15] [Server thread/INFO]: Cane Growth Modifier: 100%
+[16:28:15] [Server thread/INFO]: Melon Growth Modifier: 100%
+[16:28:15] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[16:28:15] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[16:28:15] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[16:28:15] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[16:28:15] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[16:28:15] [Server thread/INFO]: Potato Growth Modifier: 100%
+[16:28:15] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[16:28:15] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[16:28:15] [Server thread/INFO]: Vine Growth Modifier: 100%
+[16:28:15] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[16:28:15] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[16:28:15] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[16:28:15] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[16:28:15] [Server thread/INFO]: Experience Merge Radius: 3.0
+[16:28:15] [Server thread/INFO]: Mob Spawn Range: 6
+[16:28:15] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[16:28:15] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[16:28:15] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[16:28:15] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[16:28:15] [Server thread/INFO]: Max TNT Explosions: 100
+[16:28:15] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[16:28:15] [Server thread/INFO]: Item Despawn Rate: 6000
+[16:28:15] [Server thread/INFO]: Item Merge Radius: 2.5
+[16:28:15] [Server thread/INFO]: View Distance: 10
+[16:28:15] [Server thread/INFO]: Simulation Distance: 10
+[16:28:15] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[16:28:15] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[16:28:15] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[16:28:15] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[16:28:16] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[16:28:16] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[16:28:16] [Server thread/INFO]: Cane Growth Modifier: 100%
+[16:28:16] [Server thread/INFO]: Melon Growth Modifier: 100%
+[16:28:16] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[16:28:16] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[16:28:16] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[16:28:16] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[16:28:16] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[16:28:16] [Server thread/INFO]: Potato Growth Modifier: 100%
+[16:28:16] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[16:28:16] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[16:28:16] [Server thread/INFO]: Vine Growth Modifier: 100%
+[16:28:16] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[16:28:16] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[16:28:16] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[16:28:16] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[16:28:16] [Server thread/INFO]: Experience Merge Radius: 3.0
+[16:28:16] [Server thread/INFO]: Mob Spawn Range: 6
+[16:28:16] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[16:28:16] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[16:28:16] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[16:28:16] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[16:28:16] [Server thread/INFO]: Max TNT Explosions: 100
+[16:28:16] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[16:28:16] [Server thread/INFO]: Item Despawn Rate: 6000
+[16:28:16] [Server thread/INFO]: Item Merge Radius: 2.5
+[16:28:16] [Server thread/INFO]: View Distance: 10
+[16:28:16] [Server thread/INFO]: Simulation Distance: 10
+[16:28:16] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[16:28:16] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[16:28:16] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[16:28:16] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[16:28:16] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[16:28:16] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[16:28:16] [Server thread/INFO]: Cane Growth Modifier: 100%
+[16:28:16] [Server thread/INFO]: Melon Growth Modifier: 100%
+[16:28:16] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[16:28:16] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[16:28:16] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[16:28:16] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[16:28:16] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[16:28:16] [Server thread/INFO]: Potato Growth Modifier: 100%
+[16:28:16] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[16:28:16] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[16:28:16] [Server thread/INFO]: Vine Growth Modifier: 100%
+[16:28:16] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[16:28:16] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[16:28:16] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[16:28:16] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[16:28:16] [Server thread/INFO]: Experience Merge Radius: 3.0
+[16:28:16] [Server thread/INFO]: Mob Spawn Range: 6
+[16:28:16] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[16:28:16] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[16:28:16] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[16:28:16] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[16:28:16] [Server thread/INFO]: Max TNT Explosions: 100
+[16:28:16] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[16:28:16] [Server thread/INFO]: Item Despawn Rate: 6000
+[16:28:16] [Server thread/INFO]: Item Merge Radius: 2.5
+[16:28:16] [Server thread/INFO]: View Distance: 10
+[16:28:16] [Server thread/INFO]: Simulation Distance: 10
+[16:28:16] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[16:28:16] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[16:28:16] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[16:28:16] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[16:28:16] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:28:19] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[16:28:19] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[16:28:19] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[16:28:19] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[16:28:19] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[16:28:19] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[16:28:20] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[16:28:20] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[16:28:20] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[16:28:21] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[16:28:22] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[16:28:23] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[16:28:23] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[16:28:23] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[16:28:24] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[16:28:24] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[16:28:25] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[16:28:25] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[16:28:26] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[16:28:26] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[16:28:27] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[16:28:27] [Worker-Main-8/INFO]: Preparing spawn area: 1%
+[16:28:28] [Worker-Main-9/INFO]: Preparing spawn area: 3%
+[16:28:28] [Worker-Main-6/INFO]: Preparing spawn area: 3%
+[16:28:28] [Worker-Main-9/INFO]: Preparing spawn area: 5%
+[16:28:29] [Worker-Main-7/INFO]: Preparing spawn area: 6%
+[16:28:29] [Worker-Main-7/INFO]: Preparing spawn area: 9%
+[16:28:30] [Worker-Main-8/INFO]: Preparing spawn area: 9%
+[16:28:30] [Worker-Main-6/INFO]: Preparing spawn area: 9%
+[16:28:31] [Worker-Main-6/INFO]: Preparing spawn area: 10%
+[16:28:31] [Worker-Main-9/INFO]: Preparing spawn area: 13%
+[16:28:32] [Worker-Main-6/INFO]: Preparing spawn area: 19%
+[16:28:33] [Worker-Main-9/INFO]: Preparing spawn area: 54%
+[16:28:33] [Worker-Main-7/INFO]: Preparing spawn area: 70%
+[16:28:33] [Worker-Main-6/INFO]: Preparing spawn area: 76%
+[16:28:35] [Worker-Main-8/INFO]: Preparing spawn area: 76%
+[16:28:35] [Worker-Main-8/INFO]: Preparing spawn area: 76%
+[16:28:36] [Worker-Main-9/INFO]: Preparing spawn area: 88%
+[16:28:36] [Worker-Main-9/INFO]: Preparing spawn area: 88%
+[16:28:36] [Server thread/INFO]: Time elapsed: 19742 ms
+[16:28:36] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[16:28:38] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[16:28:38] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[16:28:38] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[16:28:38] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[16:28:39] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[16:28:39] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[16:28:39] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[16:28:40] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[16:28:40] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[16:28:41] [Worker-Main-8/INFO]: Preparing spawn area: 1%
+[16:28:41] [Worker-Main-10/INFO]: Preparing spawn area: 4%
+[16:28:42] [Worker-Main-6/INFO]: Preparing spawn area: 4%
+[16:28:42] [Worker-Main-6/INFO]: Preparing spawn area: 5%
+[16:28:43] [Worker-Main-8/INFO]: Preparing spawn area: 6%
+[16:28:43] [Worker-Main-9/INFO]: Preparing spawn area: 6%
+[16:28:44] [Worker-Main-8/INFO]: Preparing spawn area: 8%
+[16:28:45] [Worker-Main-10/INFO]: Preparing spawn area: 12%
+[16:28:45] [Worker-Main-9/INFO]: Preparing spawn area: 14%
+[16:28:45] [Worker-Main-10/INFO]: Preparing spawn area: 19%
+[16:28:46] [Worker-Main-6/INFO]: Preparing spawn area: 33%
+[16:28:46] [Worker-Main-7/INFO]: Preparing spawn area: 47%
+[16:28:47] [Worker-Main-6/INFO]: Preparing spawn area: 84%
+[16:28:48] [Server thread/INFO]: Time elapsed: 11405 ms
+[16:28:48] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[16:28:49] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[16:28:49] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[16:28:49] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[16:28:49] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[16:28:50] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[16:28:51] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[16:28:51] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[16:28:51] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[16:28:52] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[16:28:52] [Worker-Main-10/INFO]: Preparing spawn area: 4%
+[16:28:53] [Worker-Main-6/INFO]: Preparing spawn area: 34%
+[16:28:53] [Worker-Main-7/INFO]: Preparing spawn area: 68%
+[16:28:54] [Worker-Main-8/INFO]: Preparing spawn area: 91%
+[16:28:54] [Server thread/INFO]: Time elapsed: 6071 ms
+[16:28:54] [Server thread/INFO]: [SimpleTpa] Enabling SimpleTpa v6.0
+[16:28:54] [Server thread/INFO]: [0;33;1m[21m[SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9[m
+[16:28:54] [Server thread/INFO]: [0;33;1m[21m[SimpleTpa] Simple Tpa has been enabled on version 6.0[m
+[16:28:54] [Server thread/INFO]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
+[16:28:54] [Server thread/INFO]: [SuperVanish] Enabling SuperVanish v6.2.7
+[16:28:54] [Server thread/INFO]: [SuperVanish] Please install ProtocolLib to be able to use all SuperVanish features: https://www.spigotmc.org/resources/protocollib.1997/
+[16:28:54] [Server thread/INFO]: [OpenInv] Enabling OpenInv v4.1.10
+[16:28:54] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[16:28:54] [Server thread/INFO]: Done (42.481s)! For help, type "help"
+[16:29:06] [luckperms-command-executor/INFO]: [0;37;22m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m][m [0;37;22mPreparing a new editor session, please wait...[m
+[16:29:07] [luckperms-command-executor/INFO]: [0;37;22m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m][m [0;32;1mClick the link below to open the editor:[m
+[16:29:07] [luckperms-command-executor/INFO]: [0;36;1mhttps://luckperms.net/editor/5Og8ZKlxrn[m
+[16:29:16] [luckperms-worker-4/INFO]: [0;37;22m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m][m [0;36;1mAn editor window has connected, but it is not yet trusted.[m
+[16:29:16] [luckperms-worker-4/INFO]: [0;37;22m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m][m [0;30;1m([0;37;22msession id = [0;37;1m6595-594e[0;37;22m, browser = [0;37;1mOpera on Windows[0;30;1m)[m
+[16:29:16] [luckperms-worker-4/INFO]: [0;37;22m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m][m [0;37;22mIf it was you, run [0;32;1m/luckperms trusteditor 6595-594e[0;37;22m to trust the session![m
+[16:29:20] [luckperms-command-executor/INFO]: [0;37;22m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m][m [0;32;1mThe editor session has been marked as trusted.[m
+[16:29:20] [luckperms-command-executor/INFO]: [0;37;22m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m][m [0;37;22mIn the future, connections from the same browser will be trusted automatically.[m
+[16:29:20] [luckperms-command-executor/INFO]: [0;37;22m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m][m [0;37;22mThe plugin will now attempt to establish a connection with the editor...[m
+[16:29:20] [luckperms-worker-4/INFO]: [0;37;22m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m][m [0;36;1mEditor window connected successfully.[m
+[16:31:05] [luckperms-worker-4/INFO]: [0;37;22m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m][m [0;37;22mChanges have been received from the connected web editor session.[m
+[16:31:05] [luckperms-worker-4/INFO]: [0;37;22m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m][m [0;32;1mWeb editor data was applied to group [0;36;1mmember[0;32;1m successfully.[m
+[16:31:05] [luckperms-worker-4/INFO]: [0;37;22m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m][m [0;37;22m([0;32;1m6[0;37;22m additions and [0;31;1m0[0;37;22m deletions)[m
+[16:31:05] [luckperms-worker-4/INFO]: [0;32;1m+[m  [0;37;1mgroup.default [0;37;22m([0;32;1mtrue[0;37;22m)[m
+[16:31:05] [luckperms-worker-4/INFO]: [0;32;1m+[m  [0;37;1mweight.1 [0;37;22m([0;32;1mtrue[0;37;22m)[m
+[16:31:05] [luckperms-worker-4/INFO]: [0;32;1m+[m  [0;37;1msimpletpa.tpa [0;37;22m([0;32;1mtrue[0;37;22m)[m
+[16:31:05] [luckperms-worker-4/INFO]: [0;32;1m+[m  [0;37;1msimpletpa.tpcancel [0;37;22m([0;32;1mtrue[0;37;22m)[m
+[16:31:05] [luckperms-worker-4/INFO]: [0;32;1m+[m  [0;37;1msimpletpa.tpdeny [0;37;22m([0;32;1mtrue[0;37;22m)[m
+[16:31:05] [luckperms-worker-4/INFO]: [0;32;1m+[m  [0;37;1msimpletpa.tpaccept [0;37;22m([0;32;1mtrue[0;37;22m)[m
+[16:31:42] [luckperms-worker-4/INFO]: [0;37;22m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m][m [0;37;22mChanges have been received from the connected web editor session.[m
+[16:31:42] [luckperms-worker-4/INFO]: [0;37;22m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m][m [0;32;1mWeb editor data was applied to group [0;36;1mdefault[0;32;1m successfully.[m
+[16:31:42] [luckperms-worker-4/INFO]: [0;37;22m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m][m [0;37;22m([0;32;1m5[0;37;22m additions and [0;31;1m0[0;37;22m deletions)[m
+[16:31:42] [luckperms-worker-4/INFO]: [0;32;1m+[m  [0;37;1msimpletpa.tpa [0;37;22m([0;32;1mtrue[0;37;22m)[m
+[16:31:42] [luckperms-worker-4/INFO]: [0;32;1m+[m  [0;37;1msimpletpa.tpcancel [0;37;22m([0;32;1mtrue[0;37;22m)[m
+[16:31:42] [luckperms-worker-4/INFO]: [0;32;1m+[m  [0;37;1mweight.1 [0;37;22m([0;32;1mtrue[0;37;22m)[m
+[16:31:42] [luckperms-worker-4/INFO]: [0;32;1m+[m  [0;37;1msimpletpa.tpdeny [0;37;22m([0;32;1mtrue[0;37;22m)[m
+[16:31:42] [luckperms-worker-4/INFO]: [0;32;1m+[m  [0;37;1msimpletpa.tpaccept [0;37;22m([0;32;1mtrue[0;37;22m)[m
+[16:31:42] [luckperms-worker-4/INFO]: [0;37;22m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m][m [0;32;1mWeb editor data was applied to group [0;36;1mmember[0;32;1m successfully.[m
+[16:31:42] [luckperms-worker-4/INFO]: [0;37;22m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m][m [0;37;22m([0;32;1m0[0;37;22m additions and [0;31;1m5[0;37;22m deletions)[m
+[16:31:42] [luckperms-worker-4/INFO]: [0;31;1m-[m  [0;37;1msimpletpa.tpa [0;37;22m([0;32;1mtrue[0;37;22m)[m
+[16:31:42] [luckperms-worker-4/INFO]: [0;31;1m-[m  [0;37;1msimpletpa.tpaccept [0;37;22m([0;32;1mtrue[0;37;22m)[m
+[16:31:42] [luckperms-worker-4/INFO]: [0;31;1m-[m  [0;37;1msimpletpa.tpcancel [0;37;22m([0;32;1mtrue[0;37;22m)[m
+[16:31:42] [luckperms-worker-4/INFO]: [0;31;1m-[m  [0;37;1msimpletpa.tpdeny [0;37;22m([0;32;1mtrue[0;37;22m)[m
+[16:31:42] [luckperms-worker-4/INFO]: [0;31;1m-[m  [0;37;1mweight.1 [0;37;22m([0;32;1mtrue[0;37;22m)[m
+[16:40:04] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[16:40:05] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[16:40:06] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[16:40:06] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[16:40:06] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[16:40:07] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[16:40:07] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[16:40:08] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[16:40:08] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[16:40:08] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[16:40:09] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[16:40:09] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[16:40:09] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[16:40:10] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[16:40:10] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[16:40:10] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[16:40:11] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[16:40:11] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[16:40:11] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[16:40:12] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[16:40:12] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[16:40:12] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[16:40:12] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[16:40:12] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[16:40:12] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[16:40:13] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[16:40:13] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[16:40:14] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[16:40:14] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[16:40:15] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[16:40:16] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[16:40:17] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[16:40:17] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[16:44:16] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[16:44:20] [Server thread/INFO]: Stopping the server
+[16:44:20] [Server thread/INFO]: Stopping server
+[16:44:20] [Server thread/INFO]: [OpenInv] Disabling OpenInv v4.1.10
+[16:44:20] [Server thread/INFO]: [SuperVanish] Disabling SuperVanish v6.2.7
+[16:44:20] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.25
+[16:44:20] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[16:44:20] [Server thread/INFO]: [LuckPerms] Closing storage...
+[16:44:20] [Server thread/INFO]: [LuckPerms] Goodbye!
+[16:44:20] [Server thread/INFO]: [SimpleTpa] Disabling SimpleTpa v6.0
+[16:44:20] [Server thread/INFO]: [0;36;1m[21m[SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9[m
+[16:44:20] [Server thread/INFO]: [0;36;1m[21m[SimpleTpa] Simple Tpa has been disabled on version 6.0[m
+[16:44:20] [Server thread/INFO]: Saving players
+[16:44:20] [Server thread/INFO]: Saving worlds
+[16:44:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16:44:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[16:44:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[16:44:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:44:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:44:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:44:41] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

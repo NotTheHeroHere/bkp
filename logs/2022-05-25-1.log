@@ -1,0 +1,55 @@
+[19:20:34] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[19:20:39] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:20:39] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:20:39] [ServerMain/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19:20:39] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19:20:39] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:20:41] [Worker-Main-9/INFO]: Loaded 7 recipes
+[19:20:41] [Worker-Main-9/INFO]: Loaded 1141 advancements
+[19:20:44] [Server thread/INFO]: Starting minecraft server version 1.18.2
+[19:20:44] [Server thread/INFO]: Loading properties
+[19:20:44] [Server thread/INFO]: Default game type: SURVIVAL
+[19:20:44] [Server thread/INFO]: Generating keypair
+[19:20:44] [Server thread/INFO]: Starting Minecraft server on 88.99.11.184:25565
+[19:20:44] [Server thread/INFO]: Using epoll channel type
+[19:20:44] [Server thread/INFO]: Preparing level "world"
+[19:20:44] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:20:47] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[19:20:47] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[19:20:47] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[19:20:47] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[19:20:47] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[19:20:47] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[19:20:47] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[19:20:48] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[19:20:48] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[19:20:49] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[19:20:49] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[19:20:50] [Worker-Main-7/INFO]: Preparing spawn area: 1%
+[19:20:50] [Worker-Main-10/INFO]: Preparing spawn area: 1%
+[19:20:51] [Worker-Main-10/INFO]: Preparing spawn area: 2%
+[19:20:51] [Worker-Main-8/INFO]: Preparing spawn area: 5%
+[19:20:52] [Worker-Main-8/INFO]: Preparing spawn area: 14%
+[19:20:52] [Worker-Main-8/INFO]: Preparing spawn area: 37%
+[19:20:54] [Worker-Main-8/INFO]: Preparing spawn area: 50%
+[19:20:54] [Worker-Main-8/INFO]: Preparing spawn area: 50%
+[19:20:54] [Worker-Main-10/INFO]: Preparing spawn area: 89%
+[19:20:54] [Server thread/INFO]: Time elapsed: 9983 ms
+[19:20:54] [Server thread/INFO]: Done (10.177s)! For help, type "help"
+[19:33:01] [User Authenticator #1/INFO]: UUID of player NotTheHeroHere is 6435c2b0-db69-4d6b-9182-eb4b0a9ba0fc
+[19:33:02] [Server thread/INFO]: NotTheHeroHere[/83.233.246.122:38271] logged in with entity id 158 at (-387.5, 90.0, -55.5)
+[19:33:02] [Server thread/INFO]: NotTheHeroHere joined the game
+[19:33:13] [Server thread/INFO]: [NotTheHeroHere: Set own game mode to Creative Mode]
+[19:33:34] [Server thread/INFO]: NotTheHeroHere has reached the goal [Sky's the Limit]
+[19:35:16] [Server thread/INFO]: NotTheHeroHere lost connection: Disconnected
+[19:35:16] [Server thread/INFO]: NotTheHeroHere left the game
+[19:36:19] [User Authenticator #2/INFO]: UUID of player NotTheHeroHere is 6435c2b0-db69-4d6b-9182-eb4b0a9ba0fc
+[19:36:19] [Server thread/INFO]: NotTheHeroHere[/83.233.247.126:23639] logged in with entity id 3010 at (-374.1682856485116, 64.61828829012613, 86.74921921587772)
+[19:36:19] [Server thread/INFO]: NotTheHeroHere joined the game
+[19:36:52] [Server thread/INFO]: [NotTheHeroHere: Teleported NotTheHeroHere to 0.500000, 200.000000, 0.500000]
+[19:37:47] [Server thread/INFO]: [NotTheHeroHere: Successfully filled 31815 blocks]
+[19:38:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2201ms or 44 ticks behind
+[19:38:47] [Server thread/WARN]: NotTheHeroHere moved too quickly! -9.788363976085975,0.0,3.2366290351865903
+[19:39:13] [Server Watchdog/ERROR]: A single server tick took 60.00 seconds (should be max 0.05)
+[19:39:13] [Server Watchdog/ERROR]: Considering it to be crashed, server will forcibly shutdown.
+[19:39:14] [Server Watchdog/ERROR]: This crash report has been saved to: /root/minecraft/./crash-reports/crash-2022-05-25_19.39.14-server.txt

@@ -1,0 +1,225 @@
+[21:37:57] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21:38:05] [Worker-Main-6/INFO]: Loaded 7 recipes
+[21:38:11] [Server thread/INFO]: Starting minecraft server version 1.18.2
+[21:38:11] [Server thread/INFO]: Loading properties
+[21:38:12] [Server thread/INFO]: This server is running CraftBukkit version 3491-Spigot-b081915-95d233d (MC: 1.18.2) (Implementing API version 1.18.2-R0.1-SNAPSHOT)
+[21:38:12] [Server thread/INFO]: Debug logging is disabled
+[21:38:12] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[21:38:12] [Server thread/INFO]: Using 4 threads for Netty based IO
+[21:38:12] [Server thread/INFO]: Default game type: SURVIVAL
+[21:38:12] [Server thread/INFO]: Generating keypair
+[21:38:12] [Server thread/INFO]: Starting Minecraft server on 88.99.11.184:25565
+[21:38:13] [Server thread/INFO]: Using epoll channel type
+[21:38:14] [Server thread/ERROR]: Could not load 'plugins/CombatLogX.jar' in folder 'plugins'
+org.bukkit.plugin.UnknownDependencyException: Unknown dependency SirBlobmanCore. Please download and install SirBlobmanCore to run this plugin.
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:269) ~[spigot-api-1.18.2-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_18_R2.CraftServer.loadPlugins(CraftServer.java:407) ~[spigot-1.18.2-R0.1-SNAPSHOT.jar:3491-Spigot-b081915-95d233d]
+	at net.minecraft.server.dedicated.DedicatedServer.e(DedicatedServer.java:232) ~[spigot-1.18.2-R0.1-SNAPSHOT.jar:3491-Spigot-b081915-95d233d]
+	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1007) ~[spigot-1.18.2-R0.1-SNAPSHOT.jar:3491-Spigot-b081915-95d233d]
+	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:304) ~[spigot-1.18.2-R0.1-SNAPSHOT.jar:3491-Spigot-b081915-95d233d]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+[21:38:14] [Server thread/INFO]: [LifeSteal-Smp-Plugin] Loading LifeSteal-Smp-Plugin v1.0
+[21:38:14] [Server thread/WARN]: [LifeSteal-Smp-Plugin] Could not save heartRecipe.yml to plugins/LifeSteal-Smp-Plugin/heartRecipe.yml because heartRecipe.yml already exists.
+[21:38:14] [Server thread/WARN]: [LifeSteal-Smp-Plugin] Could not save beaconRecipe.yml to plugins/LifeSteal-Smp-Plugin/beaconRecipe.yml because beaconRecipe.yml already exists.
+[21:38:14] [Server thread/INFO]: Preparing level "world"
+[21:38:16] [Server thread/INFO]: -------- World Settings For [world] --------
+[21:38:16] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[21:38:16] [Server thread/INFO]: Cane Growth Modifier: 100%
+[21:38:16] [Server thread/INFO]: Melon Growth Modifier: 100%
+[21:38:16] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[21:38:16] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[21:38:16] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[21:38:16] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[21:38:16] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[21:38:16] [Server thread/INFO]: Potato Growth Modifier: 100%
+[21:38:16] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[21:38:16] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[21:38:16] [Server thread/INFO]: Vine Growth Modifier: 100%
+[21:38:16] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[21:38:16] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[21:38:16] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[21:38:16] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[21:38:16] [Server thread/INFO]: Experience Merge Radius: 3.0
+[21:38:16] [Server thread/INFO]: Mob Spawn Range: 6
+[21:38:16] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[21:38:16] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[21:38:16] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[21:38:16] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[21:38:16] [Server thread/INFO]: Max TNT Explosions: 100
+[21:38:16] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[21:38:16] [Server thread/INFO]: Item Despawn Rate: 6000
+[21:38:16] [Server thread/INFO]: Item Merge Radius: 2.5
+[21:38:16] [Server thread/INFO]: View Distance: 10
+[21:38:16] [Server thread/INFO]: Simulation Distance: 10
+[21:38:16] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[21:38:16] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[21:38:16] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[21:38:16] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[21:38:17] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[21:38:17] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[21:38:17] [Server thread/INFO]: Cane Growth Modifier: 100%
+[21:38:17] [Server thread/INFO]: Melon Growth Modifier: 100%
+[21:38:17] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[21:38:17] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[21:38:17] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[21:38:17] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[21:38:17] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[21:38:17] [Server thread/INFO]: Potato Growth Modifier: 100%
+[21:38:17] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[21:38:17] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[21:38:17] [Server thread/INFO]: Vine Growth Modifier: 100%
+[21:38:17] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[21:38:17] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[21:38:17] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[21:38:17] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[21:38:17] [Server thread/INFO]: Experience Merge Radius: 3.0
+[21:38:17] [Server thread/INFO]: Mob Spawn Range: 6
+[21:38:17] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[21:38:17] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[21:38:17] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[21:38:17] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[21:38:17] [Server thread/INFO]: Max TNT Explosions: 100
+[21:38:17] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[21:38:17] [Server thread/INFO]: Item Despawn Rate: 6000
+[21:38:17] [Server thread/INFO]: Item Merge Radius: 2.5
+[21:38:17] [Server thread/INFO]: View Distance: 10
+[21:38:17] [Server thread/INFO]: Simulation Distance: 10
+[21:38:17] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[21:38:17] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[21:38:17] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[21:38:17] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[21:38:18] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[21:38:18] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[21:38:18] [Server thread/INFO]: Cane Growth Modifier: 100%
+[21:38:18] [Server thread/INFO]: Melon Growth Modifier: 100%
+[21:38:18] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[21:38:18] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[21:38:18] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[21:38:18] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[21:38:18] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[21:38:18] [Server thread/INFO]: Potato Growth Modifier: 100%
+[21:38:18] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[21:38:18] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[21:38:18] [Server thread/INFO]: Vine Growth Modifier: 100%
+[21:38:18] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[21:38:18] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[21:38:18] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[21:38:18] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[21:38:18] [Server thread/INFO]: Experience Merge Radius: 3.0
+[21:38:18] [Server thread/INFO]: Mob Spawn Range: 6
+[21:38:18] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[21:38:18] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[21:38:18] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[21:38:18] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[21:38:18] [Server thread/INFO]: Max TNT Explosions: 100
+[21:38:18] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[21:38:18] [Server thread/INFO]: Item Despawn Rate: 6000
+[21:38:18] [Server thread/INFO]: Item Merge Radius: 2.5
+[21:38:18] [Server thread/INFO]: View Distance: 10
+[21:38:18] [Server thread/INFO]: Simulation Distance: 10
+[21:38:18] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[21:38:18] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[21:38:18] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[21:38:18] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[21:38:18] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:38:24] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[21:38:24] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[21:38:24] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[21:38:24] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[21:38:24] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[21:38:25] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[21:38:25] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[21:38:25] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[21:38:25] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[21:38:25] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[21:38:25] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[21:38:25] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[21:38:25] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[21:38:25] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[21:38:25] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[21:38:25] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[21:38:26] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[21:38:26] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[21:38:27] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[21:38:27] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[21:38:28] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[21:38:28] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[21:38:29] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[21:38:29] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[21:38:30] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[21:38:30] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[21:38:31] [Worker-Main-9/INFO]: Preparing spawn area: 1%
+[21:38:31] [Worker-Main-8/INFO]: Preparing spawn area: 4%
+[21:38:32] [Worker-Main-8/INFO]: Preparing spawn area: 7%
+[21:38:32] [Worker-Main-10/INFO]: Preparing spawn area: 13%
+[21:38:33] [Worker-Main-7/INFO]: Preparing spawn area: 13%
+[21:38:33] [Worker-Main-10/INFO]: Preparing spawn area: 20%
+[21:38:34] [Worker-Main-8/INFO]: Preparing spawn area: 23%
+[21:38:34] [Worker-Main-10/INFO]: Preparing spawn area: 27%
+[21:38:35] [Worker-Main-10/INFO]: Preparing spawn area: 35%
+[21:38:35] [Worker-Main-8/INFO]: Preparing spawn area: 48%
+[21:38:36] [Worker-Main-10/INFO]: Preparing spawn area: 53%
+[21:38:36] [Worker-Main-9/INFO]: Preparing spawn area: 70%
+[21:38:37] [Worker-Main-6/INFO]: Preparing spawn area: 85%
+[21:38:38] [Server thread/INFO]: Time elapsed: 20555 ms
+[21:38:39] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[21:38:41] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[21:38:41] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[21:38:41] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[21:38:41] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[21:38:41] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[21:38:41] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[21:38:42] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[21:38:42] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[21:38:43] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[21:38:44] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[21:38:44] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[21:38:45] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[21:38:45] [Worker-Main-6/INFO]: Preparing spawn area: 4%
+[21:38:45] [Worker-Main-8/INFO]: Preparing spawn area: 9%
+[21:38:46] [Worker-Main-8/INFO]: Preparing spawn area: 17%
+[21:38:46] [Worker-Main-7/INFO]: Preparing spawn area: 64%
+[21:38:48] [Server thread/INFO]: Time elapsed: 8606 ms
+[21:38:48] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[21:38:49] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[21:38:49] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[21:38:49] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[21:38:49] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[21:38:50] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[21:38:50] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[21:38:51] [Worker-Main-10/INFO]: Preparing spawn area: 1%
+[21:38:51] [Worker-Main-8/INFO]: Preparing spawn area: 5%
+[21:38:52] [Worker-Main-8/INFO]: Preparing spawn area: 12%
+[21:38:52] [Worker-Main-8/INFO]: Preparing spawn area: 24%
+[21:38:53] [Worker-Main-8/INFO]: Preparing spawn area: 58%
+[21:38:53] [Server thread/INFO]: Time elapsed: 5528 ms
+[21:38:53] [Server thread/INFO]: [LifeSteal-Smp-Plugin] Enabling LifeSteal-Smp-Plugin v1.0
+[21:38:54] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[21:38:54] [Server thread/INFO]: Done (39.791s)! For help, type "help"
+[21:38:55] [Server thread/INFO]: com.mojang.authlib.GameProfile@1c538fb1[id=<null>,name=Waltoy,properties={},legacy=false] (/5.180.0.160:56177) lost connection: Disconnected
+[21:38:55] [Server thread/INFO]: com.mojang.authlib.GameProfile@21e8f903[id=<null>,name=xsisorm,properties={},legacy=false] (/81.226.224.168:51374) lost connection: Disconnected
+[21:38:55] [Server thread/INFO]: com.mojang.authlib.GameProfile@25554825[id=<null>,name=MiltonGrande7,properties={},legacy=false] (/83.233.247.3:26171) lost connection: Disconnected
+[21:39:05] [User Authenticator #1/INFO]: UUID of player Waltoy is 7c66e655-d80d-401d-b97e-5c6bf0fee9aa
+[21:39:05] [User Authenticator #2/INFO]: UUID of player MiltonGrande7 is 16666028-dd41-4b8b-867d-21f4af84b97d
+[21:39:06] [Server thread/INFO]: Waltoy[/5.180.0.160:56183] logged in with entity id 77 at ([world]-855.8838481239023, 64.0, 1135.5183875409946)
+[21:39:11] [Server thread/INFO]: MiltonGrande7[/83.233.247.3:26196] logged in with entity id 78 at ([world]-857.9978071263185, 64.0, 1137.6045899801966)
+[21:39:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5736ms or 114 ticks behind
+[21:39:11] [User Authenticator #3/INFO]: UUID of player xsisorm is 41d5215b-11d3-4aeb-aad6-7aac06ec096b
+[21:39:12] [Server thread/INFO]: xsisorm[/81.226.224.168:51405] logged in with entity id 82 at ([world]216.30232343460062, 71.0, -459.73927785396563)
+[21:39:31] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: Input/output error
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:?]
+	at java.io.FileInputStream.read(FileInputStream.java:276) ~[?:?]
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:244) ~[?:?]
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:263) ~[?:?]
+	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:169) ~[jline-2.12.1.jar:?]
+	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:137) ~[jline-2.12.1.jar:?]
+	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:246) ~[jline-2.12.1.jar:?]
+	at jline.internal.InputStreamReader.read(InputStreamReader.java:261) ~[jline-2.12.1.jar:?]
+	at jline.internal.InputStreamReader.read(InputStreamReader.java:198) ~[jline-2.12.1.jar:?]
+	at jline.console.ConsoleReader.readCharacter(ConsoleReader.java:2145) ~[jline-2.12.1.jar:?]
+	at jline.console.ConsoleReader.readLine(ConsoleReader.java:2349) ~[jline-2.12.1.jar:?]
+	at net.minecraft.server.dedicated.DedicatedServer$1.run(DedicatedServer.java:129) [spigot-1.18.2-R0.1-SNAPSHOT.jar:3491-Spigot-b081915-95d233d]
+[21:39:31] [Thread-1/INFO]: Stopping server
+[21:39:31] [Thread-1/INFO]: [LifeSteal-Smp-Plugin] Disabling LifeSteal-Smp-Plugin v1.0
+[21:39:31] [Thread-1/INFO]: Saving players
