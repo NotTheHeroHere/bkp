@@ -1,0 +1,688 @@
+[18:57:01] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[18:57:11] [Worker-Main-7/INFO]: Loaded 7 recipes
+[18:57:17] [Server thread/INFO]: Starting minecraft server version 1.18.2
+[18:57:17] [Server thread/INFO]: Loading properties
+[18:57:18] [Server thread/INFO]: This server is running CraftBukkit version 3491-Spigot-b081915-95d233d (MC: 1.18.2) (Implementing API version 1.18.2-R0.1-SNAPSHOT)
+[18:57:18] [Server thread/INFO]: Debug logging is disabled
+[18:57:18] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[18:57:18] [Server thread/INFO]: Using 4 threads for Netty based IO
+[18:57:18] [Server thread/INFO]: Default game type: SURVIVAL
+[18:57:18] [Server thread/INFO]: Generating keypair
+[18:57:18] [Server thread/INFO]: Starting Minecraft server on 88.99.11.184:25565
+[18:57:19] [Server thread/INFO]: Using epoll channel type
+[18:57:21] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[18:57:33] [Server thread/WARN]: Legacy plugin SimpleTpa v6.0 does not specify an api-version.
+[18:57:33] [Server thread/INFO]: [SimpleTpa] Loading SimpleTpa v6.0
+[18:57:33] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.4.25
+[18:57:34] [Server thread/INFO]: [OpenInv] Loading OpenInv v4.1.10
+[18:57:34] [Server thread/INFO]: [VeinMiner] Loading VeinMiner v1.17.10
+[18:57:34] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v4.8.0
+[18:57:39] [Server thread/INFO]: [Orebfuscator] Loading Orebfuscator v5.2.6
+[18:57:39] [Server thread/INFO]: [SuperVanish] Loading SuperVanish v6.2.7
+[18:57:39] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.25
+[18:57:39] [Server thread/INFO]: [0;36;1m       [0;36;22m __    [m
+[18:57:39] [Server thread/INFO]: [0;36;1m  |    [0;36;22m|__)   [0;32;22mLuckPerms[m [0;36;1mv5.4.25[m
+[18:57:39] [Server thread/INFO]: [0;36;1m  |___ [0;36;22m|      [0;30;1mRunning on Bukkit - CraftBukkit[m
+[18:57:39] [Server thread/INFO]: [m
+[18:57:39] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[18:57:40] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[18:57:42] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[18:57:42] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[18:57:42] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 3597ms)
+[18:57:42] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v4.8.0
+[18:57:42] [Server thread/INFO]: [ProtocolLib] Started structure compiler thread.
+[18:57:43] [Server thread/INFO]: Preparing level "world"
+[18:57:47] [Server thread/INFO]: -------- World Settings For [world] --------
+[18:57:47] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[18:57:47] [Server thread/INFO]: Cane Growth Modifier: 100%
+[18:57:47] [Server thread/INFO]: Melon Growth Modifier: 100%
+[18:57:47] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[18:57:47] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[18:57:47] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[18:57:47] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[18:57:47] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[18:57:47] [Server thread/INFO]: Potato Growth Modifier: 100%
+[18:57:47] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[18:57:47] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[18:57:47] [Server thread/INFO]: Vine Growth Modifier: 100%
+[18:57:47] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[18:57:47] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[18:57:47] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[18:57:47] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[18:57:47] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[18:57:47] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[18:57:47] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[18:57:47] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[18:57:47] [Server thread/INFO]: Mob Spawn Range: 6
+[18:57:47] [Server thread/INFO]: Experience Merge Radius: 3.0
+[18:57:47] [Server thread/INFO]: Max TNT Explosions: 100
+[18:57:47] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[18:57:47] [Server thread/INFO]: Item Despawn Rate: 6000
+[18:57:47] [Server thread/INFO]: Item Merge Radius: 2.5
+[18:57:47] [Server thread/INFO]: View Distance: 10
+[18:57:47] [Server thread/INFO]: Simulation Distance: 10
+[18:57:47] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18:57:47] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[18:57:47] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[18:57:47] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[18:57:49] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[18:57:49] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[18:57:49] [Server thread/INFO]: Cane Growth Modifier: 100%
+[18:57:49] [Server thread/INFO]: Melon Growth Modifier: 100%
+[18:57:49] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[18:57:49] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[18:57:49] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[18:57:49] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[18:57:49] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[18:57:49] [Server thread/INFO]: Potato Growth Modifier: 100%
+[18:57:49] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[18:57:49] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[18:57:49] [Server thread/INFO]: Vine Growth Modifier: 100%
+[18:57:49] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[18:57:49] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[18:57:49] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[18:57:49] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[18:57:49] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[18:57:49] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[18:57:49] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[18:57:49] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[18:57:49] [Server thread/INFO]: Mob Spawn Range: 6
+[18:57:49] [Server thread/INFO]: Experience Merge Radius: 3.0
+[18:57:49] [Server thread/INFO]: Max TNT Explosions: 100
+[18:57:49] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[18:57:49] [Server thread/INFO]: Item Despawn Rate: 6000
+[18:57:49] [Server thread/INFO]: Item Merge Radius: 2.5
+[18:57:49] [Server thread/INFO]: View Distance: 10
+[18:57:49] [Server thread/INFO]: Simulation Distance: 10
+[18:57:49] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18:57:49] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[18:57:49] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[18:57:49] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[18:57:51] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[18:57:51] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[18:57:51] [Server thread/INFO]: Cane Growth Modifier: 100%
+[18:57:51] [Server thread/INFO]: Melon Growth Modifier: 100%
+[18:57:51] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[18:57:51] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[18:57:51] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[18:57:51] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[18:57:51] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[18:57:51] [Server thread/INFO]: Potato Growth Modifier: 100%
+[18:57:51] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[18:57:51] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[18:57:51] [Server thread/INFO]: Vine Growth Modifier: 100%
+[18:57:51] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[18:57:51] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[18:57:51] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[18:57:51] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[18:57:51] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[18:57:51] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[18:57:51] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[18:57:51] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[18:57:51] [Server thread/INFO]: Mob Spawn Range: 6
+[18:57:51] [Server thread/INFO]: Experience Merge Radius: 3.0
+[18:57:51] [Server thread/INFO]: Max TNT Explosions: 100
+[18:57:51] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[18:57:51] [Server thread/INFO]: Item Despawn Rate: 6000
+[18:57:51] [Server thread/INFO]: Item Merge Radius: 2.5
+[18:57:51] [Server thread/INFO]: View Distance: 10
+[18:57:51] [Server thread/INFO]: Simulation Distance: 10
+[18:57:51] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18:57:51] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[18:57:51] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[18:57:51] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[18:57:51] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:57:56] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[18:57:56] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[18:57:56] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[18:57:56] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[18:57:56] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[18:57:56] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[18:57:56] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[18:57:56] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[18:57:56] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[18:57:56] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[18:57:56] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[18:57:56] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[18:57:57] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[18:57:57] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[18:57:58] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[18:57:59] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[18:57:59] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[18:57:59] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[18:58:00] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[18:58:00] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[18:58:01] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[18:58:01] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[18:58:02] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[18:58:02] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[18:58:03] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[18:58:04] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[18:58:04] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[18:58:04] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[18:58:05] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[18:58:05] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[18:58:06] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[18:58:06] [Worker-Main-6/INFO]: Preparing spawn area: 1%
+[18:58:07] [Worker-Main-6/INFO]: Preparing spawn area: 2%
+[18:58:07] [Worker-Main-10/INFO]: Preparing spawn area: 3%
+[18:58:08] [Worker-Main-6/INFO]: Preparing spawn area: 4%
+[18:58:08] [Worker-Main-10/INFO]: Preparing spawn area: 4%
+[18:58:09] [Worker-Main-10/INFO]: Preparing spawn area: 4%
+[18:58:09] [Worker-Main-6/INFO]: Preparing spawn area: 4%
+[18:58:10] [Worker-Main-6/INFO]: Preparing spawn area: 4%
+[18:58:10] [Worker-Main-8/INFO]: Preparing spawn area: 4%
+[18:58:11] [Worker-Main-10/INFO]: Preparing spawn area: 4%
+[18:58:11] [Worker-Main-6/INFO]: Preparing spawn area: 4%
+[18:58:12] [Worker-Main-9/INFO]: Preparing spawn area: 6%
+[18:58:12] [Worker-Main-9/INFO]: Preparing spawn area: 7%
+[18:58:13] [Worker-Main-8/INFO]: Preparing spawn area: 8%
+[18:58:13] [Worker-Main-10/INFO]: Preparing spawn area: 10%
+[18:58:14] [Worker-Main-6/INFO]: Preparing spawn area: 10%
+[18:58:14] [Worker-Main-10/INFO]: Preparing spawn area: 14%
+[18:58:15] [Worker-Main-10/INFO]: Preparing spawn area: 15%
+[18:58:15] [Worker-Main-10/INFO]: Preparing spawn area: 18%
+[18:58:16] [Worker-Main-6/INFO]: Preparing spawn area: 25%
+[18:58:16] [Worker-Main-9/INFO]: Preparing spawn area: 29%
+[18:58:17] [Worker-Main-6/INFO]: Preparing spawn area: 34%
+[18:58:17] [Worker-Main-10/INFO]: Preparing spawn area: 57%
+[18:58:18] [Worker-Main-10/INFO]: Preparing spawn area: 67%
+[18:58:18] [Worker-Main-8/INFO]: Preparing spawn area: 69%
+[18:58:19] [Worker-Main-8/INFO]: Preparing spawn area: 71%
+[18:58:19] [Worker-Main-6/INFO]: Preparing spawn area: 94%
+[18:58:21] [Server thread/INFO]: Time elapsed: 30080 ms
+[18:58:21] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[18:58:24] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[18:58:24] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[18:58:24] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[18:58:24] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[18:58:24] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[18:58:24] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[18:58:24] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[18:58:25] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[18:58:25] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[18:58:26] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[18:58:26] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[18:58:27] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[18:58:27] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[18:58:28] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[18:58:28] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[18:58:29] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[18:58:29] [Worker-Main-10/INFO]: Preparing spawn area: 1%
+[18:58:30] [Worker-Main-7/INFO]: Preparing spawn area: 4%
+[18:58:30] [Worker-Main-7/INFO]: Preparing spawn area: 4%
+[18:58:31] [Worker-Main-10/INFO]: Preparing spawn area: 6%
+[18:58:31] [Worker-Main-7/INFO]: Preparing spawn area: 10%
+[18:58:32] [Worker-Main-8/INFO]: Preparing spawn area: 10%
+[18:58:32] [Worker-Main-6/INFO]: Preparing spawn area: 15%
+[18:58:33] [Worker-Main-7/INFO]: Preparing spawn area: 27%
+[18:58:33] [Worker-Main-9/INFO]: Preparing spawn area: 58%
+[18:58:34] [Worker-Main-7/INFO]: Preparing spawn area: 70%
+[18:58:34] [Worker-Main-6/INFO]: Preparing spawn area: 74%
+[18:58:35] [Server thread/INFO]: Time elapsed: 14211 ms
+[18:58:35] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[18:58:36] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[18:58:36] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[18:58:36] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[18:58:37] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[18:58:37] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[18:58:38] [Worker-Main-6/INFO]: Preparing spawn area: 7%
+[18:58:39] [Worker-Main-8/INFO]: Preparing spawn area: 14%
+[18:58:39] [Worker-Main-10/INFO]: Preparing spawn area: 34%
+[18:58:39] [Worker-Main-9/INFO]: Preparing spawn area: 65%
+[18:58:40] [Worker-Main-9/INFO]: Preparing spawn area: 95%
+[18:58:40] [Server thread/INFO]: Time elapsed: 4857 ms
+[18:58:40] [Server thread/INFO]: [SimpleTpa] Enabling SimpleTpa v6.0
+[18:58:40] [Server thread/INFO]: [0;33;1m[21m[SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9[m
+[18:58:40] [Server thread/INFO]: [0;33;1m[21m[SimpleTpa] Simple Tpa has been enabled on version 6.0[m
+[18:58:40] [Server thread/INFO]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
+[18:58:40] [Server thread/INFO]: [OpenInv] Enabling OpenInv v4.1.10
+[18:58:40] [Server thread/INFO]: [VeinMiner] Enabling VeinMiner v1.17.10
+[18:58:40] [Server thread/INFO]: [VeinMiner] Registering events
+[18:58:40] [Server thread/INFO]: [VeinMiner] Registering commands
+[18:58:40] [Server thread/INFO]: [VeinMiner] Vault not found. Economy support suspended
+[18:58:40] [Server thread/INFO]: [VeinMiner] Enabling Plugin Metrics
+[18:58:40] [Server thread/INFO]: [VeinMiner] Thanks for enabling Metrics! The anonymous stats are appreciated
+[18:58:40] [Server thread/INFO]: [VeinMiner] Loading configuration options to local memory
+[18:58:41] [Server thread/INFO]: [VeinMiner] Performing an update check!
+[18:58:41] [Server thread/INFO]: [Orebfuscator] Enabling Orebfuscator v5.2.6
+[18:58:41] [ForkJoinPool.commonPool-worker-1/INFO]: [VeinMiner] Your version of VeinMiner (1.17.10) is up to date!
+[18:58:41] [Server thread/INFO]: [SuperVanish] Enabling SuperVanish v6.2.7
+[18:58:41] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[18:58:41] [Server thread/INFO]: Done (58.925s)! For help, type "help"
+[18:59:55] [User Authenticator #1/INFO]: UUID of player Huggebugge123 is d27b6796-9e8e-4b96-894a-17e7113ba154
+[18:59:56] [Server thread/INFO]: Huggebugge123[/98.128.180.145:60520] logged in with entity id 176 at ([world]-1807.6514515001097, 65.0, 756.9846154153016)
+[19:00:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6185ms or 123 ticks behind
+[19:02:27] [Server thread/INFO]: You whisper to Huggebugge123: nigg?
+[19:02:39] [Server thread/INFO]: You whisper to Huggebugge123: nigg?
+[19:02:40] [Server thread/INFO]: You whisper to Huggebugge123: nigg?
+[19:02:40] [Server thread/INFO]: You whisper to Huggebugge123: nigg?
+[19:02:40] [Server thread/INFO]: You whisper to Huggebugge123: nigg?
+[19:02:40] [Server thread/INFO]: You whisper to Huggebugge123: nigg?
+[19:02:40] [Server thread/INFO]: You whisper to Huggebugge123: nigg?
+[19:02:41] [Server thread/INFO]: You whisper to Huggebugge123: nigg?
+[19:02:41] [Server thread/INFO]: You whisper to Huggebugge123: nigg?
+[19:02:44] [User Authenticator #2/INFO]: UUID of player NotTheHeroHere is 6435c2b0-db69-4d6b-9182-eb4b0a9ba0fc
+[19:02:45] [Server thread/INFO]: NotTheHeroHere[/83.233.246.122:38364] logged in with entity id 921 at ([world]-64.19652436568339, 64.0, -3.4762329309287687)
+[19:02:58] [Async Chat Thread - #0/INFO]: <NotTheHeroHere> Discord[m
+[19:02:58] [Async Chat Thread - #0/INFO]: <NotTheHeroHere> Discord[m
+[19:02:59] [Async Chat Thread - #0/INFO]: <NotTheHeroHere> Discord[m
+[19:11:16] [Async Chat Thread - #1/INFO]: <NotTheHeroHere> -1050 700[m
+[19:11:26] [Async Chat Thread - #1/INFO]: <NotTheHeroHere> -1850 700[m
+[19:12:40] [Server thread/INFO]: Villager EntityVillager['Villager'/199, l='ServerLevel[world]', x=-1775.10, y=64.00, z=732.08] died, message: 'Villager was slain by Zombie'
+[19:12:45] [Server thread/INFO]: Huggebugge123 lost connection: Disconnected
+[19:12:45] [Server thread/INFO]: Huggebugge123 left the game
+[19:12:48] [Server thread/INFO]: NotTheHeroHere issued server command: /effect give NotTheHeroHere minecraft:speed 100 10
+[19:12:48] [Server thread/INFO]: [NotTheHeroHere: Applied effect Speed to NotTheHeroHere]
+[19:12:56] [User Authenticator #3/INFO]: UUID of player Huggebugge123 is d27b6796-9e8e-4b96-894a-17e7113ba154
+[19:12:57] [Server thread/INFO]: Huggebugge123[/98.128.180.145:60643] logged in with entity id 5587 at ([world]-1833.8310477694029, 69.19366615334314, 687.4786558973536)
+[19:13:01] [Server thread/INFO]: NotTheHeroHere issued server command: /effect give NotTheHeroHere minecraft:speed 100 100
+[19:13:01] [Server thread/INFO]: [NotTheHeroHere: Applied effect Speed to NotTheHeroHere]
+[19:13:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5396ms or 107 ticks behind
+[19:13:06] [Server thread/INFO]: NotTheHeroHere lost connection: Disconnected
+[19:13:06] [Server thread/INFO]: NotTheHeroHere left the game
+[19:13:15] [User Authenticator #4/INFO]: UUID of player NotTheHeroHere is 6435c2b0-db69-4d6b-9182-eb4b0a9ba0fc
+[19:13:16] [Server thread/INFO]: NotTheHeroHere[/83.233.246.122:34076] logged in with entity id 5916 at ([world]-184.37891523060327, 58.43270531456694, 264.5918384687813)
+[19:14:18] [Server thread/INFO]: NotTheHeroHere issued server command: /effect give NotTheHeroHere minecraft:jump_boost 1000 10
+[19:14:18] [Server thread/INFO]: [NotTheHeroHere: Applied effect Jump Boost to NotTheHeroHere]
+[19:14:20] [Async Chat Thread - #2/INFO]: <Huggebugge123> -1850 700[m
+[19:14:53] [Server thread/INFO]: NotTheHeroHere issued server command: /effect clear
+[19:14:53] [Server thread/INFO]: [NotTheHeroHere: Removed every effect from NotTheHeroHere]
+[19:15:04] [Server thread/INFO]: NotTheHeroHere issued server command: /effect give NotTheHeroHere minecraft:speed 1000 10
+[19:15:04] [Server thread/INFO]: [NotTheHeroHere: Applied effect Speed to NotTheHeroHere]
+[19:15:10] [Server thread/INFO]: NotTheHeroHere issued server command: /effect give NotTheHeroHere minecraft:jump_boost 1000 10
+[19:15:10] [Server thread/INFO]: [NotTheHeroHere: Applied effect Jump Boost to NotTheHeroHere]
+[19:15:49] [Server thread/INFO]: NotTheHeroHere issued server command: /effect give NotTheHeroHere minecraft:speed 1000 20
+[19:15:49] [Server thread/INFO]: [NotTheHeroHere: Applied effect Speed to NotTheHeroHere]
+[19:16:39] [Server thread/INFO]: NotTheHeroHere issued server command: /effect give NotTheHeroHere minecraft:speed 1000 30
+[19:16:39] [Server thread/INFO]: [NotTheHeroHere: Applied effect Speed to NotTheHeroHere]
+[19:17:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5052ms or 101 ticks behind
+[19:19:10] [Server thread/INFO]: NotTheHeroHere issued server command: /effect give NotTheHeroHere minecraft:dolphins_grace 1000 10
+[19:19:10] [Server thread/INFO]: [NotTheHeroHere: Applied effect Dolphin's Grace to NotTheHeroHere]
+[19:19:37] [Server thread/INFO]: NotTheHeroHere issued server command: /effect give NotTheHeroHere minecraft:speed 1000 300
+[19:19:42] [Server thread/INFO]: NotTheHeroHere issued server command: /effect give NotTheHeroHere minecraft:speed 1000 255
+[19:19:42] [Server thread/INFO]: [NotTheHeroHere: Applied effect Speed to NotTheHeroHere]
+[19:19:58] [Server thread/INFO]: NotTheHeroHere issued server command: /effect clear NotTheHeroHere minecraft:jump_boost
+[19:19:58] [Server thread/INFO]: [NotTheHeroHere: Removed effect Jump Boost from NotTheHeroHere]
+[19:20:15] [Server thread/INFO]: NotTheHeroHere issued server command: /effect clear NotTheHeroHere minecraft:dolphins_grace
+[19:20:15] [Server thread/INFO]: [NotTheHeroHere: Removed effect Dolphin's Grace from NotTheHeroHere]
+[19:20:27] [Server thread/INFO]: NotTheHeroHere issued server command: /effect clear NotTheHeroHere
+[19:20:27] [Server thread/INFO]: [NotTheHeroHere: Removed every effect from NotTheHeroHere]
+[19:20:38] [Server thread/INFO]: NotTheHeroHere issued server command: /effect give NotTheHeroHere minecraft:speed 1000 5
+[19:20:38] [Server thread/INFO]: [NotTheHeroHere: Applied effect Speed to NotTheHeroHere]
+[19:21:03] [Server thread/INFO]: NotTheHeroHere issued server command: /effect clear
+[19:21:03] [Server thread/INFO]: [NotTheHeroHere: Removed every effect from NotTheHeroHere]
+[19:21:12] [Server thread/INFO]: NotTheHeroHere issued server command: /effect give NotTheHeroHere minecraft:invisibility 1000 1
+[19:21:12] [Server thread/INFO]: [NotTheHeroHere: Applied effect Invisibility to NotTheHeroHere]
+[19:21:43] [Server thread/INFO]: NotTheHeroHere issued server command: /tpa Huggebugge123
+[19:21:46] [Server thread/INFO]: Huggebugge123 issued server command: /tpaccept
+[19:22:26] [Server thread/INFO]: NotTheHeroHere issued server command: /tpa Huggebugge123
+[19:22:29] [Server thread/INFO]: Huggebugge123 issued server command: /tpaccept
+[19:24:28] [Server thread/INFO]: NotTheHeroHere was slain by Huggebugge123
+[19:24:35] [Server thread/INFO]: NotTheHeroHere issued server command: /back
+[19:25:37] [Server thread/INFO]: NotTheHeroHere issued server command: /give NotTheHeroHere potion
+[19:25:37] [Server thread/INFO]: [NotTheHeroHere: Gave 1 [Uncraftable Potion] to NotTheHeroHere]
+[19:25:41] [Server thread/INFO]: NotTheHeroHere lost connection: Disconnected
+[19:25:42] [Server thread/INFO]: NotTheHeroHere left the game
+[19:25:48] [User Authenticator #5/INFO]: UUID of player NotTheHeroHere is 6435c2b0-db69-4d6b-9182-eb4b0a9ba0fc
+[19:25:49] [Server thread/INFO]: NotTheHeroHere[/83.233.246.122:36740] logged in with entity id 12823 at ([world]-1825.1294666959013, 64.0, 765.0061027148635)
+[19:26:54] [Server thread/INFO]: NotTheHeroHere issued server command: /effect give NotTheHeroHere minecraft:invisibility 1000 1
+[19:26:54] [Server thread/INFO]: [NotTheHeroHere: Applied effect Invisibility to NotTheHeroHere]
+[19:29:04] [Server thread/INFO]: NotTheHeroHere issued server command: /effect clear
+[19:29:04] [Server thread/INFO]: [NotTheHeroHere: Removed every effect from NotTheHeroHere]
+[19:29:28] [Server thread/INFO]: NotTheHeroHere lost connection: Disconnected
+[19:29:28] [Server thread/INFO]: NotTheHeroHere left the game
+[19:44:02] [User Authenticator #6/INFO]: UUID of player xsisorm is 41d5215b-11d3-4aeb-aad6-7aac06ec096b
+[19:44:02] [Server thread/INFO]: xsisorm[/81.226.224.168:63369] logged in with entity id 16673 at ([world]-2241.4827612105178, 109.0, 1112.4736829452863)
+[19:44:04] [Server thread/WARN]: Huggebugge123 moved too quickly! -2.1102157796915435,2.747796659746271,-9.458659752430208
+[19:44:26] [Server thread/INFO]: xsisorm has made the advancement [We Need to Go Deeper]
+[19:44:40] [Server thread/INFO]: Huggebugge123 lost connection: Disconnected
+[19:44:40] [Server thread/INFO]: Huggebugge123 left the game
+[19:45:10] [User Authenticator #7/INFO]: UUID of player Huggebugge123 is d27b6796-9e8e-4b96-894a-17e7113ba154
+[19:45:10] [Server thread/INFO]: Huggebugge123[/98.128.180.145:60134] logged in with entity id 17070 at ([world]-1813.667243768784, 64.0, 703.8181374088914)
+[19:45:58] [Server thread/INFO]: xsisorm issued server command: /tpa Huggebugge123
+[19:46:01] [Server thread/INFO]: Huggebugge123 issued server command: /tpaccept
+[19:55:24] [User Authenticator #8/INFO]: UUID of player MiltonGrande7 is 16666028-dd41-4b8b-867d-21f4af84b97d
+[19:55:24] [Server thread/INFO]: MiltonGrande7[/83.233.244.147:26109] logged in with entity id 19563 at ([world]-57.75393403202914, 64.0, -9.807305630832714)
+[19:57:19] [Server thread/INFO]: MiltonGrande7 issued server command: /kick xsisorm (invalid session) "to many Frames" (kicked
+[19:57:19] [Server thread/INFO]: xsisorm lost connection: (invalid session) "to many Frames" (kicked
+[19:57:19] [Server thread/INFO]: xsisorm left the game.
+[19:57:19] [Server thread/INFO]: [MiltonGrande7: Kicked xsisorm: (invalid session) "to many Frames" (kicked]
+[19:57:25] [User Authenticator #9/INFO]: UUID of player xsisorm is 41d5215b-11d3-4aeb-aad6-7aac06ec096b
+[19:57:25] [Server thread/INFO]: xsisorm[/81.226.224.168:52066] logged in with entity id 20128 at ([world]-1841.428076863238, -57.0, 635.4306702105143)
+[19:57:26] [Server thread/INFO]: MiltonGrande7 lost connection: Disconnected
+[19:57:26] [Server thread/INFO]: MiltonGrande7 left the game
+[19:57:30] [User Authenticator #10/INFO]: UUID of player MiltonGrande7 is 16666028-dd41-4b8b-867d-21f4af84b97d
+[19:57:30] [Server thread/INFO]: MiltonGrande7[/83.233.244.147:25653] logged in with entity id 20214 at ([world]-66.98296821232906, 64.0, -2.3429543288354284)
+[19:58:24] [Server thread/INFO]: MiltonGrande7 issued server command: /op xsisorm
+[19:58:24] [Server thread/INFO]: [MiltonGrande7: Made xsisorm a server operator]
+[19:58:25] [Server thread/INFO]: MiltonGrande7 issued server command: /kick xsisorm invalid session
+[19:58:25] [Server thread/INFO]: xsisorm lost connection: invalid session
+[19:58:25] [Server thread/INFO]: xsisorm left the game.
+[19:58:25] [Server thread/INFO]: [MiltonGrande7: Kicked xsisorm: invalid session]
+[19:58:28] [Server thread/INFO]: MiltonGrande7 lost connection: Disconnected
+[19:58:28] [Server thread/INFO]: MiltonGrande7 left the game
+[19:58:31] [User Authenticator #11/INFO]: UUID of player xsisorm is 41d5215b-11d3-4aeb-aad6-7aac06ec096b
+[19:58:31] [Server thread/INFO]: xsisorm[/81.226.224.168:52104] logged in with entity id 20650 at ([world]-1841.5590313035093, -57.0, 608.3036120502127)
+[20:20:19] [User Authenticator #12/INFO]: UUID of player MiltonGrande7 is 16666028-dd41-4b8b-867d-21f4af84b97d
+[20:20:19] [Server thread/INFO]: MiltonGrande7[/83.233.244.147:3027] logged in with entity id 25071 at ([world]-100.5922946399453, 70.0, 2.1585550713995136)
+[20:20:53] [Server thread/INFO]: MiltonGrande7 issued server command: /vanish
+[20:21:21] [Server thread/INFO]: MiltonGrande7 issued server command: /deop xsisorm
+[20:21:21] [Server thread/INFO]: [MiltonGrande7: Made xsisorm no longer a server operator]
+[20:21:27] [Server thread/INFO]: MiltonGrande7 issued server command: /tp MiltonGrande7 xsisorm
+[20:21:28] [Server thread/INFO]: [MiltonGrande7: Teleported MiltonGrande7 to xsisorm]
+[20:21:42] [Async Chat Thread - #3/INFO]: <xsisorm> vaf[m
+[20:21:53] [Async Chat Thread - #3/INFO]: <xsisorm> vad gör du[m
+[20:22:03] [Async Chat Thread - #3/INFO]: <xsisorm> huvud av milton[m
+[20:22:03] [Async Chat Thread - #3/INFO]: <MiltonGrande7> hej[m
+[20:22:13] [Async Chat Thread - #3/INFO]: <xsisorm> hej[m
+[20:22:21] [Async Chat Thread - #3/INFO]: <xsisorm> är du etts[m
+[20:22:28] [Async Chat Thread - #3/INFO]: <xsisorm> spöke[m
+[20:22:35] [Async Chat Thread - #3/INFO]: <MiltonGrande7> näe?[m
+[20:22:38] [Async Chat Thread - #3/INFO]: <xsisorm> ok[m
+[20:23:08] [Server thread/INFO]: MiltonGrande7 issued server command: /vanish
+[20:23:24] [Server thread/INFO]: MiltonGrande7 issued server command: /vanish
+[20:24:59] [Server thread/INFO]: Huggebugge123 lost connection: Disconnected
+[20:24:59] [Server thread/INFO]: Huggebugge123 left the game
+[20:25:01] [User Authenticator #13/INFO]: UUID of player Huggebugge123 is d27b6796-9e8e-4b96-894a-17e7113ba154
+[20:25:02] [Server thread/INFO]: Huggebugge123[/98.128.180.145:60401] logged in with entity id 26441 at ([world]-1841.661343280058, -57.0, 657.6942190329705)
+[20:27:10] [Server thread/INFO]: MiltonGrande7 issued server command: /give MiltonGrande7 minecraft:player_head 1
+[20:27:10] [Server thread/INFO]: [MiltonGrande7: Gave 1 [Player Head] to MiltonGrande7]
+[20:27:25] [Server thread/INFO]: Huggebugge123 lost connection: Disconnected
+[20:27:25] [Server thread/INFO]: Huggebugge123 left the game
+[20:27:25] [Server thread/INFO]: MiltonGrande7 issued server command: /give MiltonGrande7 minecraft:armor_stand 1
+[20:27:25] [Server thread/INFO]: [MiltonGrande7: Gave 1 [Armor Stand] to MiltonGrande7]
+[20:27:29] [User Authenticator #14/INFO]: UUID of player Huggebugge123 is d27b6796-9e8e-4b96-894a-17e7113ba154
+[20:27:29] [Server thread/INFO]: Huggebugge123[/98.128.180.145:60472] logged in with entity id 26786 at ([world]-1841.645937508931, 14.0, 728.4673827085343)
+[20:31:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5058ms or 101 ticks behind
+[20:31:51] [Server thread/INFO]: MiltonGrande7 issued server command: /give MiltonGrande7 minecraft:lava_bucket 1
+[20:31:51] [Server thread/INFO]: [MiltonGrande7: Gave 1 [Lava Bucket] to MiltonGrande7]
+[20:32:11] [Server thread/INFO]: MiltonGrande7 issued server command: /give MiltonGrande7 minecraft:player_head 10
+[20:32:11] [Server thread/INFO]: [MiltonGrande7: Gave 10 [Player Head] to MiltonGrande7]
+[20:32:20] [Server thread/INFO]: MiltonGrande7 issued server command: /give MiltonGrande7 minecraft:armor_stand 10
+[20:32:20] [Server thread/INFO]: [MiltonGrande7: Gave 10 [Armor Stand] to MiltonGrande7]
+[20:32:44] [Server thread/INFO]: MiltonGrande7 issued server command: /give MiltonGrande7 minecraft:iron_chestplate 2
+[20:32:44] [Server thread/INFO]: [MiltonGrande7: Gave 2 [Iron Chestplate] to MiltonGrande7]
+[20:33:02] [Server thread/INFO]: MiltonGrande7 issued server command: /give MiltonGrande7 minecraft:iron_boots 2
+[20:33:02] [Server thread/INFO]: [MiltonGrande7: Gave 2 [Iron Boots] to MiltonGrande7]
+[20:33:11] [Server thread/INFO]: MiltonGrande7 issued server command: /give m
+[20:33:22] [Server thread/INFO]: MiltonGrande7 issued server command: /give MiltonGrande7 minecraft:iron_leggings 2
+[20:33:22] [Server thread/INFO]: [MiltonGrande7: Gave 2 [Iron Leggings] to MiltonGrande7]
+[20:33:38] [Server thread/INFO]: MiltonGrande7 issued server command: /give MiltonGrande7 minecraft:iron_chestplate 2
+[20:33:38] [Server thread/INFO]: [MiltonGrande7: Gave 2 [Iron Chestplate] to MiltonGrande7]
+[20:34:13] [Server thread/INFO]: MiltonGrande7 issued server command: /gamemode creative
+[20:34:13] [Server thread/INFO]: [MiltonGrande7: Set own game mode to Creative Mode]
+[20:35:38] [Server thread/INFO]: MiltonGrande7 issued server command: /give MiltonGrande7 minecraft:barrier 1
+[20:35:38] [Server thread/INFO]: [MiltonGrande7: Gave 1 [Barrier] to MiltonGrande7]
+[20:36:55] [User Authenticator #15/INFO]: UUID of player Kapten_Wigen is d25d24de-85de-40b6-b486-b1066f7d92b0
+[20:36:56] [Server thread/INFO]: Kapten_Wigen[/78.73.10.85:58201] logged in with entity id 28728 at ([world]-5.5, 69.0, -8.5)
+[20:38:01] [Server thread/INFO]: MiltonGrande7 issued server command: /tp MiltonGrande7 xsisorm
+[20:38:01] [Server thread/INFO]: [MiltonGrande7: Teleported MiltonGrande7 to xsisorm]
+[20:38:18] [Server thread/INFO]: MiltonGrande7 issued server command: /tp MiltonGrande7 Kapten_Wigen
+[20:38:18] [Server thread/INFO]: [MiltonGrande7: Teleported MiltonGrande7 to Kapten_Wigen]
+[20:38:52] [Server thread/INFO]: MiltonGrande7 issued server command: /inv Kapten_Wigen
+[20:39:09] [Server thread/INFO]: Kapten_Wigen has made the advancement [Acquire Hardware]
+[20:40:19] [Server thread/INFO]: MiltonGrande7 issued server command: /tp MiltonGrande7 Kapten_Wigen
+[20:40:19] [Server thread/INFO]: [MiltonGrande7: Teleported MiltonGrande7 to Kapten_Wigen]
+[20:40:31] [Server thread/INFO]: Kapten_Wigen lost connection: Disconnected
+[20:40:31] [Server thread/INFO]: Kapten_Wigen left the game
+[20:41:27] [Server thread/INFO]: MiltonGrande7 issued server command: /tp MiltonGrande7 xsisorm
+[20:41:27] [Server thread/INFO]: [MiltonGrande7: Teleported MiltonGrande7 to xsisorm]
+[20:41:52] [User Authenticator #16/INFO]: UUID of player Kapten_Wigen is d25d24de-85de-40b6-b486-b1066f7d92b0
+[20:41:52] [Server thread/INFO]: Kapten_Wigen[/78.73.10.85:58267] logged in with entity id 30528 at ([world]-58.68740223329482, 46.0, 8.720054136359249)
+[20:42:15] [Server thread/INFO]: Kapten_Wigen has made the advancement [Isn't It Iron Pick]
+[20:42:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7106ms or 142 ticks behind
+[20:42:43] [Server thread/INFO]: MiltonGrande7 issued server command: /tp MiltonGrande7 Kapten_Wigen
+[20:42:43] [Server thread/INFO]: [MiltonGrande7: Teleported MiltonGrande7 to Kapten_Wigen]
+[20:42:59] [Server thread/INFO]: xsisorm tried to swim in lava
+[20:43:09] [Server thread/INFO]: MiltonGrande7 issued server command: /tp MiltonGrande7 xsisorm
+[20:43:09] [Server thread/INFO]: [MiltonGrande7: Teleported MiltonGrande7 to xsisorm]
+[20:44:03] [Server thread/INFO]: Kapten_Wigen has made the advancement [Suit Up]
+[20:44:07] [Server thread/INFO]: MiltonGrande7 issued server command: /tp MiltonGrande7 Kapten_Wigen
+[20:44:07] [Server thread/INFO]: [MiltonGrande7: Teleported MiltonGrande7 to Kapten_Wigen]
+[20:45:01] [Server thread/INFO]: MiltonGrande7 issued server command: /tp MiltonGrande7 xsisorm
+[20:45:01] [Server thread/INFO]: [MiltonGrande7: Teleported MiltonGrande7 to xsisorm]
+[20:46:03] [Server thread/INFO]: MiltonGrande7 issued server command: /inv Kapten_Wigen
+[20:46:56] [Server thread/INFO]: MiltonGrande7 issued server command: /tp MiltonGrande7 Kapten_Wigen
+[20:46:56] [Server thread/INFO]: [MiltonGrande7: Teleported MiltonGrande7 to Kapten_Wigen]
+[20:47:16] [Server thread/INFO]: MiltonGrande7 issued server command: /tp MiltonGrande7 xsisorm
+[20:47:16] [Server thread/INFO]: [MiltonGrande7: Teleported MiltonGrande7 to xsisorm]
+[20:47:44] [Server thread/INFO]: MiltonGrande7 issued server command: /tp MiltonGrande7 Huggebugge123
+[20:47:44] [Server thread/INFO]: [MiltonGrande7: Teleported MiltonGrande7 to Huggebugge123]
+[20:48:15] [Server thread/INFO]: xsisorm issued server command: /tpa home
+[20:50:50] [Server thread/INFO]: MiltonGrande7 issued server command: /tp Kapten_Wigen MiltonGrande7
+[20:50:50] [Server thread/INFO]: [MiltonGrande7: Teleported Kapten_Wigen to MiltonGrande7]
+[20:50:51] [Server thread/INFO]: MiltonGrande7 issued server command: /kick Kapten_Wigen (chunk reload) - {please rejon}
+[20:50:51] [Server thread/INFO]: Kapten_Wigen lost connection: (chunk reload) - {please rejon}
+[20:50:51] [Server thread/INFO]: Kapten_Wigen left the game.
+[20:50:51] [Server thread/INFO]: [MiltonGrande7: Kicked Kapten_Wigen: (chunk reload) - {please rejon}]
+[20:51:21] [User Authenticator #17/INFO]: UUID of player Kapten_Wigen is d25d24de-85de-40b6-b486-b1066f7d92b0
+[20:51:21] [Server thread/INFO]: Kapten_Wigen[/78.73.10.85:58353] logged in with entity id 35739 at ([world]-1814.5712086907224, 61.0, 784.6057259444317)
+[20:51:44] [Server thread/INFO]: MiltonGrande7 issued server command: /inv Kapten_Wigen
+[20:52:36] [Server thread/INFO]: Kapten_Wigen lost connection: Disconnected
+[20:52:36] [Server thread/INFO]: Kapten_Wigen left the game
+[20:52:45] [User Authenticator #18/INFO]: UUID of player Kapten_Wigen is d25d24de-85de-40b6-b486-b1066f7d92b0
+[20:52:45] [Server thread/INFO]: Kapten_Wigen[/78.73.10.85:58387] logged in with entity id 35980 at ([world]-1809.6527993586603, 66.0, 743.3771096333455)
+[20:53:57] [Server thread/INFO]: MiltonGrande7 issued server command: /inv xsisorm
+[20:54:57] [Server thread/INFO]: MiltonGrande7 issued server command: /inv Kapten_Wigen
+[20:55:29] [Server thread/INFO]: MiltonGrande7 issued server command: /inv Kapten_Wigen
+[20:55:45] [Server thread/INFO]: MiltonGrande7 issued server command: /inv Kapten_Wigen
+[20:58:10] [Server thread/INFO]: MiltonGrande7 issued server command: /inv xsisorm
+[20:58:20] [Server thread/INFO]: xsisorm was slain by Zombie
+[20:58:48] [Server thread/INFO]: MiltonGrande7 issued server command: /tp MiltonGrande7 xsisorm
+[20:58:48] [Server thread/INFO]: [MiltonGrande7: Teleported MiltonGrande7 to xsisorm]
+[20:59:27] [Server thread/INFO]: xsisorm lost connection: Disconnected
+[20:59:27] [Server thread/INFO]: xsisorm left the game
+[20:59:42] [User Authenticator #19/INFO]: UUID of player xsisorm is 41d5215b-11d3-4aeb-aad6-7aac06ec096b
+[20:59:43] [Server thread/INFO]: xsisorm[/81.226.224.168:54071] logged in with entity id 37337 at ([world]-1830.699999988079, 65.5625, 761.6999999880791)
+[20:59:46] [Server thread/INFO]: xsisorm was slain by Zombie
+[20:59:52] [Server thread/INFO]: MiltonGrande7 issued server command: /inv xsisorm
+[20:59:55] [Server thread/INFO]: xsisorm was slain by Zombie
+[20:59:58] [Server thread/INFO]: xsisorm was slain by Zombie
+[21:00:00] [Server thread/INFO]: Kapten_Wigen has made the advancement [Not Today, Thank You]
+[21:00:04] [Server thread/INFO]: xsisorm was slain by Zombie
+[21:00:09] [Server thread/INFO]: xsisorm was slain by Zombie
+[21:00:16] [Server thread/INFO]: xsisorm was slain by Zombie
+[21:00:20] [Server thread/INFO]: xsisorm was slain by Zombie
+[21:00:21] [Server thread/INFO]: Villager EntityVillager['Villager'/25677, l='ServerLevel[world]', x=-1877.94, y=64.00, z=753.53] died, message: 'Villager was slain by Zombie'
+[21:00:22] [Server thread/INFO]: Villager EntityVillager['Villager'/25669, l='ServerLevel[world]', x=-1838.70, y=68.00, z=709.60] died, message: 'Villager was slain by Zombie'
+[21:02:16] [Server thread/INFO]: xsisorm tried to swim in lava
+[21:02:43] [Server thread/INFO]: MiltonGrande7 issued server command: /time set noon
+[21:02:43] [Server thread/INFO]: [MiltonGrande7: Set the time to 6000]
+[21:02:52] [Server thread/INFO]: xsisorm tried to swim in lava
+[21:03:08] [Server thread/INFO]: MiltonGrande7 issued server command: /inv xsisorm
+[21:03:33] [Server thread/INFO]: xsisorm tried to swim in lava
+[21:04:05] [Server thread/INFO]: Huggebugge123 lost connection: Disconnected
+[21:04:05] [Server thread/INFO]: Huggebugge123 left the game
+[21:04:12] [Server thread/INFO]: MiltonGrande7 issued server command: /time set noon
+[21:04:12] [Server thread/INFO]: [MiltonGrande7: Set the time to 6000]
+[21:04:46] [User Authenticator #20/INFO]: UUID of player Huggebugge123 is d27b6796-9e8e-4b96-894a-17e7113ba154
+[21:04:47] [Server thread/INFO]: Huggebugge123[/98.128.180.145:60252] logged in with entity id 39442 at ([world]-1834.9581973339693, 63.0, 782.3972995922704)
+[21:04:53] [Server thread/INFO]: Huggebugge123 lost connection: Disconnected
+[21:04:53] [Server thread/INFO]: Huggebugge123 left the game
+[21:04:58] [Server thread/INFO]: MiltonGrande7 issued server command: /vanish
+[21:05:03] [Server thread/INFO]: Kapten_Wigen has made the advancement [Diamonds!]
+[21:05:04] [User Authenticator #21/INFO]: UUID of player Huggebugge123 is d27b6796-9e8e-4b96-894a-17e7113ba154
+[21:05:04] [Server thread/INFO]: Huggebugge123[/98.128.180.145:60513] logged in with entity id 39616 at ([world]-1834.9581973339693, 63.0, 782.3972995922704)
+[21:05:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5006ms or 100 ticks behind
+[21:05:15] [Server thread/INFO]: MiltonGrande7 issued server command: /gamemode survival
+[21:05:15] [Server thread/INFO]: [MiltonGrande7: Set own game mode to Survival Mode]
+[21:05:25] [Server thread/INFO]: xsisorm tried to swim in lava
+[21:06:09] [Async Chat Thread - #4/INFO]: <MiltonGrande7> hej[m
+[21:06:24] [Async Chat Thread - #4/INFO]: <Huggebugge123> var det du som förstörde allt[m
+[21:06:36] [Async Chat Thread - #4/INFO]: <MiltonGrande7> förstörde vad?[m
+[21:06:38] [Server thread/INFO]: xsisorm was fireballed by Ghast
+[21:06:46] [Async Chat Thread - #4/INFO]: <Huggebugge123> gick du onsynli[m
+[21:06:54] [Async Chat Thread - #4/INFO]: <Huggebugge123> onsynlig[m
+[21:06:55] [Async Chat Thread - #4/INFO]: <MiltonGrande7> va näe?[m
+[21:07:02] [Async Chat Thread - #4/INFO]: <xsisorm> oskar[m
+[21:07:06] [Async Chat Thread - #4/INFO]: <xsisorm> jnfdoihkjpfsdahjuipdwaqsjiuopdaw[m
+[21:07:16] [Server thread/INFO]: MiltonGrande7 issued server command: /tpa Huggebugge123
+[21:07:20] [Server thread/INFO]: Huggebugge123 issued server command: /tpaccept
+[21:07:24] [Server thread/INFO]: MiltonGrande7 issued server command: /tpa Huggebugge123
+[21:07:35] [Async Chat Thread - #4/INFO]: <MiltonGrande7> accepta[m
+[21:07:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5010ms or 100 ticks behind
+[21:07:38] [Server thread/INFO]: MiltonGrande7 issued server command: /tpa Huggebugge123
+[21:07:42] [Server thread/INFO]: Huggebugge123 issued server command: /tpaccept
+[21:07:59] [Async Chat Thread - #4/INFO]: <MiltonGrande7> vad förnågot?[m
+[21:08:34] [Async Chat Thread - #4/INFO]: <Huggebugge123> jag hade en fourtune 3 för 20 emeralds och någon bytte det[m
+[21:08:59] [Async Chat Thread - #4/INFO]: <MiltonGrande7> men villagers kan byta av sig själm om man inte köper från dem[m
+[21:09:08] [Async Chat Thread - #4/INFO]: <MiltonGrande7> köpte du från den?[m
+[21:09:13] [Async Chat Thread - #4/INFO]: <Huggebugge123> nej[m
+[21:09:20] [Async Chat Thread - #4/INFO]: <MiltonGrande7> okej då är det varför[m
+[21:09:38] [Async Chat Thread - #4/INFO]: <Huggebugge123> men jag gjorde det för typ 4 minecraft dagar[m
+[21:09:45] [Async Chat Thread - #4/INFO]: <MiltonGrande7> du har ju mending för 16[m
+[21:09:48] [Async Chat Thread - #4/INFO]: <Huggebugge123> ja[m
+[21:10:04] [Async Chat Thread - #4/INFO]: <MiltonGrande7> det tar typ 2 för dem att byta[m
+[21:10:12] [Async Chat Thread - #4/INFO]: <MiltonGrande7> vet inte riktigt när de byter[m
+[21:10:12] [Async Chat Thread - #4/INFO]: <Huggebugge123> men han tog bort fortune 3 för 19 emeralds[m
+[21:10:18] [Async Chat Thread - #4/INFO]: <MiltonGrande7> rip[m
+[21:10:28] [Async Chat Thread - #4/INFO]: <MiltonGrande7> om ingen köper så byter dem[m
+[21:10:36] [Async Chat Thread - #4/INFO]: <Huggebugge123> ok[m
+[21:11:08] [Async Chat Thread - #4/INFO]: <xsisorm> tack[m
+[21:11:44] [Async Chat Thread - #4/INFO]: <xsisorm> du kan ta den[m
+[21:12:58] [Server thread/INFO]: MiltonGrande7 issued server command: /inv xsisorm
+[21:13:11] [Server thread/INFO]: Huggebugge123 has made the advancement [What a Deal!]
+[21:13:29] [Async Chat Thread - #5/INFO]: <MiltonGrande7> jag gjorde en axe lol[m
+[21:13:39] [Server thread/INFO]: MiltonGrande7 lost connection: Disconnected
+[21:13:39] [Server thread/INFO]: MiltonGrande7 left the game
+[21:13:47] [User Authenticator #22/INFO]: UUID of player MiltonGrande7 is 16666028-dd41-4b8b-867d-21f4af84b97d
+[21:13:48] [Server thread/INFO]: MiltonGrande7[/83.233.244.147:25748] logged in with entity id 43228 at ([world]-1850.5014360158057, 66.0, 755.6612754322665)
+[21:13:57] [Async Chat Thread - #5/INFO]: <xsisorm> VARFÖR JOINAR DU INTE KALLET[m
+[21:14:04] [Async Chat Thread - #5/INFO]: <xsisorm> KALET[m
+[21:14:08] [Async Chat Thread - #5/INFO]: <MiltonGrande7> zidu[m
+[21:14:10] [Server thread/INFO]: MiltonGrande7 lost connection: Disconnected
+[21:14:10] [Server thread/INFO]: MiltonGrande7 left the game
+[21:14:36] [Server thread/INFO]: xsisorm was slain by Spider
+[21:15:02] [User Authenticator #23/INFO]: UUID of player MiltonGrande7 is 16666028-dd41-4b8b-867d-21f4af84b97d
+[21:15:02] [Server thread/INFO]: MiltonGrande7[/83.233.244.147:25802] logged in with entity id 43641 at ([world]-1818.4062371710004, 65.5625, 768.3000000119209)
+[21:15:04] [Server thread/INFO]: Villager EntityVillager['Villager'/39647, l='ServerLevel[world]', x=-1819.78, y=64.00, z=778.21] died, message: 'Villager was slain by Zombie'
+[21:15:35] [Async Chat Thread - #6/INFO]: <xsisorm> 3[m
+[21:15:46] [Async Chat Thread - #6/INFO]: <MiltonGrande7> jag gjorde en axe[m
+[21:16:26] [Async Chat Thread - #6/INFO]: <xsisorm> tack[m
+[21:16:27] [Async Chat Thread - #6/INFO]: <MiltonGrande7> jag skojar[m
+[21:16:39] [Async Chat Thread - #6/INFO]: <xsisorm> jag vet hehee[m
+[21:16:43] [Server thread/INFO]: Huggebugge123 has made the advancement [We Need to Go Deeper]
+[21:17:05] [Server thread/INFO]: MiltonGrande7 issued server command: /inv xsisorm
+[21:17:13] [Server thread/INFO]: Huggebugge123 was slain by MiltonGrande7
+[21:17:19] [Async Chat Thread - #6/INFO]: <MiltonGrande7> oj[m
+[21:17:28] [Async Chat Thread - #6/INFO]: <MiltonGrande7> förlåt[m
+[21:17:45] [Server thread/INFO]: Huggebugge123 lost connection: Disconnected
+[21:17:45] [Server thread/INFO]: Huggebugge123 left the game
+[21:18:07] [Server thread/INFO]: MiltonGrande7 lost connection: Disconnected
+[21:18:07] [Server thread/INFO]: MiltonGrande7 left the game
+[21:18:09] [Server thread/INFO]: xsisorm lost connection: Disconnected
+[21:18:09] [Server thread/INFO]: xsisorm left the game
+[21:18:39] [User Authenticator #24/INFO]: UUID of player Huggebugge123 is d27b6796-9e8e-4b96-894a-17e7113ba154
+[21:18:39] [Server thread/INFO]: Huggebugge123[/98.128.180.145:60655] logged in with entity id 45111 at ([world]-1845.312484770514, 64.0, 769.3501607460171)
+[21:18:56] [User Authenticator #25/INFO]: UUID of player MiltonGrande7 is 16666028-dd41-4b8b-867d-21f4af84b97d
+[21:18:56] [Server thread/INFO]: MiltonGrande7[/83.233.244.147:2970] logged in with entity id 45388 at ([world_nether]-232.72059049708508, 58.88567409392034, 96.87093733114374)
+[21:19:01] [Server thread/INFO]: MiltonGrande7 issued server command: /gamemode spectator
+[21:19:01] [Server thread/INFO]: [MiltonGrande7: Set own game mode to Spectator Mode]
+[21:19:15] [Async Chat Thread - #7/INFO]: <Huggebugge123> milton ge mig mina sake[m
+[21:19:20] [Async Chat Thread - #7/INFO]: <Huggebugge123> saker[m
+[21:19:44] [Server thread/INFO]: MiltonGrande7 issued server command: /gamemode survival
+[21:19:44] [Server thread/INFO]: [MiltonGrande7: Set own game mode to Survival Mode]
+[21:19:52] [Server thread/INFO]: MiltonGrande7 issued server command: /tp MiltonGrande7 Huggebugge123
+[21:19:53] [Server thread/INFO]: [MiltonGrande7: Teleported MiltonGrande7 to Huggebugge123]
+[21:20:27] [Server thread/INFO]: Huggebugge123 has made the advancement [Hot Stuff]
+[21:20:35] [Async Chat Thread - #8/INFO]: <MiltonGrande7> var detta det du hadde?[m
+[21:21:01] [Async Chat Thread - #8/INFO]: <Huggebugge123> jag hade många mer saker[m
+[21:21:08] [Async Chat Thread - #8/INFO]: <MiltonGrande7> vad för något?[m
+[21:21:15] [Async Chat Thread - #8/INFO]: <Huggebugge123> jag hade papper[m
+[21:21:28] [Async Chat Thread - #8/INFO]: <Huggebugge123> jag hade dimonds[m
+[21:21:33] [Server thread/INFO]: MiltonGrande7 issued server command: /give MiltonGrande7 minecraft:leather 23
+[21:21:33] [Server thread/INFO]: [MiltonGrande7: Gave 23 [Leather] to MiltonGrande7]
+[21:21:41] [Async Chat Thread - #8/INFO]: <MiltonGrande7> hur mycket[m
+[21:21:44] [User Authenticator #26/INFO]: UUID of player xsisorm is 41d5215b-11d3-4aeb-aad6-7aac06ec096b
+[21:21:44] [Server thread/INFO]: xsisorm[/81.226.224.168:54798] logged in with entity id 46430 at ([world]-1843.0430271292823, 65.0, 761.0330921472937)
+[21:21:48] [Server thread/INFO]: xsisorm lost connection: Disconnected
+[21:21:48] [Server thread/INFO]: xsisorm left the game
+[21:22:17] [Server thread/WARN]: MiltonGrande7 moved wrongly!
+[21:22:41] [Server thread/INFO]: MiltonGrande7 lost connection: Disconnected
+[21:22:41] [Server thread/INFO]: MiltonGrande7 left the game
+[21:22:44] [User Authenticator #27/INFO]: UUID of player MiltonGrande7 is 16666028-dd41-4b8b-867d-21f4af84b97d
+[21:22:45] [Server thread/INFO]: MiltonGrande7[/83.233.244.147:25703] logged in with entity id 46923 at ([world_nether]-231.48596489707109, 74.0, 98.46564833692756)
+[21:23:32] [Server thread/INFO]: Huggebugge123 issued server command: /tpa MiltonGrande7
+[21:23:34] [Server thread/INFO]: MiltonGrande7 issued server command: /gamemode spectator
+[21:23:34] [Server thread/INFO]: [MiltonGrande7: Set own game mode to Spectator Mode]
+[21:23:46] [Server thread/INFO]: MiltonGrande7 issued server command: /accept
+[21:23:50] [Server thread/INFO]: Kapten_Wigen issued server command: /tpa MiltonGrande7
+[21:23:55] [Server thread/INFO]: Huggebugge123 issued server command: /tpa MiltonGrande7
+[21:24:08] [Server thread/INFO]: MiltonGrande7 issued server command: /tp MiltonGrande7 Huggebugge123
+[21:24:08] [Server thread/INFO]: [MiltonGrande7: Teleported MiltonGrande7 to Huggebugge123]
+[21:24:21] [Server thread/INFO]: MiltonGrande7 issued server command: /gamemode survival
+[21:24:21] [Server thread/INFO]: [MiltonGrande7: Set own game mode to Survival Mode]
+[21:24:24] [Server thread/INFO]: Kapten_Wigen lost connection: Disconnected
+[21:24:24] [Server thread/INFO]: Kapten_Wigen left the game
+[21:24:30] [User Authenticator #28/INFO]: UUID of player Kapten_Wigen is d25d24de-85de-40b6-b486-b1066f7d92b0
+[21:24:30] [Server thread/INFO]: Kapten_Wigen[/78.73.10.85:49417] logged in with entity id 47524 at ([world]-1841.591837466505, -57.0, 247.22989406132479)
+[21:24:32] [IO-Worker-119/ERROR]: Failed to store chunk [-119, 15]
+java.util.ConcurrentModificationException: null
+	at java.util.HashMap$HashIterator.nextNode(HashMap.java:1597) ~[?:?]
+	at java.util.HashMap$KeyIterator.next(HashMap.java:1620) ~[?:?]
+	at net.minecraft.nbt.NBTTagCompound.a(SourceFile:163) ~[spigot-1.18.2-R0.1-SNAPSHOT.jar:3491-Spigot-b081915-95d233d]
+	at net.minecraft.nbt.NBTCompressedStreamTools.a(NBTCompressedStreamTools.java:280) ~[spigot-1.18.2-R0.1-SNAPSHOT.jar:3491-Spigot-b081915-95d233d]
+	at net.minecraft.nbt.NBTCompressedStreamTools.a(NBTCompressedStreamTools.java:248) ~[spigot-1.18.2-R0.1-SNAPSHOT.jar:3491-Spigot-b081915-95d233d]
+	at net.minecraft.world.level.chunk.storage.RegionFileCache.a(RegionFileCache.java:141) ~[spigot-1.18.2-R0.1-SNAPSHOT.jar:3491-Spigot-b081915-95d233d]
+	at net.minecraft.world.level.chunk.storage.IOWorker.a(SourceFile:174) ~[spigot-1.18.2-R0.1-SNAPSHOT.jar:3491-Spigot-b081915-95d233d]
+	at net.minecraft.world.level.chunk.storage.IOWorker.a(SourceFile:164) ~[spigot-1.18.2-R0.1-SNAPSHOT.jar:3491-Spigot-b081915-95d233d]
+	at net.minecraft.util.thread.PairedQueue$b.run(SourceFile:59) [spigot-1.18.2-R0.1-SNAPSHOT.jar:3491-Spigot-b081915-95d233d]
+	at net.minecraft.util.thread.ThreadedMailbox.h(SourceFile:91) [spigot-1.18.2-R0.1-SNAPSHOT.jar:3491-Spigot-b081915-95d233d]
+	at net.minecraft.util.thread.ThreadedMailbox.a(SourceFile:146) [spigot-1.18.2-R0.1-SNAPSHOT.jar:3491-Spigot-b081915-95d233d]
+	at net.minecraft.util.thread.ThreadedMailbox.run(SourceFile:102) [spigot-1.18.2-R0.1-SNAPSHOT.jar:3491-Spigot-b081915-95d233d]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) [?:?]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+[21:24:37] [Async Chat Thread - #9/INFO]: <MiltonGrande7> vasd[m
+[21:24:45] [Async Chat Thread - #9/INFO]: <MiltonGrande7> vad*[m
+[21:24:52] [Server thread/INFO]: MiltonGrande7 lost connection: Disconnected
+[21:24:52] [Server thread/INFO]: MiltonGrande7 left the game
+[21:25:44] [User Authenticator #29/INFO]: UUID of player MiltonGrande7 is 16666028-dd41-4b8b-867d-21f4af84b97d
+[21:25:44] [Server thread/INFO]: MiltonGrande7[/83.233.244.147:2998] logged in with entity id 48043 at ([world]-1804.6744650004257, 66.0, 752.7934049203724)
+[21:26:21] [Server thread/INFO]: Kapten_Wigen issued server command: /tpaccept
+[21:26:46] [Async Chat Thread - #10/INFO]: <MiltonGrande7> war?[m
+[21:27:02] [Async Chat Thread - #10/INFO]: <Kapten_Wigen> pls free dimmons[m
+[21:27:34] [Server thread/INFO]: MiltonGrande7 issued server command: /inv Huggebugge123
+[21:27:35] [Async Chat Thread - #10/INFO]: <Huggebugge123> du dödade mig utan andledning[m
+[21:27:47] [Server thread/INFO]: Kapten_Wigen issued server command: /tpa Huggebugge
+[21:27:48] [Server thread/INFO]: Huggebugge123 issued server command: /tpaccept
+[21:27:52] [Async Chat Thread - #10/INFO]: <MiltonGrande7> det var inte meningen[m
+[21:28:00] [Async Chat Thread - #10/INFO]: <MiltonGrande7> men nu dödar du mig med mening[m
+[21:28:02] [Async Chat Thread - #10/INFO]: <MiltonGrande7> war![m
+[21:28:06] [Async Chat Thread - #10/INFO]: <MiltonGrande7> krig[m
+[21:28:07] [Server thread/INFO]: Kapten_Wigen issued server command: /tpa Huggebugge123
+[21:28:09] [Async Chat Thread - #10/INFO]: <Huggebugge123> jag bara stog helt stilla[m
+[21:28:11] [Server thread/INFO]: Huggebugge123 issued server command: /tpaccept
+[21:28:18] [Async Chat Thread - #10/INFO]: <MiltonGrande7> jag mit spel laggade[m
+[21:28:23] [Server thread/INFO]: Kapten_Wigen issued server command: /tpa Huggebugge123
+[21:28:27] [Server thread/INFO]: Huggebugge123 issued server command: /tpaccept
+[21:28:27] [Async Chat Thread - #10/INFO]: <MiltonGrande7> och jag slog dig med min fist[m
+[21:28:42] [Async Chat Thread - #10/INFO]: <Huggebugge123> jag var ett halvt hjärta[m
+[21:28:52] [Async Chat Thread - #10/INFO]: <MiltonGrande7> ja det var inte meningen[m
+[21:29:04] [Server thread/INFO]: MiltonGrande7 issued server command: /give MiltonGrande7 minecraft:diamond_axe
+[21:29:04] [Server thread/INFO]: [MiltonGrande7: Gave 1 [Diamond Axe] to MiltonGrande7]
+[21:29:16] [Server thread/INFO]: MiltonGrande7 issued server command: /enchant MiltonGrande7 minecraft:sharpness 4
+[21:29:16] [Server thread/INFO]: [MiltonGrande7: Applied enchantment Sharpness IV to MiltonGrande7's item]
+[21:29:21] [Async Chat Thread - #10/INFO]: <MiltonGrande7> war[m
+[21:29:37] [Async Chat Thread - #10/INFO]: <Huggebugge123> nej[m
+[21:29:47] [Server thread/INFO]: MiltonGrande7 issued server command: /give MiltonGrande7 minecraft:golden_apple 10
+[21:29:47] [Server thread/INFO]: [MiltonGrande7: Gave 10 [Golden Apple] to MiltonGrande7]
+[21:29:55] [Server thread/INFO]: MiltonGrande7 issued server command: /inv Huggebugge123
+[21:29:55] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: Input/output error
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:?]
+	at java.io.FileInputStream.read(FileInputStream.java:276) ~[?:?]
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:244) ~[?:?]
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:263) ~[?:?]
+	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:169) ~[jline-2.12.1.jar:?]
+	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:137) ~[jline-2.12.1.jar:?]
+	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:246) ~[jline-2.12.1.jar:?]
+	at jline.internal.InputStreamReader.read(InputStreamReader.java:261) ~[jline-2.12.1.jar:?]
+	at jline.internal.InputStreamReader.read(InputStreamReader.java:198) ~[jline-2.12.1.jar:?]
+	at jline.console.ConsoleReader.readCharacter(ConsoleReader.java:2145) ~[jline-2.12.1.jar:?]
+	at jline.console.ConsoleReader.readLine(ConsoleReader.java:2349) ~[jline-2.12.1.jar:?]
+	at net.minecraft.server.dedicated.DedicatedServer$1.run(DedicatedServer.java:129) [spigot-1.18.2-R0.1-SNAPSHOT.jar:3491-Spigot-b081915-95d233d]
+[21:29:55] [Thread-1/INFO]: Stopping server
+[21:29:55] [Thread-1/INFO]: [SuperVanish] Disabling SuperVanish v6.2.7
+[21:29:55] [Thread-1/INFO]: [Orebfuscator] Disabling Orebfuscator v5.2.6

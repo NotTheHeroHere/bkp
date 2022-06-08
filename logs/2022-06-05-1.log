@@ -1,0 +1,14 @@
+[03:04:07] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: Input/output error
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:?]
+	at java.io.FileInputStream.read(FileInputStream.java:276) ~[?:?]
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:244) ~[?:?]
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:263) ~[?:?]
+	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:169) ~[jline-2.12.1.jar:?]
+	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:137) ~[jline-2.12.1.jar:?]
+	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:246) ~[jline-2.12.1.jar:?]
+	at jline.internal.InputStreamReader.read(InputStreamReader.java:261) ~[jline-2.12.1.jar:?]
+	at jline.internal.InputStreamReader.read(InputStreamReader.java:198) ~[jline-2.12.1.jar:?]
+	at jline.console.ConsoleReader.readCharacter(ConsoleReader.java:2145) ~[jline-2.12.1.jar:?]
+	at jline.console.ConsoleReader.readLine(ConsoleReader.java:2349) ~[jline-2.12.1.jar:?]
+	at net.minecraft.server.dedicated.DedicatedServer$1.run(DedicatedServer.java:129) [spigot-1.18.2-R0.1-SNAPSHOT.jar:3491-Spigot-b081915-95d233d]
