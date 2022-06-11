@@ -1,0 +1,25 @@
+[00:09:22] [Server thread/INFO]: Waltoy issued server command: /tpa
+[00:09:31] [Server thread/INFO]: Waltoy issued server command: /tpa earth_miner123
+[00:09:33] [Server thread/INFO]: earth_miner123 issued server command: /tpaccept
+[00:16:03] [Server thread/INFO]: Waltoy issued server command: /give anvil
+[00:30:17] [Server thread/INFO]: Waltoy issued server command: /tpa earth_miner123
+[00:30:23] [Server thread/INFO]: earth_miner123 issued server command: /tpaccept
+[00:33:25] [Server thread/INFO]: Waltoy lost connection: Disconnected
+[00:33:25] [Server thread/INFO]: Waltoy left the game
+[00:58:20] [Server thread/INFO]: earth_miner123 lost connection: Disconnected
+[00:58:20] [Server thread/INFO]: earth_miner123 left the game
+[02:05:15] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: Input/output error
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:?]
+	at java.io.FileInputStream.read(FileInputStream.java:276) ~[?:?]
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:244) ~[?:?]
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:263) ~[?:?]
+	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:169) ~[jline-2.12.1.jar:?]
+	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:137) ~[jline-2.12.1.jar:?]
+	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:246) ~[jline-2.12.1.jar:?]
+	at jline.internal.InputStreamReader.read(InputStreamReader.java:261) ~[jline-2.12.1.jar:?]
+	at jline.internal.InputStreamReader.read(InputStreamReader.java:198) ~[jline-2.12.1.jar:?]
+	at jline.console.ConsoleReader.readCharacter(ConsoleReader.java:2145) ~[jline-2.12.1.jar:?]
+	at jline.console.ConsoleReader.readLine(ConsoleReader.java:2349) ~[jline-2.12.1.jar:?]
+	at net.minecraft.server.dedicated.DedicatedServer$1.run(DedicatedServer.java:122) [spigot-1.19-R0.1-SNAPSHOT.jar:3503-Spigot-ee73712-53b681b]
+[02:05:15] [Thread-1/INFO]: Stopping server
