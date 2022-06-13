@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 98.128.180.145
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1655062350553
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1655064463771
+  login: 1655064465082
+money: '0'
+last-account-name: Huggebugge123
+logoutlocation:
+  world: 9c04c5d2-17f0-4a0a-8d21-8faba958e1b3
+  world-name: world
+  x: -1108.456887690509
+  y: 198.0
+  z: -7.815948272338356
+  yaw: 99.0450210571289
+  pitch: 8.699491500854492
+lastlocation:
+  world: 9c04c5d2-17f0-4a0a-8d21-8faba958e1b3
+  world-name: world
+  x: -1845.5038753180552
+  y: 62.0
+  z: 947.1892315187729
+  yaw: 52.86602783203125
+  pitch: 21.44930076599121
+homes:
+  home:
+    world: 9c04c5d2-17f0-4a0a-8d21-8faba958e1b3
+    world-name: world
+    x: -1856.7265130193562
+    y: 56.0
+    z: 957.3873056130894
+    yaw: -144.99005126953125
+    pitch: -6.60062313079834

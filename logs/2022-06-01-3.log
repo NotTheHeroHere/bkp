@@ -1,0 +1,335 @@
+[21:16:05] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21:16:11] [Worker-Main-6/INFO]: Loaded 7 recipes
+[21:16:16] [Server thread/INFO]: Starting minecraft server version 1.18.2
+[21:16:16] [Server thread/INFO]: Loading properties
+[21:16:17] [Server thread/INFO]: This server is running CraftBukkit version 3491-Spigot-b081915-95d233d (MC: 1.18.2) (Implementing API version 1.18.2-R0.1-SNAPSHOT)
+[21:16:17] [Server thread/INFO]: Debug logging is disabled
+[21:16:17] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[21:16:17] [Server thread/INFO]: Using 4 threads for Netty based IO
+[21:16:18] [Server thread/INFO]: Default game type: SURVIVAL
+[21:16:18] [Server thread/INFO]: Generating keypair
+[21:16:19] [Server thread/INFO]: Starting Minecraft server on 88.99.11.184:25565
+[21:16:19] [Server thread/INFO]: Using epoll channel type
+[21:16:21] [Server thread/INFO]: [LifeSteal-Smp-Plugin] Loading LifeSteal-Smp-Plugin v1.0
+[21:16:21] [Server thread/WARN]: [LifeSteal-Smp-Plugin] Could not save heartRecipe.yml to plugins/LifeSteal-Smp-Plugin/heartRecipe.yml because heartRecipe.yml already exists.
+[21:16:21] [Server thread/WARN]: [LifeSteal-Smp-Plugin] Could not save beaconRecipe.yml to plugins/LifeSteal-Smp-Plugin/beaconRecipe.yml because beaconRecipe.yml already exists.
+[21:16:21] [Server thread/INFO]: [SuperVanish] Loading SuperVanish v6.2.7
+[21:16:21] [Server thread/INFO]: Preparing level "world"
+[21:16:23] [Server thread/INFO]: -------- World Settings For [world] --------
+[21:16:23] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[21:16:23] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[21:16:23] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[21:16:23] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[21:16:23] [Server thread/INFO]: Max TNT Explosions: 100
+[21:16:23] [Server thread/INFO]: Experience Merge Radius: 3.0
+[21:16:23] [Server thread/INFO]: Mob Spawn Range: 6
+[21:16:23] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[21:16:23] [Server thread/INFO]: Cane Growth Modifier: 100%
+[21:16:23] [Server thread/INFO]: Melon Growth Modifier: 100%
+[21:16:23] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[21:16:23] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[21:16:23] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[21:16:23] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[21:16:23] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[21:16:23] [Server thread/INFO]: Potato Growth Modifier: 100%
+[21:16:23] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[21:16:23] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[21:16:23] [Server thread/INFO]: Vine Growth Modifier: 100%
+[21:16:23] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[21:16:23] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[21:16:23] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[21:16:23] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[21:16:23] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[21:16:23] [Server thread/INFO]: Item Despawn Rate: 6000
+[21:16:23] [Server thread/INFO]: Item Merge Radius: 2.5
+[21:16:23] [Server thread/INFO]: View Distance: 10
+[21:16:23] [Server thread/INFO]: Simulation Distance: 10
+[21:16:23] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[21:16:23] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[21:16:23] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[21:16:23] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[21:16:24] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[21:16:24] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[21:16:24] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[21:16:24] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[21:16:24] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[21:16:24] [Server thread/INFO]: Max TNT Explosions: 100
+[21:16:24] [Server thread/INFO]: Experience Merge Radius: 3.0
+[21:16:24] [Server thread/INFO]: Mob Spawn Range: 6
+[21:16:24] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[21:16:24] [Server thread/INFO]: Cane Growth Modifier: 100%
+[21:16:24] [Server thread/INFO]: Melon Growth Modifier: 100%
+[21:16:24] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[21:16:24] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[21:16:24] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[21:16:24] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[21:16:24] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[21:16:24] [Server thread/INFO]: Potato Growth Modifier: 100%
+[21:16:24] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[21:16:24] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[21:16:24] [Server thread/INFO]: Vine Growth Modifier: 100%
+[21:16:24] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[21:16:24] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[21:16:24] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[21:16:24] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[21:16:24] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[21:16:24] [Server thread/INFO]: Item Despawn Rate: 6000
+[21:16:24] [Server thread/INFO]: Item Merge Radius: 2.5
+[21:16:24] [Server thread/INFO]: View Distance: 10
+[21:16:24] [Server thread/INFO]: Simulation Distance: 10
+[21:16:24] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[21:16:24] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[21:16:24] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[21:16:24] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[21:16:24] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[21:16:24] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[21:16:24] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[21:16:24] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[21:16:24] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[21:16:24] [Server thread/INFO]: Max TNT Explosions: 100
+[21:16:24] [Server thread/INFO]: Experience Merge Radius: 3.0
+[21:16:24] [Server thread/INFO]: Mob Spawn Range: 6
+[21:16:24] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[21:16:24] [Server thread/INFO]: Cane Growth Modifier: 100%
+[21:16:24] [Server thread/INFO]: Melon Growth Modifier: 100%
+[21:16:24] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[21:16:24] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[21:16:24] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[21:16:24] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[21:16:24] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[21:16:24] [Server thread/INFO]: Potato Growth Modifier: 100%
+[21:16:24] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[21:16:24] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[21:16:24] [Server thread/INFO]: Vine Growth Modifier: 100%
+[21:16:24] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[21:16:24] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[21:16:24] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[21:16:24] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[21:16:24] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[21:16:24] [Server thread/INFO]: Item Despawn Rate: 6000
+[21:16:24] [Server thread/INFO]: Item Merge Radius: 2.5
+[21:16:24] [Server thread/INFO]: View Distance: 10
+[21:16:24] [Server thread/INFO]: Simulation Distance: 10
+[21:16:24] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[21:16:24] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[21:16:24] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[21:16:25] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[21:16:25] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:16:27] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[21:16:27] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[21:16:27] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[21:16:27] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[21:16:27] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[21:16:27] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[21:16:28] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[21:16:28] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[21:16:29] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[21:16:29] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[21:16:30] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[21:16:30] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[21:16:31] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[21:16:31] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[21:16:32] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[21:16:32] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[21:16:33] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[21:16:33] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[21:16:34] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[21:16:34] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[21:16:35] [Worker-Main-8/INFO]: Preparing spawn area: 2%
+[21:16:35] [Worker-Main-10/INFO]: Preparing spawn area: 6%
+[21:16:36] [Worker-Main-7/INFO]: Preparing spawn area: 8%
+[21:16:36] [Worker-Main-9/INFO]: Preparing spawn area: 11%
+[21:16:37] [Worker-Main-10/INFO]: Preparing spawn area: 14%
+[21:16:37] [Worker-Main-8/INFO]: Preparing spawn area: 24%
+[21:16:38] [Worker-Main-10/INFO]: Preparing spawn area: 27%
+[21:16:38] [Worker-Main-7/INFO]: Preparing spawn area: 28%
+[21:16:39] [Worker-Main-9/INFO]: Preparing spawn area: 28%
+[21:16:39] [Worker-Main-10/INFO]: Preparing spawn area: 28%
+[21:16:40] [Worker-Main-6/INFO]: Preparing spawn area: 31%
+[21:16:40] [Worker-Main-7/INFO]: Preparing spawn area: 33%
+[21:16:41] [Worker-Main-7/INFO]: Preparing spawn area: 46%
+[21:16:41] [Worker-Main-8/INFO]: Preparing spawn area: 50%
+[21:16:42] [Worker-Main-6/INFO]: Preparing spawn area: 55%
+[21:16:42] [Worker-Main-8/INFO]: Preparing spawn area: 59%
+[21:16:43] [Worker-Main-9/INFO]: Preparing spawn area: 64%
+[21:16:43] [Worker-Main-6/INFO]: Preparing spawn area: 81%
+[21:16:44] [Worker-Main-7/INFO]: Preparing spawn area: 90%
+[21:16:44] [Server thread/INFO]: Time elapsed: 19829 ms
+[21:16:45] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[21:16:46] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[21:16:46] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[21:16:46] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[21:16:46] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[21:16:47] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[21:16:47] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[21:16:48] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[21:16:48] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[21:16:49] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[21:16:49] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[21:16:50] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[21:16:50] [Worker-Main-6/INFO]: Preparing spawn area: 1%
+[21:16:51] [Worker-Main-9/INFO]: Preparing spawn area: 3%
+[21:16:51] [Worker-Main-10/INFO]: Preparing spawn area: 4%
+[21:16:52] [Worker-Main-7/INFO]: Preparing spawn area: 4%
+[21:16:52] [Worker-Main-7/INFO]: Preparing spawn area: 4%
+[21:16:53] [Worker-Main-8/INFO]: Preparing spawn area: 5%
+[21:16:53] [Worker-Main-8/INFO]: Preparing spawn area: 27%
+[21:16:54] [Worker-Main-8/INFO]: Preparing spawn area: 41%
+[21:16:54] [Worker-Main-9/INFO]: Preparing spawn area: 47%
+[21:16:55] [Worker-Main-7/INFO]: Preparing spawn area: 57%
+[21:16:55] [Worker-Main-7/INFO]: Preparing spawn area: 65%
+[21:16:56] [Worker-Main-6/INFO]: Preparing spawn area: 85%
+[21:16:57] [Server thread/INFO]: Time elapsed: 12268 ms
+[21:16:57] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[21:16:57] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[21:16:57] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[21:16:58] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[21:16:58] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[21:16:59] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[21:16:59] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[21:17:00] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[21:17:00] [Worker-Main-9/INFO]: Preparing spawn area: 1%
+[21:17:02] [Worker-Main-10/INFO]: Preparing spawn area: 1%
+[21:17:02] [Worker-Main-7/INFO]: Preparing spawn area: 1%
+[21:17:02] [Worker-Main-9/INFO]: Preparing spawn area: 1%
+[21:17:03] [Worker-Main-7/INFO]: Preparing spawn area: 1%
+[21:17:03] [Worker-Main-8/INFO]: Preparing spawn area: 1%
+[21:17:03] [Worker-Main-7/INFO]: Preparing spawn area: 1%
+[21:17:04] [Worker-Main-8/INFO]: Preparing spawn area: 1%
+[21:17:04] [Worker-Main-7/INFO]: Preparing spawn area: 1%
+[21:17:05] [Worker-Main-10/INFO]: Preparing spawn area: 1%
+[21:17:05] [Worker-Main-8/INFO]: Preparing spawn area: 5%
+[21:17:06] [Worker-Main-9/INFO]: Preparing spawn area: 6%
+[21:17:06] [Worker-Main-10/INFO]: Preparing spawn area: 10%
+[21:17:07] [Worker-Main-10/INFO]: Preparing spawn area: 13%
+[21:17:07] [Worker-Main-8/INFO]: Preparing spawn area: 15%
+[21:17:08] [Worker-Main-7/INFO]: Preparing spawn area: 24%
+[21:17:08] [Worker-Main-9/INFO]: Preparing spawn area: 36%
+[21:17:09] [Worker-Main-6/INFO]: Preparing spawn area: 41%
+[21:17:09] [Worker-Main-8/INFO]: Preparing spawn area: 50%
+[21:17:10] [Worker-Main-6/INFO]: Preparing spawn area: 74%
+[21:17:10] [Server thread/INFO]: Time elapsed: 13503 ms
+[21:17:10] [Server thread/INFO]: [LifeSteal-Smp-Plugin] Enabling LifeSteal-Smp-Plugin v1.0
+[21:17:12] [Server thread/INFO]: [SuperVanish] Enabling SuperVanish v6.2.7
+[21:17:12] [Server thread/INFO]: [SuperVanish] Please install ProtocolLib to be able to use all SuperVanish features: https://www.spigotmc.org/resources/protocollib.1997/
+[21:17:12] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[21:17:12] [Server thread/INFO]: Done (51.090s)! For help, type "help"
+[21:17:13] [Server thread/INFO]: com.mojang.authlib.GameProfile@785a2a08[id=<null>,name=xsisorm,properties={},legacy=false] (/81.226.224.168:49657) lost connection: Disconnected
+[21:17:13] [User Authenticator #1/INFO]: UUID of player Waltoy is 7c66e655-d80d-401d-b97e-5c6bf0fee9aa
+[21:17:13] [User Authenticator #2/INFO]: UUID of player Huggebugge123 is d27b6796-9e8e-4b96-894a-17e7113ba154
+[21:17:14] [Server thread/INFO]: Waltoy[/5.180.0.160:62357] logged in with entity id 126 at ([world]-1561.6705899453193, 63.0, 602.5148887799124)
+[21:17:18] [Server thread/INFO]: Huggebugge123[/98.128.180.145:60495] logged in with entity id 127 at ([world]-1000.6380204980796, 69.0, 1044.865089995922)
+[21:17:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7073ms or 141 ticks behind
+[21:17:20] [Server thread/INFO]: com.mojang.authlib.GameProfile@7fbdf9bc[id=<null>,name=NotTheHeroHere,properties={},legacy=false] (/83.233.246.209:30064) lost connection: Disconnected
+[21:17:24] [User Authenticator #3/INFO]: UUID of player xsisorm is 41d5215b-11d3-4aeb-aad6-7aac06ec096b
+[21:17:25] [Server thread/INFO]: xsisorm[/81.226.224.168:49707] logged in with entity id 397 at ([world]1722.5979261526547, 67.17675927506424, -1231.8885605570742)
+[21:17:29] [Server thread/INFO]: com.mojang.authlib.GameProfile@49f04c74[id=<null>,name=NotTheHeroHere,properties={},legacy=false] (/83.233.246.122:33877) lost connection: Disconnected
+[21:17:33] [User Authenticator #4/INFO]: UUID of player earth_miner123 is 593673ab-f1b5-4ee3-aaef-fda12e509420
+[21:17:33] [Server thread/INFO]: earth_miner123[/93.182.161.53:53073] logged in with entity id 497 at ([world]40.73786007259875, 63.0, 312.58923653452183)
+[21:17:47] [User Authenticator #5/INFO]: UUID of player NotTheHeroHere is 6435c2b0-db69-4d6b-9182-eb4b0a9ba0fc
+[21:17:47] [Server thread/INFO]: NotTheHeroHere[/83.233.246.122:33868] logged in with entity id 818 at ([world]-998.7505160326657, 70.0, 1045.9209927297702)
+[21:17:50] [User Authenticator #6/INFO]: UUID of player MiltonGrande7 is 16666028-dd41-4b8b-867d-21f4af84b97d
+[21:17:51] [Server thread/INFO]: MiltonGrande7[/83.233.247.3:29556] logged in with entity id 835 at ([world]-872.5268428577922, 54.0, 1175.8284644714756)
+[21:17:53] [Server thread/INFO]: earth_miner123 lost connection: Disconnected
+[21:17:53] [Server thread/INFO]: earth_miner123 left the game
+[21:17:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9053ms or 181 ticks behind
+[21:18:00] [Async Chat Thread - #0/INFO]: <MiltonGrande7> tjena[m
+[21:18:16] [Server thread/INFO]: Nothing changed. The player already is an operator
+[21:18:35] [Server thread/INFO]: NotTheHeroHere issued server command: /lshealth add Waltoy 3
+[21:19:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5015ms or 100 ticks behind
+[21:19:42] [Server thread/INFO]: Huggebugge123 lost connection: Disconnected
+[21:19:42] [Server thread/INFO]: Huggebugge123 left the game
+[21:19:48] [Server thread/INFO]: xsisorm lost connection: Disconnected
+[21:19:48] [Server thread/INFO]: xsisorm left the game
+[21:19:51] [Server thread/INFO]: NotTheHeroHere issued server command: /v
+[21:20:11] [User Authenticator #7/INFO]: UUID of player Huggebugge123 is d27b6796-9e8e-4b96-894a-17e7113ba154
+[21:20:11] [Server thread/INFO]: Huggebugge123[/98.128.180.145:60418] logged in with entity id 2238 at ([world]-1022.9142048218629, -6.0, 1128.699999988079)
+[21:20:13] [Server thread/INFO]: NotTheHeroHere issued server command: /v
+[21:20:17] [User Authenticator #8/INFO]: UUID of player xsisorm is 41d5215b-11d3-4aeb-aad6-7aac06ec096b
+[21:20:17] [Server thread/INFO]: xsisorm[/81.226.224.168:49803] logged in with entity id 2337 at ([world]1704.1127869446454, 82.0, -787.3497299803989)
+[21:21:15] [User Authenticator #9/INFO]: UUID of player earth_miner123 is 593673ab-f1b5-4ee3-aaef-fda12e509420
+[21:21:15] [Server thread/INFO]: earth_miner123[/93.182.161.53:56327] logged in with entity id 3383 at ([world]40.73786007259875, 63.0, 312.58923653452183)
+[21:21:43] [Server thread/INFO]: earth_miner123 lost connection: Disconnected
+[21:21:43] [Server thread/INFO]: earth_miner123 left the game
+[21:22:08] [Server thread/INFO]: MiltonGrande7 lost connection: Disconnected
+[21:22:09] [Server thread/INFO]: MiltonGrande7 left the game
+[21:22:52] [User Authenticator #10/INFO]: UUID of player MiltonGrande7 is 16666028-dd41-4b8b-867d-21f4af84b97d
+[21:22:52] [Server thread/INFO]: MiltonGrande7[/83.233.247.3:29589] logged in with entity id 4784 at ([world]-819.3824829290697, -7.0, 1068.8055135284844)
+[21:22:55] [Server thread/INFO]: MiltonGrande7 lost connection: Disconnected
+[21:22:55] [Server thread/INFO]: MiltonGrande7 left the game
+[21:23:31] [User Authenticator #11/INFO]: UUID of player earth_miner123 is 593673ab-f1b5-4ee3-aaef-fda12e509420
+[21:23:31] [Server thread/INFO]: earth_miner123[/93.182.161.53:59546] logged in with entity id 5373 at ([world]40.73786007259875, 63.0, 312.58923653452183)
+[21:23:37] [Server thread/INFO]: earth_miner123 lost connection: Disconnected
+[21:23:37] [Server thread/INFO]: earth_miner123 left the game
+[21:24:58] [User Authenticator #12/INFO]: UUID of player MiltonGrande7 is 16666028-dd41-4b8b-867d-21f4af84b97d
+[21:24:58] [Server thread/INFO]: MiltonGrande7[/83.233.247.3:29605] logged in with entity id 6297 at ([world]-819.3824829290697, -7.0, 1068.8055135284844)
+[21:25:02] [Server thread/INFO]: MiltonGrande7 lost connection: Disconnected
+[21:25:02] [Server thread/INFO]: MiltonGrande7 left the game
+[21:25:30] [Server thread/INFO]: Huggebugge123 has made the advancement [Diamonds!]
+[21:25:53] [User Authenticator #13/INFO]: UUID of player earth_miner123 is 593673ab-f1b5-4ee3-aaef-fda12e509420
+[21:25:53] [Server thread/INFO]: earth_miner123[/93.182.161.53:59696] logged in with entity id 7119 at ([world]40.73786007259875, 63.0, 312.58923653452183)
+[21:25:58] [Server thread/INFO]: earth_miner123 lost connection: Disconnected
+[21:25:58] [Server thread/INFO]: earth_miner123 left the game
+[21:26:09] [User Authenticator #14/INFO]: UUID of player MiltonGrande7 is 16666028-dd41-4b8b-867d-21f4af84b97d
+[21:26:09] [Server thread/INFO]: MiltonGrande7[/83.233.247.3:29618] logged in with entity id 7311 at ([world]-819.3824829290697, -7.0, 1068.8055135284844)
+[21:26:12] [Server thread/INFO]: NotTheHeroHere lost connection: Disconnected
+[21:26:12] [Server thread/INFO]: NotTheHeroHere left the game
+[21:26:13] [Server thread/INFO]: MiltonGrande7 lost connection: Disconnected
+[21:26:13] [Server thread/INFO]: MiltonGrande7 left the game
+[21:26:15] [User Authenticator #15/INFO]: UUID of player NotTheHeroHere is 6435c2b0-db69-4d6b-9182-eb4b0a9ba0fc
+[21:26:15] [Server thread/INFO]: NotTheHeroHere[/83.233.246.122:34136] logged in with entity id 7412 at ([world]-1596.5476351383445, 64.0, 179.39484798418158)
+[21:26:15] [User Authenticator #16/INFO]: UUID of player MiltonGrande7 is 16666028-dd41-4b8b-867d-21f4af84b97d
+[21:26:15] [Server thread/INFO]: MiltonGrande7[/83.233.247.3:29627] logged in with entity id 7413 at ([world]-819.3824829290697, -7.0, 1068.8055135284844)
+[21:26:24] [Server thread/INFO]: NotTheHeroHere issued server command: /fly
+[21:28:51] [Server thread/INFO]: xsisorm drowned
+[21:31:17] [Server thread/INFO]: NotTheHeroHere lost connection: Disconnected
+[21:31:17] [Server thread/INFO]: NotTheHeroHere left the game
+[21:31:44] [Async Chat Thread - #1/INFO]: <Waltoy> SOV[m
+[21:31:54] [Server thread/INFO]: Huggebugge123 lost connection: Disconnected
+[21:31:54] [Server thread/INFO]: Huggebugge123 left the game
+[21:31:56] [Server thread/INFO]: xsisorm lost connection: Disconnected
+[21:31:56] [Server thread/INFO]: xsisorm left the game
+[21:32:01] [User Authenticator #17/INFO]: UUID of player xsisorm is 41d5215b-11d3-4aeb-aad6-7aac06ec096b
+[21:32:01] [Server thread/INFO]: xsisorm[/81.226.224.168:50162] logged in with entity id 12143 at ([world]-184.61545336142197, 75.0, 792.6999999880791)
+[21:32:16] [Async Chat Thread - #1/INFO]: <MiltonGrande7> sus[m
+[21:32:29] [User Authenticator #18/INFO]: UUID of player Huggebugge123 is d27b6796-9e8e-4b96-894a-17e7113ba154
+[21:32:29] [Server thread/INFO]: Huggebugge123[/98.128.180.145:60543] logged in with entity id 12469 at ([world]-1065.6047598412545, -24.0, 1141.699999988079)
+[21:32:54] [Server thread/INFO]: Huggebugge123 was shot by Skeleton
+[21:34:36] [Server thread/INFO]: Huggebugge123 has made the advancement [A Seedy Place]
+[21:34:44] [Server thread/INFO]: MiltonGrande7 issued server command: /vanish
+[21:34:54] [Server thread/INFO]: Huggebugge123 has made the advancement [The Parrots and the Bats]
+[21:36:28] [Server thread/INFO]: xsisorm fell from a high place
+[21:40:31] [Server thread/INFO]: Huggebugge123 lost connection: Disconnected
+[21:40:31] [Server thread/INFO]: Huggebugge123 left the game
+[21:41:54] [User Authenticator #19/INFO]: UUID of player Huggebugge123 is d27b6796-9e8e-4b96-894a-17e7113ba154
+[21:41:55] [Server thread/INFO]: Huggebugge123[/98.128.180.145:60522] logged in with entity id 20201 at ([world]-1000.0044184698627, 69.0, 1043.5074255252803)
+[21:43:05] [Server thread/INFO]: Huggebugge123 lost connection: Disconnected
+[21:43:05] [Server thread/INFO]: Huggebugge123 left the game
+[21:43:10] [User Authenticator #20/INFO]: UUID of player Huggebugge123 is d27b6796-9e8e-4b96-894a-17e7113ba154
+[21:43:10] [Server thread/INFO]: Huggebugge123[/98.128.180.145:60300] logged in with entity id 21205 at ([world]-999.1290313175184, 70.0, 1045.426722763192)
+[21:43:16] [Server thread/INFO]: xsisorm lost connection: Disconnected
+[21:43:16] [Server thread/INFO]: xsisorm left the game
+[21:43:31] [User Authenticator #21/INFO]: UUID of player xsisorm is 41d5215b-11d3-4aeb-aad6-7aac06ec096b
+[21:43:33] [Server thread/INFO]: xsisorm[/81.226.224.168:62239] logged in with entity id 21293 at ([world]-869.5247695356406, 62.07326432466507, 202.62731639856253)
+[21:43:57] [Server thread/INFO]: MiltonGrande7 issued server command: /w Huggebugge123 shhh :D
+[21:44:12] [Server thread/INFO]: Huggebugge123 has made the advancement [Cover Me with Diamonds]
+[21:45:02] [Server thread/INFO]: MiltonGrande7 issued server command: /w Huggebugge123 jag gör ett enchanting table
+[21:45:11] [Server thread/INFO]: Waltoy lost connection: Disconnected
+[21:45:11] [Server thread/INFO]: Waltoy left the game
+[21:45:52] [User Authenticator #22/INFO]: UUID of player Waltoy is 7c66e655-d80d-401d-b97e-5c6bf0fee9aa
+[21:45:52] [Server thread/INFO]: Waltoy[/5.180.0.160:49784] logged in with entity id 22886 at ([world]-1028.2020876975014, 63.0, 1061.3216239790922)
+[21:45:55] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: Input/output error
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:?]
+	at java.io.FileInputStream.read(FileInputStream.java:276) ~[?:?]
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:244) ~[?:?]
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:263) ~[?:?]
+	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:169) ~[jline-2.12.1.jar:?]
+	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:137) ~[jline-2.12.1.jar:?]
+	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:246) ~[jline-2.12.1.jar:?]
+	at jline.internal.InputStreamReader.read(InputStreamReader.java:261) ~[jline-2.12.1.jar:?]
+	at jline.internal.InputStreamReader.read(InputStreamReader.java:198) ~[jline-2.12.1.jar:?]
+	at jline.console.ConsoleReader.readCharacter(ConsoleReader.java:2145) ~[jline-2.12.1.jar:?]
+	at jline.console.ConsoleReader.readLine(ConsoleReader.java:2349) ~[jline-2.12.1.jar:?]
+	at net.minecraft.server.dedicated.DedicatedServer$1.run(DedicatedServer.java:129) [spigot-1.18.2-R0.1-SNAPSHOT.jar:3491-Spigot-b081915-95d233d]
+[21:45:55] [Thread-1/INFO]: Stopping server

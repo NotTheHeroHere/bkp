@@ -1,0 +1,55 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 5.180.0.160
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1655061320904
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1655063272228
+  login: 1655062236229
+money: '0'
+lastlocation:
+  world: 9c04c5d2-17f0-4a0a-8d21-8faba958e1b3
+  world-name: world
+  x: -1763.0856597277686
+  y: 64.0
+  z: 698.6738477380263
+  yaw: -99.43408203125
+  pitch: 8.54997444152832
+logoutlocation:
+  world: 9c04c5d2-17f0-4a0a-8d21-8faba958e1b3
+  world-name: world
+  x: -1106.6756396477956
+  y: 197.0
+  z: -4.2462206210743325
+  yaw: 54.341094970703125
+  pitch: 45.30009078979492
+last-account-name: Waltoy
+homes:
+  home:
+    world: 9c04c5d2-17f0-4a0a-8d21-8faba958e1b3
+    world-name: world
+    x: -1853.5961080670406
+    y: 57.0
+    z: 957.6299445807077
+    yaw: 179.09732055664062
+    pitch: 13.360417366027832
+  waltoy:
+    world: 9c04c5d2-17f0-4a0a-8d21-8faba958e1b3
+    world-name: world
+    x: -1849.4336495980872
+    y: 60.0
+    z: 952.2308381409966
+    yaw: -168.90252685546875
+    pitch: 24.310382843017578

@@ -1,0 +1,647 @@
+[10:42:49] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[10:42:56] [Worker-Main-6/INFO]: Loaded 7 recipes
+[10:43:03] [Server thread/INFO]: Starting minecraft server version 1.18.2
+[10:43:03] [Server thread/INFO]: Loading properties
+[10:43:04] [Server thread/INFO]: This server is running CraftBukkit version 3491-Spigot-b081915-95d233d (MC: 1.18.2) (Implementing API version 1.18.2-R0.1-SNAPSHOT)
+[10:43:04] [Server thread/INFO]: Debug logging is disabled
+[10:43:04] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[10:43:04] [Server thread/INFO]: Using 4 threads for Netty based IO
+[10:43:04] [Server thread/INFO]: Default game type: SURVIVAL
+[10:43:04] [Server thread/INFO]: Generating keypair
+[10:43:05] [Server thread/INFO]: Starting Minecraft server on 88.99.11.184:25565
+[10:43:05] [Server thread/INFO]: Using epoll channel type
+[10:43:07] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[10:43:18] [Server thread/WARN]: Legacy plugin SimpleTpa v6.0 does not specify an api-version.
+[10:43:19] [Server thread/INFO]: [SimpleTpa] Loading SimpleTpa v6.0
+[10:43:19] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.4.25
+[10:43:21] [Server thread/INFO]: [OpenInv] Loading OpenInv v4.1.10
+[10:43:21] [Server thread/INFO]: [VeinMiner] Loading VeinMiner v1.17.10
+[10:43:21] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v4.8.0
+[10:43:26] [Server thread/INFO]: [Orebfuscator] Loading Orebfuscator v5.2.6
+[10:43:26] [Server thread/INFO]: [SuperVanish] Loading SuperVanish v6.2.7
+[10:43:26] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.25
+[10:43:27] [Server thread/INFO]: [0;36;1m       [0;36;22m __    [m
+[10:43:27] [Server thread/INFO]: [0;36;1m  |    [0;36;22m|__)   [0;32;22mLuckPerms[m [0;36;1mv5.4.25[m
+[10:43:27] [Server thread/INFO]: [0;36;1m  |___ [0;36;22m|      [0;30;1mRunning on Bukkit - CraftBukkit[m
+[10:43:27] [Server thread/INFO]: [m
+[10:43:27] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[10:43:28] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[10:43:30] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[10:43:30] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[10:43:31] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 5348ms)
+[10:43:31] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v4.8.0
+[10:43:31] [Server thread/INFO]: [ProtocolLib] Started structure compiler thread.
+[10:43:31] [Server thread/INFO]: Preparing level "world"
+[10:43:34] [Server thread/INFO]: -------- World Settings For [world] --------
+[10:43:34] [Server thread/INFO]: Experience Merge Radius: 3.0
+[10:43:34] [Server thread/INFO]: Mob Spawn Range: 6
+[10:43:34] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[10:43:34] [Server thread/INFO]: Cane Growth Modifier: 100%
+[10:43:34] [Server thread/INFO]: Melon Growth Modifier: 100%
+[10:43:34] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[10:43:34] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[10:43:34] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[10:43:34] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[10:43:34] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[10:43:34] [Server thread/INFO]: Potato Growth Modifier: 100%
+[10:43:34] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[10:43:34] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[10:43:34] [Server thread/INFO]: Vine Growth Modifier: 100%
+[10:43:34] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[10:43:34] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[10:43:34] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[10:43:34] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[10:43:34] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[10:43:34] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[10:43:34] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[10:43:34] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[10:43:34] [Server thread/INFO]: Max TNT Explosions: 100
+[10:43:34] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[10:43:34] [Server thread/INFO]: Item Despawn Rate: 6000
+[10:43:34] [Server thread/INFO]: Item Merge Radius: 2.5
+[10:43:34] [Server thread/INFO]: View Distance: 10
+[10:43:34] [Server thread/INFO]: Simulation Distance: 10
+[10:43:34] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[10:43:34] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[10:43:34] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[10:43:34] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[10:43:35] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[10:43:35] [Server thread/INFO]: Experience Merge Radius: 3.0
+[10:43:35] [Server thread/INFO]: Mob Spawn Range: 6
+[10:43:35] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[10:43:35] [Server thread/INFO]: Cane Growth Modifier: 100%
+[10:43:35] [Server thread/INFO]: Melon Growth Modifier: 100%
+[10:43:35] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[10:43:35] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[10:43:35] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[10:43:35] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[10:43:35] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[10:43:35] [Server thread/INFO]: Potato Growth Modifier: 100%
+[10:43:35] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[10:43:35] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[10:43:35] [Server thread/INFO]: Vine Growth Modifier: 100%
+[10:43:35] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[10:43:35] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[10:43:35] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[10:43:35] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[10:43:35] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[10:43:35] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[10:43:35] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[10:43:35] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[10:43:35] [Server thread/INFO]: Max TNT Explosions: 100
+[10:43:35] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[10:43:35] [Server thread/INFO]: Item Despawn Rate: 6000
+[10:43:35] [Server thread/INFO]: Item Merge Radius: 2.5
+[10:43:35] [Server thread/INFO]: View Distance: 10
+[10:43:35] [Server thread/INFO]: Simulation Distance: 10
+[10:43:35] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[10:43:35] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[10:43:35] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[10:43:35] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[10:43:36] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[10:43:36] [Server thread/INFO]: Experience Merge Radius: 3.0
+[10:43:36] [Server thread/INFO]: Mob Spawn Range: 6
+[10:43:36] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[10:43:36] [Server thread/INFO]: Cane Growth Modifier: 100%
+[10:43:36] [Server thread/INFO]: Melon Growth Modifier: 100%
+[10:43:36] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[10:43:36] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[10:43:36] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[10:43:36] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[10:43:36] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[10:43:36] [Server thread/INFO]: Potato Growth Modifier: 100%
+[10:43:36] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[10:43:36] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[10:43:36] [Server thread/INFO]: Vine Growth Modifier: 100%
+[10:43:36] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[10:43:36] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[10:43:36] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[10:43:36] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[10:43:36] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[10:43:36] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[10:43:36] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[10:43:36] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[10:43:36] [Server thread/INFO]: Max TNT Explosions: 100
+[10:43:36] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[10:43:36] [Server thread/INFO]: Item Despawn Rate: 6000
+[10:43:36] [Server thread/INFO]: Item Merge Radius: 2.5
+[10:43:36] [Server thread/INFO]: View Distance: 10
+[10:43:36] [Server thread/INFO]: Simulation Distance: 10
+[10:43:36] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[10:43:36] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[10:43:36] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[10:43:36] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[10:43:36] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[10:43:38] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[10:43:39] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[10:43:39] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[10:43:39] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[10:43:39] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[10:43:39] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[10:43:39] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[10:43:39] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[10:43:40] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[10:43:40] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[10:43:41] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[10:43:41] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[10:43:42] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[10:43:42] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[10:43:43] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[10:43:43] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[10:43:44] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[10:43:44] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[10:43:45] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[10:43:46] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[10:43:46] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[10:43:47] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[10:43:47] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[10:43:47] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[10:43:48] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[10:43:48] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[10:43:49] [Worker-Main-9/INFO]: Preparing spawn area: 1%
+[10:43:49] [Worker-Main-7/INFO]: Preparing spawn area: 1%
+[10:43:50] [Worker-Main-9/INFO]: Preparing spawn area: 1%
+[10:43:50] [Worker-Main-8/INFO]: Preparing spawn area: 4%
+[10:43:51] [Worker-Main-9/INFO]: Preparing spawn area: 4%
+[10:43:51] [Worker-Main-8/INFO]: Preparing spawn area: 13%
+[10:43:52] [Worker-Main-10/INFO]: Preparing spawn area: 13%
+[10:43:52] [Worker-Main-8/INFO]: Preparing spawn area: 15%
+[10:43:53] [Worker-Main-9/INFO]: Preparing spawn area: 17%
+[10:43:53] [Worker-Main-8/INFO]: Preparing spawn area: 24%
+[10:43:54] [Worker-Main-8/INFO]: Preparing spawn area: 25%
+[10:43:54] [Worker-Main-7/INFO]: Preparing spawn area: 26%
+[10:43:55] [Worker-Main-10/INFO]: Preparing spawn area: 28%
+[10:43:55] [Worker-Main-8/INFO]: Preparing spawn area: 28%
+[10:43:56] [Worker-Main-9/INFO]: Preparing spawn area: 30%
+[10:43:56] [Worker-Main-6/INFO]: Preparing spawn area: 32%
+[10:43:57] [Worker-Main-10/INFO]: Preparing spawn area: 38%
+[10:43:57] [Worker-Main-8/INFO]: Preparing spawn area: 45%
+[10:43:58] [Worker-Main-10/INFO]: Preparing spawn area: 49%
+[10:43:58] [Worker-Main-9/INFO]: Preparing spawn area: 53%
+[10:43:59] [Worker-Main-9/INFO]: Preparing spawn area: 53%
+[10:43:59] [Worker-Main-6/INFO]: Preparing spawn area: 56%
+[10:44:00] [Worker-Main-9/INFO]: Preparing spawn area: 60%
+[10:44:00] [Worker-Main-10/INFO]: Preparing spawn area: 72%
+[10:44:01] [Worker-Main-10/INFO]: Preparing spawn area: 79%
+[10:44:01] [Worker-Main-10/INFO]: Preparing spawn area: 91%
+[10:44:04] [Server thread/INFO]: Time elapsed: 27861 ms
+[10:44:04] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[10:44:07] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[10:44:07] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[10:44:07] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[10:44:07] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[10:44:07] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[10:44:07] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[10:44:07] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[10:44:07] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[10:44:08] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[10:44:08] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[10:44:09] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[10:44:09] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[10:44:10] [Worker-Main-6/INFO]: Preparing spawn area: 1%
+[10:44:10] [Worker-Main-6/INFO]: Preparing spawn area: 2%
+[10:44:11] [Worker-Main-6/INFO]: Preparing spawn area: 4%
+[10:44:12] [Worker-Main-9/INFO]: Preparing spawn area: 4%
+[10:44:12] [Worker-Main-10/INFO]: Preparing spawn area: 4%
+[10:44:12] [Worker-Main-9/INFO]: Preparing spawn area: 4%
+[10:44:13] [Worker-Main-8/INFO]: Preparing spawn area: 4%
+[10:44:13] [Worker-Main-9/INFO]: Preparing spawn area: 4%
+[10:44:14] [Worker-Main-8/INFO]: Preparing spawn area: 8%
+[10:44:14] [Worker-Main-8/INFO]: Preparing spawn area: 17%
+[10:44:15] [Worker-Main-7/INFO]: Preparing spawn area: 22%
+[10:44:15] [Worker-Main-8/INFO]: Preparing spawn area: 25%
+[10:44:16] [Worker-Main-8/INFO]: Preparing spawn area: 28%
+[10:44:16] [Worker-Main-6/INFO]: Preparing spawn area: 37%
+[10:44:17] [Worker-Main-8/INFO]: Preparing spawn area: 39%
+[10:44:17] [Worker-Main-6/INFO]: Preparing spawn area: 40%
+[10:44:18] [Worker-Main-10/INFO]: Preparing spawn area: 44%
+[10:44:18] [Worker-Main-6/INFO]: Preparing spawn area: 50%
+[10:44:19] [Worker-Main-7/INFO]: Preparing spawn area: 56%
+[10:44:19] [Worker-Main-10/INFO]: Preparing spawn area: 66%
+[10:44:20] [Worker-Main-7/INFO]: Preparing spawn area: 79%
+[10:44:20] [Worker-Main-10/INFO]: Preparing spawn area: 95%
+[10:44:21] [Server thread/INFO]: Time elapsed: 17251 ms
+[10:44:21] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[10:44:23] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[10:44:23] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[10:44:23] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[10:44:23] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[10:44:23] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[10:44:24] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[10:44:24] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[10:44:25] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[10:44:25] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[10:44:26] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[10:44:26] [Worker-Main-6/INFO]: Preparing spawn area: 1%
+[10:44:27] [Worker-Main-8/INFO]: Preparing spawn area: 8%
+[10:44:27] [Worker-Main-9/INFO]: Preparing spawn area: 14%
+[10:44:28] [Worker-Main-8/INFO]: Preparing spawn area: 14%
+[10:44:28] [Worker-Main-6/INFO]: Preparing spawn area: 16%
+[10:44:29] [Worker-Main-6/INFO]: Preparing spawn area: 16%
+[10:44:29] [Worker-Main-9/INFO]: Preparing spawn area: 18%
+[10:44:30] [Worker-Main-10/INFO]: Preparing spawn area: 25%
+[10:44:30] [Worker-Main-9/INFO]: Preparing spawn area: 67%
+[10:44:31] [Worker-Main-8/INFO]: Preparing spawn area: 86%
+[10:44:31] [Server thread/INFO]: Time elapsed: 10084 ms
+[10:44:31] [Server thread/INFO]: [SimpleTpa] Enabling SimpleTpa v6.0
+[10:44:31] [Server thread/INFO]: [0;33;1m[21m[SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9[m
+[10:44:31] [Server thread/INFO]: [0;33;1m[21m[SimpleTpa] Simple Tpa has been enabled on version 6.0[m
+[10:44:31] [Server thread/INFO]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
+[10:44:32] [Server thread/INFO]: [OpenInv] Enabling OpenInv v4.1.10
+[10:44:32] [Server thread/INFO]: [VeinMiner] Enabling VeinMiner v1.17.10
+[10:44:32] [Server thread/INFO]: [VeinMiner] Registering events
+[10:44:32] [Server thread/INFO]: [VeinMiner] Registering commands
+[10:44:32] [Server thread/INFO]: [VeinMiner] Vault not found. Economy support suspended
+[10:44:32] [Server thread/INFO]: [VeinMiner] Enabling Plugin Metrics
+[10:44:33] [Server thread/INFO]: [VeinMiner] Thanks for enabling Metrics! The anonymous stats are appreciated
+[10:44:33] [Server thread/INFO]: [VeinMiner] Loading configuration options to local memory
+[10:44:33] [Server thread/INFO]: [VeinMiner] Performing an update check!
+[10:44:33] [Server thread/INFO]: [Orebfuscator] Enabling Orebfuscator v5.2.6
+[10:44:34] [ForkJoinPool.commonPool-worker-1/INFO]: [VeinMiner] Your version of VeinMiner (1.17.10) is up to date!
+[10:44:34] [Server thread/INFO]: [SuperVanish] Enabling SuperVanish v6.2.7
+[10:44:35] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[10:44:35] [Server thread/INFO]: Done (63.098s)! For help, type "help"
+[12:29:17] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[12:29:17] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[12:29:18] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[12:29:18] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[12:29:19] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[12:29:22] [Server thread/INFO]: [0;33;1m--------- [0;37;1mHelp: Index [0;33;1m---------------------------[m
+[12:29:22] [Server thread/INFO]: [0;37;22mUse /help [n] to get page n of help.[m
+[12:29:22] [Server thread/INFO]: [0;37;22m[0;33;22mAliases: [0;37;1mLists command aliases[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22mBukkit: [0;37;1mAll commands for Bukkit[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22mLuckPerms: [0;37;1mAll commands for LuckPerms[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22mMinecraft: [0;37;1mAll commands for Minecraft[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22mOpenInv: [0;37;1mAll commands for OpenInv[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22mProtocolLib: [0;37;1mAll commands for ProtocolLib[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22mSimpleTpa: [0;37;1mAll commands for SimpleTpa[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22mSuperVanish: [0;37;1mAll commands for SuperVanish[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22mVeinMiner: [0;37;1mAll commands for VeinMiner[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/advancement: [0;37;1mA Mojang provided command.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/anycontainer: [0;37;1mAnyContainer allows using blocked containers.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/attribute: [0;37;1mA Mojang provided command.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/back: [0;37;1mTeleports you to the previous location.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/ban: [0;37;1mA Mojang provided command.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/ban-ip: [0;37;1mA Mojang provided command.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/banlist: [0;37;1mA Mojang provided command.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/bossbar: [0;37;1mA Mojang provided command.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/clear: [0;37;1mA Mojang provided command.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/clone: [0;37;1mA Mojang provided command.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/data: [0;37;1mA Mojang provided command.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/datapack: [0;37;1mA Mojang provided command.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/debug: [0;37;1mA Mojang provided command.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/defaultgamemode: [0;37;1mA Mojang provided command.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/deop: [0;37;1mA Mojang provided command.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/difficulty: [0;37;1mA Mojang provided command.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/effect: [0;37;1mA Mojang provided command.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/enchant: [0;37;1mA Mojang provided command.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/execute: [0;37;1mA Mojang provided command.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/experience: [0;37;1mA Mojang provided command.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/fill: [0;37;1mA Mojang provided command.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/filter: [0;37;1mAdd or remove programmable filters to the packet listeners.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/forceload: [0;37;1mA Mojang provided command.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/function: [0;37;1mA Mojang provided command.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/gamemode: [0;37;1mA Mojang provided command.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/gamerule: [0;37;1mA Mojang provided command.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/give: [0;37;1mA Mojang provided command.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/help: [0;37;1mShows the help menu[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/item: [0;37;1mA Mojang provided command.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/jfr: [0;37;1mA Mojang provided command.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/kick: [0;37;1mA Mojang provided command.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/kill: [0;37;1mA Mojang provided command.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/list: [0;37;1mA Mojang provided command.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/locate: [0;37;1mA Mojang provided command.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/locatebiome: [0;37;1mA Mojang provided command.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/loot: [0;37;1mA Mojang provided command.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/luckperms: [0;37;1mManage permissions[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/me: [0;37;1mA Mojang provided command.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/minecraft:help: [0;37;1mA Mojang provided command.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/minecraft:lp: [0;37;1mA Mojang provided command.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/minecraft:luckperms: [0;37;1mA Mojang provided command.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/minecraft:luckperms:lp: [0;37;1mA Mojang provided command.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/minecraft:luckperms:luckperms: [0;37;1mA Mojang provided command.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/minecraft:luckperms:perm: [0;37;1mA Mojang provided command.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/minecraft:luckperms:permission: [0;37;1mA Mojang provided command.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/minecraft:luckperms:permissions: [0;37;1mA Mojang provided command.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/minecraft:luckperms:perms: [0;37;1mA Mojang provided command.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/minecraft:perm: [0;37;1mA Mojang provided command.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/minecraft:permission: [0;37;1mA Mojang provided command.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/minecraft:permissions: [0;37;1mA Mojang provided command.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/minecraft:perms: [0;37;1mA Mojang provided command.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/minecraft:reload: [0;37;1mA Mojang provided command.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/msg: [0;37;1mA Mojang provided command.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/op: [0;37;1mA Mojang provided command.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/openender: [0;37;1mOpens the enderchest of a player[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/openinv: [0;37;1mOpen a player's inventory[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/packet: [0;37;1mAdd or remove a simple packet listener.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/packetlog: [0;37;1mLogs hex representations of packets to a file or console[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/pardon: [0;37;1mA Mojang provided command.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/pardon-ip: [0;37;1mA Mojang provided command.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/particle: [0;37;1mA Mojang provided command.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/perf: [0;37;1mA Mojang provided command.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/placefeature: [0;37;1mA Mojang provided command.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/playsound: [0;37;1mA Mojang provided command.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/plugins: [0;37;1mGets a list of plugins running on the server[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/protocol: [0;37;1mPerforms administrative tasks regarding ProtocolLib.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/recipe: [0;37;1mA Mojang provided command.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/reload: [0;37;1mReloads the server configuration and plugins[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/restart: [0;37;1mRestarts the server[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/save-all: [0;37;1mA Mojang provided command.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/save-off: [0;37;1mA Mojang provided command.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/save-on: [0;37;1mA Mojang provided command.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/say: [0;37;1mA Mojang provided command.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/schedule: [0;37;1mA Mojang provided command.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/scoreboard: [0;37;1mA Mojang provided command.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/searchcontainer: [0;37;1mSearch and list containers with a specific material.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/searchenchant: [0;37;1mSearch and list players with a specific enchantment.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/searchender: [0;37;1mSearches and lists players having a specific item in their ender chest[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/searchinv: [0;37;1mSearch and list players having a specific item[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/seed: [0;37;1mA Mojang provided command.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/setblock: [0;37;1mA Mojang provided command.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/setidletimeout: [0;37;1mA Mojang provided command.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/setworldspawn: [0;37;1mA Mojang provided command.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/silentcontainer: [0;37;1mSilentContainer stops sounds and animations when using containers.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/simpletpa: [0;37;1mOpens the help menu of the plugin.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/spawnpoint: [0;37;1mA Mojang provided command.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/spectate: [0;37;1mA Mojang provided command.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/spigot: [0;37;1mSpigot related commands[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/spreadplayers: [0;37;1mA Mojang provided command.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/stop: [0;37;1mA Mojang provided command.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/stopsound: [0;37;1mA Mojang provided command.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/summon: [0;37;1mA Mojang provided command.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/sv: [0;37;1mSuperVanish's main command[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/tag: [0;37;1mA Mojang provided command.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/team: [0;37;1mA Mojang provided command.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/teammsg: [0;37;1mA Mojang provided command.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/teleport: [0;37;1mA Mojang provided command.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/tell: [0;37;1mA Mojang provided command.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/tellraw: [0;37;1mA Mojang provided command.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/time: [0;37;1mA Mojang provided command.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/timings: [0;37;1mManages Spigot Timings data to see performance of the server.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/title: [0;37;1mA Mojang provided command.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/tm: [0;37;1mA Mojang provided command.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/tp: [0;37;1mA Mojang provided command.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/tpa: [0;37;1mSends a teleportation request to someone.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/tpaccept: [0;37;1mAccepts the teleportation request.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/tpahere: [0;37;1mSends a teleport here request to someone.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/tpahereall: [0;37;1mSends a teleport request to everyone[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/tpatoggle: [0;37;1mTurns on and off the teleportation mode.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/tpcancel: [0;37;1mCacenls the teleportation request.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/tpdeny: [0;37;1mDenies the teleportation request.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/tps: [0;37;1mGets the current ticks per second for the server[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/trigger: [0;37;1mA Mojang provided command.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/veinminer: [0;37;1mThe main command for VeinMiner[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/version: [0;37;1mGets the version of this server including any plugins in use[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/w: [0;37;1mA Mojang provided command.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/weather: [0;37;1mA Mojang provided command.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/whitelist: [0;37;1mA Mojang provided command.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/worldborder: [0;37;1mA Mojang provided command.[m
+[12:29:22] [Server thread/INFO]: [0;37;1m[0;33;22m/xp: [0;37;1mA Mojang provided command.[m
+[12:29:24] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[12:29:27] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[12:29:30] [Server thread/INFO]: [0;33;1m--------- [0;37;1mHelp: Index [0;33;1m---------------------------[m
+[12:29:30] [Server thread/INFO]: [0;37;22mUse /help [n] to get page n of help.[m
+[12:29:30] [Server thread/INFO]: [0;37;22m[0;33;22mAliases: [0;37;1mLists command aliases[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22mBukkit: [0;37;1mAll commands for Bukkit[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22mLuckPerms: [0;37;1mAll commands for LuckPerms[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22mMinecraft: [0;37;1mAll commands for Minecraft[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22mOpenInv: [0;37;1mAll commands for OpenInv[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22mProtocolLib: [0;37;1mAll commands for ProtocolLib[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22mSimpleTpa: [0;37;1mAll commands for SimpleTpa[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22mSuperVanish: [0;37;1mAll commands for SuperVanish[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22mVeinMiner: [0;37;1mAll commands for VeinMiner[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/advancement: [0;37;1mA Mojang provided command.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/anycontainer: [0;37;1mAnyContainer allows using blocked containers.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/attribute: [0;37;1mA Mojang provided command.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/back: [0;37;1mTeleports you to the previous location.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/ban: [0;37;1mA Mojang provided command.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/ban-ip: [0;37;1mA Mojang provided command.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/banlist: [0;37;1mA Mojang provided command.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/bossbar: [0;37;1mA Mojang provided command.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/clear: [0;37;1mA Mojang provided command.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/clone: [0;37;1mA Mojang provided command.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/data: [0;37;1mA Mojang provided command.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/datapack: [0;37;1mA Mojang provided command.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/debug: [0;37;1mA Mojang provided command.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/defaultgamemode: [0;37;1mA Mojang provided command.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/deop: [0;37;1mA Mojang provided command.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/difficulty: [0;37;1mA Mojang provided command.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/effect: [0;37;1mA Mojang provided command.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/enchant: [0;37;1mA Mojang provided command.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/execute: [0;37;1mA Mojang provided command.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/experience: [0;37;1mA Mojang provided command.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/fill: [0;37;1mA Mojang provided command.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/filter: [0;37;1mAdd or remove programmable filters to the packet listeners.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/forceload: [0;37;1mA Mojang provided command.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/function: [0;37;1mA Mojang provided command.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/gamemode: [0;37;1mA Mojang provided command.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/gamerule: [0;37;1mA Mojang provided command.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/give: [0;37;1mA Mojang provided command.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/help: [0;37;1mShows the help menu[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/item: [0;37;1mA Mojang provided command.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/jfr: [0;37;1mA Mojang provided command.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/kick: [0;37;1mA Mojang provided command.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/kill: [0;37;1mA Mojang provided command.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/list: [0;37;1mA Mojang provided command.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/locate: [0;37;1mA Mojang provided command.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/locatebiome: [0;37;1mA Mojang provided command.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/loot: [0;37;1mA Mojang provided command.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/luckperms: [0;37;1mManage permissions[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/me: [0;37;1mA Mojang provided command.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/minecraft:help: [0;37;1mA Mojang provided command.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/minecraft:lp: [0;37;1mA Mojang provided command.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/minecraft:luckperms: [0;37;1mA Mojang provided command.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/minecraft:luckperms:lp: [0;37;1mA Mojang provided command.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/minecraft:luckperms:luckperms: [0;37;1mA Mojang provided command.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/minecraft:luckperms:perm: [0;37;1mA Mojang provided command.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/minecraft:luckperms:permission: [0;37;1mA Mojang provided command.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/minecraft:luckperms:permissions: [0;37;1mA Mojang provided command.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/minecraft:luckperms:perms: [0;37;1mA Mojang provided command.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/minecraft:perm: [0;37;1mA Mojang provided command.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/minecraft:permission: [0;37;1mA Mojang provided command.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/minecraft:permissions: [0;37;1mA Mojang provided command.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/minecraft:perms: [0;37;1mA Mojang provided command.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/minecraft:reload: [0;37;1mA Mojang provided command.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/msg: [0;37;1mA Mojang provided command.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/op: [0;37;1mA Mojang provided command.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/openender: [0;37;1mOpens the enderchest of a player[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/openinv: [0;37;1mOpen a player's inventory[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/packet: [0;37;1mAdd or remove a simple packet listener.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/packetlog: [0;37;1mLogs hex representations of packets to a file or console[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/pardon: [0;37;1mA Mojang provided command.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/pardon-ip: [0;37;1mA Mojang provided command.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/particle: [0;37;1mA Mojang provided command.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/perf: [0;37;1mA Mojang provided command.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/placefeature: [0;37;1mA Mojang provided command.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/playsound: [0;37;1mA Mojang provided command.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/plugins: [0;37;1mGets a list of plugins running on the server[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/protocol: [0;37;1mPerforms administrative tasks regarding ProtocolLib.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/recipe: [0;37;1mA Mojang provided command.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/reload: [0;37;1mReloads the server configuration and plugins[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/restart: [0;37;1mRestarts the server[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/save-all: [0;37;1mA Mojang provided command.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/save-off: [0;37;1mA Mojang provided command.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/save-on: [0;37;1mA Mojang provided command.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/say: [0;37;1mA Mojang provided command.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/schedule: [0;37;1mA Mojang provided command.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/scoreboard: [0;37;1mA Mojang provided command.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/searchcontainer: [0;37;1mSearch and list containers with a specific material.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/searchenchant: [0;37;1mSearch and list players with a specific enchantment.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/searchender: [0;37;1mSearches and lists players having a specific item in their ender chest[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/searchinv: [0;37;1mSearch and list players having a specific item[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/seed: [0;37;1mA Mojang provided command.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/setblock: [0;37;1mA Mojang provided command.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/setidletimeout: [0;37;1mA Mojang provided command.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/setworldspawn: [0;37;1mA Mojang provided command.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/silentcontainer: [0;37;1mSilentContainer stops sounds and animations when using containers.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/simpletpa: [0;37;1mOpens the help menu of the plugin.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/spawnpoint: [0;37;1mA Mojang provided command.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/spectate: [0;37;1mA Mojang provided command.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/spigot: [0;37;1mSpigot related commands[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/spreadplayers: [0;37;1mA Mojang provided command.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/stop: [0;37;1mA Mojang provided command.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/stopsound: [0;37;1mA Mojang provided command.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/summon: [0;37;1mA Mojang provided command.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/sv: [0;37;1mSuperVanish's main command[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/tag: [0;37;1mA Mojang provided command.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/team: [0;37;1mA Mojang provided command.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/teammsg: [0;37;1mA Mojang provided command.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/teleport: [0;37;1mA Mojang provided command.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/tell: [0;37;1mA Mojang provided command.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/tellraw: [0;37;1mA Mojang provided command.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/time: [0;37;1mA Mojang provided command.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/timings: [0;37;1mManages Spigot Timings data to see performance of the server.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/title: [0;37;1mA Mojang provided command.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/tm: [0;37;1mA Mojang provided command.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/tp: [0;37;1mA Mojang provided command.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/tpa: [0;37;1mSends a teleportation request to someone.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/tpaccept: [0;37;1mAccepts the teleportation request.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/tpahere: [0;37;1mSends a teleport here request to someone.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/tpahereall: [0;37;1mSends a teleport request to everyone[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/tpatoggle: [0;37;1mTurns on and off the teleportation mode.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/tpcancel: [0;37;1mCacenls the teleportation request.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/tpdeny: [0;37;1mDenies the teleportation request.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/tps: [0;37;1mGets the current ticks per second for the server[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/trigger: [0;37;1mA Mojang provided command.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/veinminer: [0;37;1mThe main command for VeinMiner[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/version: [0;37;1mGets the version of this server including any plugins in use[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/w: [0;37;1mA Mojang provided command.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/weather: [0;37;1mA Mojang provided command.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/whitelist: [0;37;1mA Mojang provided command.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/worldborder: [0;37;1mA Mojang provided command.[m
+[12:29:30] [Server thread/INFO]: [0;37;1m[0;33;22m/xp: [0;37;1mA Mojang provided command.[m
+[12:30:07] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[12:30:08] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[12:30:08] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[12:30:09] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[12:30:09] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[12:30:10] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[12:30:10] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[12:30:10] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[12:30:11] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[12:30:11] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[12:30:11] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[12:30:11] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[12:30:11] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[12:30:11] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[12:30:11] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[12:30:12] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[12:30:12] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[12:30:12] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[12:30:12] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[12:30:12] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[12:30:12] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[12:30:12] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[12:30:12] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[12:30:12] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[12:30:13] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[12:30:13] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[12:30:13] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[12:30:13] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[12:30:13] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[12:30:13] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[12:30:13] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[12:30:13] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[12:30:14] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[12:30:14] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[12:30:14] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[12:30:14] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[12:30:14] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[12:30:15] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[12:49:21] [User Authenticator #1/INFO]: UUID of player Huggebugge123 is d27b6796-9e8e-4b96-894a-17e7113ba154
+[12:49:22] [Server thread/INFO]: Huggebugge123[/98.128.180.145:60132] logged in with entity id 277 at ([world]-2246.5871032540667, 110.5625, 1123.5245361073275)
+[12:49:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7211ms or 144 ticks behind
+[12:52:24] [Server thread/INFO]: Huggebugge123 lost connection: Disconnected
+[12:52:24] [Server thread/INFO]: Huggebugge123 left the game
+[12:52:29] [User Authenticator #2/INFO]: UUID of player Huggebugge123 is d27b6796-9e8e-4b96-894a-17e7113ba154
+[12:52:29] [Server thread/INFO]: Huggebugge123[/98.128.180.145:60112] logged in with entity id 813 at ([world]-2228.300000011921, 80.0, 1061.6422208760239)
+[12:56:55] [Server thread/INFO]: Huggebugge123 has made the advancement [Sweet Dreams]
+[12:58:19] [Server thread/INFO]: Huggebugge123 lost connection: Disconnected
+[12:58:19] [Server thread/INFO]: Huggebugge123 left the game
+[12:59:14] [User Authenticator #3/INFO]: UUID of player Huggebugge123 is d27b6796-9e8e-4b96-894a-17e7113ba154
+[12:59:15] [Server thread/INFO]: Huggebugge123[/98.128.180.145:60671] logged in with entity id 1956 at ([world]-2259.8121167452, 67.0, 1203.707224534716)
+[13:01:39] [Server thread/INFO]: Huggebugge123 was shot by Skeleton
+[13:01:46] [Server thread/INFO]: Huggebugge123 issued server command: /back
+[13:02:03] [Server thread/INFO]: Huggebugge123 was shot by Skeleton
+[13:02:09] [Server thread/INFO]: Huggebugge123 issued server command: /back
+[13:02:21] [Server thread/INFO]: Huggebugge123 was slain by Zombie
+[13:02:33] [Server thread/INFO]: Huggebugge123 issued server command: /back
+[13:02:50] [Server thread/INFO]: Huggebugge123 was impaled on a stalagmite whilst fighting Zombie
+[13:02:58] [Server thread/INFO]: Huggebugge123 issued server command: /back
+[13:03:04] [Server thread/INFO]: Huggebugge123 was slain by Zombie
+[13:03:17] [Server thread/INFO]: Huggebugge123 issued server command: /back
+[13:03:25] [Server thread/INFO]: Huggebugge123 was slain by Zombie
+[13:03:36] [Server thread/INFO]: Huggebugge123 issued server command: /back
+[13:04:21] [Server thread/INFO]: Huggebugge123 was blown up by Creeper
+[13:11:36] [User Authenticator #4/INFO]: UUID of player WildFoil8234255 is e6e4c44a-e0a9-454e-98f2-96b4b8bf9be1
+[13:11:37] [Server thread/INFO]: WildFoil8234255[/151.177.134.19:46306] logged in with entity id 5656 at ([world]-195.357610535551, -40.0, 50.01437152386766)
+[13:15:05] [Server thread/INFO]: WildFoil8234255 lost connection: Disconnected
+[13:15:05] [Server thread/INFO]: WildFoil8234255 left the game
+[13:19:06] [User Authenticator #5/INFO]: UUID of player WildFoil8234255 is e6e4c44a-e0a9-454e-98f2-96b4b8bf9be1
+[13:19:06] [Server thread/INFO]: WildFoil8234255[/151.177.134.19:47119] logged in with entity id 7816 at ([world]-303.2712656427255, -49.0, 162.05635484349227)
+[13:19:19] [Server thread/INFO]: WildFoil8234255 lost connection: Disconnected
+[13:19:19] [Server thread/INFO]: WildFoil8234255 left the game
+[13:19:22] [User Authenticator #6/INFO]: UUID of player WildFoil8234255 is e6e4c44a-e0a9-454e-98f2-96b4b8bf9be1
+[13:19:23] [Server thread/INFO]: WildFoil8234255[/151.177.134.19:48708] logged in with entity id 8040 at ([world]-303.2712656427255, -49.0, 162.05635484349227)
+[13:19:45] [Async Chat Thread - #0/INFO]: <Huggebugge123> sov[m
+[13:19:48] [Server thread/INFO]: WildFoil8234255 lost connection: Disconnected
+[13:19:48] [Server thread/INFO]: WildFoil8234255 left the game
+[13:19:57] [User Authenticator #7/INFO]: UUID of player WildFoil8234255 is e6e4c44a-e0a9-454e-98f2-96b4b8bf9be1
+[13:19:57] [Server thread/INFO]: WildFoil8234255[/151.177.134.19:40488] logged in with entity id 8337 at ([world]-283.30000001192093, -53.0, 148.69999998807907)
+[13:21:54] [Async Chat Thread - #1/INFO]: <Huggebugge123> joina dc[m
+[13:22:03] [Async Chat Thread - #1/INFO]: <WildFoil8234255> inte nu[m
+[13:22:10] [Async Chat Thread - #1/INFO]: <Huggebugge123> oke[m
+[13:22:17] [Server thread/INFO]: WildFoil8234255 lost connection: Disconnected
+[13:22:17] [Server thread/INFO]: WildFoil8234255 left the game
+[13:22:25] [User Authenticator #8/INFO]: UUID of player WildFoil8234255 is e6e4c44a-e0a9-454e-98f2-96b4b8bf9be1
+[13:22:25] [Server thread/INFO]: WildFoil8234255[/151.177.134.19:37055] logged in with entity id 9307 at ([world]-295.30000001192093, -59.0, 152.69999998807907)
+[13:22:29] [Server thread/INFO]: WildFoil8234255 tried to swim in lava
+[13:27:49] [Server thread/INFO]: Huggebugge123 has made the advancement [Best Friends Forever]
+[13:31:50] [Server thread/INFO]: WildFoil8234255 lost connection: Disconnected
+[13:31:50] [Server thread/INFO]: WildFoil8234255 left the game
+[13:31:55] [User Authenticator #9/INFO]: UUID of player WildFoil8234255 is e6e4c44a-e0a9-454e-98f2-96b4b8bf9be1
+[13:31:56] [Server thread/INFO]: WildFoil8234255[/151.177.134.19:40482] logged in with entity id 12613 at ([world]-210.1853852164614, -4.0, 24.40060513124386)
+[13:35:24] [Server thread/INFO]: Huggebugge123 lost connection: Disconnected
+[13:35:24] [Server thread/INFO]: Huggebugge123 left the game
+[13:39:16] [User Authenticator #10/INFO]: UUID of player Huggebugge123 is d27b6796-9e8e-4b96-894a-17e7113ba154
+[13:39:17] [Server thread/INFO]: Huggebugge123[/98.128.180.145:60464] logged in with entity id 14277 at ([world]-1800.1333533890743, 64.0, 704.1338251482364)
+[13:41:46] [Server thread/INFO]: WildFoil8234255 lost connection: Disconnected
+[13:41:46] [Server thread/INFO]: WildFoil8234255 left the game
+[14:01:27] [Server thread/INFO]: Huggebugge123 lost connection: Disconnected
+[14:01:27] [Server thread/INFO]: Huggebugge123 left the game
+[14:24:43] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[15:32:10] [Thread-1/INFO]: Stopping server
+[15:32:10] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: Input/output error
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:?]
+	at java.io.FileInputStream.read(FileInputStream.java:276) ~[?:?]
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:244) ~[?:?]
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:263) ~[?:?]
+	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:169) ~[jline-2.12.1.jar:?]
+	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:137) ~[jline-2.12.1.jar:?]
+	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:246) ~[jline-2.12.1.jar:?]
+	at jline.internal.InputStreamReader.read(InputStreamReader.java:261) ~[jline-2.12.1.jar:?]
+	at jline.internal.InputStreamReader.read(InputStreamReader.java:198) ~[jline-2.12.1.jar:?]
+	at jline.console.ConsoleReader.readCharacter(ConsoleReader.java:2145) ~[jline-2.12.1.jar:?]
+	at jline.console.ConsoleReader.readLine(ConsoleReader.java:2349) ~[jline-2.12.1.jar:?]
+	at net.minecraft.server.dedicated.DedicatedServer$1.run(DedicatedServer.java:129) [spigot-1.18.2-R0.1-SNAPSHOT.jar:3491-Spigot-b081915-95d233d]

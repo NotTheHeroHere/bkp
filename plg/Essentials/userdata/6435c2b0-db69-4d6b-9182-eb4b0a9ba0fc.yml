@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 83.233.246.122
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1655053204922
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1655061235643
+  login: 1655060595270
+money: '0'
+last-account-name: NotTheHeroHere
+lastlocation:
+  world: 9c04c5d2-17f0-4a0a-8d21-8faba958e1b3
+  world-name: world
+  x: -1829.3071205362596
+  y: 65.0
+  z: 944.1882818150078
+  yaw: 150.01361083984375
+  pitch: 40.04948425292969
+logoutlocation:
+  world: 9c04c5d2-17f0-4a0a-8d21-8faba958e1b3
+  world-name: world
+  x: -1869.2229841206938
+  y: 52.0
+  z: 963.2676029778394
+  yaw: 148.36245727539062
+  pitch: 11.549911499023438
